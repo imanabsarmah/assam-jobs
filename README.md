@@ -2,8 +2,8 @@
 
 > **Auto-updating job board** for Guwahati and Assam — scrapes Indeed, LinkedIn, Naukri, Shine, Internshala, APSC & more every 6 hours. Deployed free on GitHub Pages.
 
-![Auto-Scrape](https://github.com/YOUR_USERNAME/assam-jobs/actions/workflows/auto-scrape.yml/badge.svg)
-![GitHub Pages](https://img.shields.io/badge/Live%20Site-GitHub%20Pages-blue)
+![Auto-Scrape](https://github.com/imanabsarmah/assam-jobs/actions/workflows/auto-scrape.yml/badge.svg)
+![GitHub Pages](https://imanabsarmah.github.io/assam-jobs/)
 
 ---
 
