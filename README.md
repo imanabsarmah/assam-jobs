@@ -23,7 +23,7 @@
 ### 1. Fork / Clone this repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/assam-jobs.git
+git clone https://github.com/imanabsarmah/assam-jobs.git
 cd assam-jobs
 ```
 
