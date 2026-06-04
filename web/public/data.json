@@ -1,0 +1,67 @@
+{
+  "jobs": [
+    {
+      "id": "seed0001",
+      "title": "Software Engineer (React/Node.js)",
+      "company": "Assam Tech Solutions",
+      "location": "Guwahati, Assam",
+      "source": "LinkedIn",
+      "url": "https://linkedin.com/jobs",
+      "description": "Looking for a skilled React + Node.js developer to join our team in Guwahati. 2+ years experience required.",
+      "posted": "2025-06-01T10:00:00+00:00",
+      "scraped_at": "2025-06-01T12:00:00+00:00",
+      "tags": ["Full-time", "IT/Tech"]
+    },
+    {
+      "id": "seed0002",
+      "title": "Branch Manager - Banking",
+      "company": "State Bank of India",
+      "location": "Guwahati, Assam",
+      "source": "Naukri",
+      "url": "https://naukri.com",
+      "description": "SBI is hiring a Branch Manager for its Guwahati branch. 5+ years banking experience needed.",
+      "posted": "2025-05-30T09:00:00+00:00",
+      "scraped_at": "2025-06-01T12:00:00+00:00",
+      "tags": ["Full-time", "Finance"]
+    },
+    {
+      "id": "seed0003",
+      "title": "APSC Combined Competitive Exam 2025",
+      "company": "APSC",
+      "location": "Assam",
+      "source": "APSC",
+      "url": "https://apsc.nic.in",
+      "description": "Assam Public Service Commission invites applications for Combined Competitive Examination 2025.",
+      "posted": "2025-05-28T08:00:00+00:00",
+      "scraped_at": "2025-06-01T12:00:00+00:00",
+      "tags": ["Government", "PSC"]
+    },
+    {
+      "id": "seed0004",
+      "title": "Digital Marketing Intern",
+      "company": "Northeast Media Hub",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com",
+      "description": "6-month internship in digital marketing. Freshers welcome. Stipend provided.",
+      "posted": "2025-06-01T11:00:00+00:00",
+      "scraped_at": "2025-06-01T12:00:00+00:00",
+      "tags": ["Internship", "Fresher", "Sales"]
+    },
+    {
+      "id": "seed0005",
+      "title": "Staff Nurse (ICU)",
+      "company": "Gauhati Medical College & Hospital",
+      "location": "Guwahati, Assam",
+      "source": "Indeed",
+      "url": "https://indeed.com",
+      "description": "GMCH is hiring ICU Staff Nurses. BSc Nursing with 1 year ICU experience required.",
+      "posted": "2025-05-29T07:00:00+00:00",
+      "scraped_at": "2025-06-01T12:00:00+00:00",
+      "tags": ["Full-time", "Healthcare"]
+    }
+  ],
+  "last_updated": "2025-06-01T12:00:00+00:00",
+  "total": 5,
+  "sources": ["LinkedIn", "Naukri", "APSC", "Internshala", "Indeed"]
+}

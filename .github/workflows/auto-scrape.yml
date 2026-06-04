@@ -1,0 +1,99 @@
+name: 🔍 Auto-Scrape Assam Jobs
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch:    # Also allow manual trigger
+  push:
+    branches: [main]
+    paths:
+      - "scraper/**"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    name: Scrape Jobs & Update Site
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install -r scraper/requirements.txt
+
+      - name: 🔍 Run scraper
+        run: |
+          python scraper/scraper.py
+
+      - name: 📊 Show stats
+        run: |
+          echo "=== Job Stats ==="
+          python -c "
+          import json
+          with open('data/jobs.json') as f:
+              d = json.load(f)
+          print(f'Total jobs: {d[\"total\"]}')
+          print(f'Last updated: {d[\"last_updated\"]}')
+          print(f'Sources: {d[\"sources\"]}')
+          from collections import Counter
+          by_source = Counter(j[\"source\"] for j in d[\"jobs\"])
+          for s, c in by_source.most_common():
+              print(f'  {s}: {c}')
+          "
+
+      - name: 💾 Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/jobs.json
+          git diff --staged --quiet || git commit -m "🔄 Auto-update jobs data [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
+
+  deploy-pages:
+    name: Deploy to GitHub Pages
+    needs: scrape-and-deploy
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 🔧 Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+
+      - name: 📦 Install web dependencies
+        working-directory: web
+        run: npm ci
+
+      - name: 🏗️ Build web app
+        working-directory: web
+        run: npm run build
+        env:
+          PUBLIC_URL: /${{ github.event.repository.name }}
+
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: web/build
