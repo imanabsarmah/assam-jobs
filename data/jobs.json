@@ -1,71 +1,15 @@
 {
   "jobs": [
     {
-      "id": "d96ae826e0",
-      "title": "Operations",
-      "company": "OperationsSargam Ventures Private Limited",
+      "id": "7cd120fe95",
+      "title": "Lead Research And Generation",
+      "company": "Lead Research And GenerationWEB INFOTECH",
       "location": "Guwahati, Assam",
       "source": "Internshala",
-      "url": "https://internshala.com/internship/detail/operations-internship-in-guwahati-at-sargam-ventures-private-limited1780492419",
+      "url": "https://internshala.com/internship/detail/lead-research-and-generation-internship-in-guwahati-at-web-infotech1778221976",
       "description": "",
-      "posted": "2026-06-05T14:20:14.842611+00:00",
-      "scraped_at": "2026-06-05T14:20:14.842613+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "6526a49cf2",
-      "title": "Field Service Engineer - GE Ultrasound (Medical Equipment)",
-      "company": "Field Service Engineer - GE Ultrasound (Medical Equipment)Genworks Health Private Limited (Venture Of GE Heatlhcare)Actively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-field-service-engineer-ge-ultrasound-medical-equipment-job-in-multiple-locations-at-genworks-health-private-limited-venture-of-ge-heatlhcare1777725920",
-      "description": "",
-      "posted": "2026-06-05T14:20:14.840732+00:00",
-      "scraped_at": "2026-06-05T14:20:14.840734+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "35ba8ad7bc",
-      "title": "Career Guidance Executive",
-      "company": "Career Guidance ExecutiveAlvineientActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-career-guidance-executive-job-in-guwahati-at-alvineient1779342059",
-      "description": "",
-      "posted": "2026-06-05T14:20:14.839454+00:00",
-      "scraped_at": "2026-06-05T14:20:14.839456+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "daef678b96",
-      "title": "Junior Engineering Assistant",
-      "company": "Junior Engineering AssistantIndian Oil",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/junior-engineering-assistant-job-in-guwahati-at-indian-oil1779842360",
-      "description": "",
-      "posted": "2026-06-05T14:20:14.838281+00:00",
-      "scraped_at": "2026-06-05T14:20:14.838284+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "c2525101bd",
-      "title": "Client Acquisition Specialist",
-      "company": "Client Acquisition SpecialistFuturists",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/client-acquisition-specialist-job-in-guwahati-at-futurists1778062720",
-      "description": "",
-      "posted": "2026-06-05T14:20:14.836792+00:00",
-      "scraped_at": "2026-06-05T14:20:14.836794+00:00",
+      "posted": "2026-06-05T19:28:33.781232+00:00",
+      "scraped_at": "2026-06-05T19:28:33.781234+00:00",
       "tags": [
         "Internship"
       ]
@@ -78,8 +22,36 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/application-support-dev-ops-job-in-guwahati-at-jio1775781016",
       "description": "",
-      "posted": "2026-06-05T14:20:14.835632+00:00",
-      "scraped_at": "2026-06-05T14:20:14.835635+00:00",
+      "posted": "2026-06-05T19:28:33.780105+00:00",
+      "scraped_at": "2026-06-05T19:28:33.780107+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "35ba8ad7bc",
+      "title": "Career Guidance Executive",
+      "company": "Career Guidance ExecutiveAlvineientActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-career-guidance-executive-job-in-guwahati-at-alvineient1779342059",
+      "description": "",
+      "posted": "2026-06-05T19:28:33.778922+00:00",
+      "scraped_at": "2026-06-05T19:28:33.778924+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "6526a49cf2",
+      "title": "Field Service Engineer - GE Ultrasound (Medical Equipment)",
+      "company": "Field Service Engineer - GE Ultrasound (Medical Equipment)Genworks Health Private Limited (Venture Of GE Heatlhcare)Actively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-field-service-engineer-ge-ultrasound-medical-equipment-job-in-multiple-locations-at-genworks-health-private-limited-venture-of-ge-heatlhcare1777725920",
+      "description": "",
+      "posted": "2026-06-05T19:28:33.777146+00:00",
+      "scraped_at": "2026-06-05T19:28:33.777149+00:00",
       "tags": [
         "Internship"
       ]
@@ -92,8 +64,36 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/part-time-junior-accountant-job-in-guwahati-at-axompot-private-limited1778781816",
       "description": "",
-      "posted": "2026-06-05T14:20:14.834236+00:00",
-      "scraped_at": "2026-06-05T14:20:14.834253+00:00",
+      "posted": "2026-06-05T19:28:33.775756+00:00",
+      "scraped_at": "2026-06-05T19:28:33.775758+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "2419aa3d8c",
+      "title": "Business Development Executive",
+      "company": "Business Development ExecutiveRevonextsoft",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-multiple-locations-at-revonextsoft1778343874",
+      "description": "",
+      "posted": "2026-06-05T19:28:33.773866+00:00",
+      "scraped_at": "2026-06-05T19:28:33.773869+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "7bacc56999",
+      "title": "Business Development Executive",
+      "company": "Business Development ExecutiveMagnus FurnitureActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/business-development-executive-job-in-guwahati-at-magnus-furniture1779166835",
+      "description": "",
+      "posted": "2026-06-05T19:28:33.772515+00:00",
+      "scraped_at": "2026-06-05T19:28:33.772532+00:00",
       "tags": [
         "Internship"
       ]
@@ -106,8 +106,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/apply-hiring-job-sr-managing-partner-life-insurance-salary-good/niyukti-management-consultants/19077083",
       "description": "",
-      "posted": "2026-06-05T14:20:14.137639+00:00",
-      "scraped_at": "2026-06-05T14:20:14.137643+00:00",
+      "posted": "2026-06-05T19:28:32.306978+00:00",
+      "scraped_at": "2026-06-05T19:28:32.306981+00:00",
       "tags": []
     },
     {
@@ -118,120 +118,124 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/scrub-technician/evoke-hr-solutions-pvt-ltd/19075464",
       "description": "",
-      "posted": "2026-06-05T14:20:14.134721+00:00",
-      "scraped_at": "2026-06-05T14:20:14.134737+00:00",
+      "posted": "2026-06-05T19:28:32.304104+00:00",
+      "scraped_at": "2026-06-05T19:28:32.304131+00:00",
       "tags": []
     },
     {
-      "id": "6cade906ff",
-      "title": "Area Sales Executive",
-      "company": "Mars",
-      "location": "Tezpur, Assam, India",
+      "id": "4aa7b5b90d",
+      "title": "Production Engineer",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/area-sales-executive-at-mars-4424711591",
+      "url": "https://in.linkedin.com/jobs/view/production-engineer-at-tata-electronics-4420736298",
       "description": "",
-      "posted": "2026-06-05T14:20:09.246249+00:00",
-      "scraped_at": "2026-06-05T14:20:09.246250+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "id": "eb9599e992",
-      "title": "front office and admin",
-      "company": "shristicarrerways",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/front-office-and-admin-at-shristicarrerways-4424564281",
-      "description": "",
-      "posted": "2026-06-05T14:20:09.245183+00:00",
-      "scraped_at": "2026-06-05T14:20:09.245185+00:00",
-      "tags": []
-    },
-    {
-      "id": "ad08d688f3",
-      "title": "Hiring in Ground Staff at Airport",
-      "company": "MILLENNIUM GLOBAL SERVICE",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/hiring-in-ground-staff-at-airport-at-millennium-global-service-4424194288",
-      "description": "",
-      "posted": "2026-06-05T14:20:09.244979+00:00",
-      "scraped_at": "2026-06-05T14:20:09.244982+00:00",
-      "tags": []
-    },
-    {
-      "id": "4bf323fc37",
-      "title": "Warehouse Associate",
-      "company": "SINCLUS",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/warehouse-associate-at-sinclus-4420711459",
-      "description": "",
-      "posted": "2026-06-05T14:20:09.244767+00:00",
-      "scraped_at": "2026-06-05T14:20:09.244768+00:00",
-      "tags": []
-    },
-    {
-      "id": "1e59346189",
-      "title": "Database Administrator",
-      "company": "Kran Consulting Pvt. Ltd",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/database-administrator-at-kran-consulting-pvt-ltd-4421337996",
-      "description": "",
-      "posted": "2026-06-05T14:20:09.244567+00:00",
-      "scraped_at": "2026-06-05T14:20:09.244569+00:00",
+      "posted": "2026-06-05T19:28:27.381426+00:00",
+      "scraped_at": "2026-06-05T19:28:27.381429+00:00",
       "tags": [
         "IT/Tech"
       ]
     },
     {
-      "id": "ee7952ad6a",
-      "title": "Commis - Bakery",
-      "company": "Accor",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/commis-bakery-at-accor-4423917995",
-      "description": "",
-      "posted": "2026-06-05T14:20:09.242901+00:00",
-      "scraped_at": "2026-06-05T14:20:09.242903+00:00",
-      "tags": []
-    },
-    {
-      "id": "a01ed8f5c4",
-      "title": "MES Business Analyst",
+      "id": "ac9ce11db5",
+      "title": "Customer Quality Engineer",
       "company": "Tata Electronics",
       "location": "Mayang, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/mes-business-analyst-at-tata-electronics-4395017607",
+      "url": "https://in.linkedin.com/jobs/view/customer-quality-engineer-at-tata-electronics-4396451668",
       "description": "",
-      "posted": "2026-06-05T14:20:09.242674+00:00",
-      "scraped_at": "2026-06-05T14:20:09.242676+00:00",
-      "tags": []
+      "posted": "2026-06-05T19:28:27.381204+00:00",
+      "scraped_at": "2026-06-05T19:28:27.381206+00:00",
+      "tags": [
+        "IT/Tech"
+      ]
     },
     {
-      "id": "0286950798",
-      "title": "Equipment Technician",
+      "id": "b15309c10c",
+      "title": "SQE Technician",
       "company": "Tata Electronics",
       "location": "Mayang, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/equipment-technician-at-tata-electronics-4420725657",
+      "url": "https://in.linkedin.com/jobs/view/sqe-technician-at-tata-electronics-4402471979",
       "description": "",
-      "posted": "2026-06-05T14:20:09.242456+00:00",
-      "scraped_at": "2026-06-05T14:20:09.242458+00:00",
+      "posted": "2026-06-05T19:28:27.380551+00:00",
+      "scraped_at": "2026-06-05T19:28:27.380553+00:00",
       "tags": []
     },
     {
-      "id": "9ab86fb366",
-      "title": "Reservations Associate",
-      "company": "Accor",
-      "location": "Guwahati, Assam, India",
+      "id": "8dddeaeb09",
+      "title": "Industrial Engineer",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/reservations-associate-at-accor-4422881668",
+      "url": "https://in.linkedin.com/jobs/view/industrial-engineer-at-tata-electronics-4397533741",
       "description": "",
-      "posted": "2026-06-05T14:20:09.242210+00:00",
-      "scraped_at": "2026-06-05T14:20:09.242227+00:00",
+      "posted": "2026-06-05T19:28:27.380140+00:00",
+      "scraped_at": "2026-06-05T19:28:27.380142+00:00",
+      "tags": [
+        "IT/Tech"
+      ]
+    },
+    {
+      "id": "aa4410bc84",
+      "title": "Lead - Commercial Sourcing",
+      "company": "Tata Electronics",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/lead-commercial-sourcing-at-tata-electronics-4420104706",
+      "description": "",
+      "posted": "2026-06-05T19:28:27.379920+00:00",
+      "scraped_at": "2026-06-05T19:28:27.379922+00:00",
+      "tags": []
+    },
+    {
+      "id": "d844018af7",
+      "title": "Production Shift Manager",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/production-shift-manager-at-tata-electronics-4420717977",
+      "description": "",
+      "posted": "2026-06-05T19:28:27.379298+00:00",
+      "scraped_at": "2026-06-05T19:28:27.379300+00:00",
+      "tags": []
+    },
+    {
+      "id": "5bb7126a53",
+      "title": "Branch Manager - Direct Marketing",
+      "company": "Aditya Birla Capital",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/branch-manager-direct-marketing-at-aditya-birla-capital-4413144860",
+      "description": "",
+      "posted": "2026-06-05T19:28:27.378869+00:00",
+      "scraped_at": "2026-06-05T19:28:27.378870+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "68ab90099e",
+      "title": "Cluster Manager - Axis- Bongaigaon",
+      "company": "Aditya Birla Capital",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/cluster-manager-axis-bongaigaon-at-aditya-birla-capital-4385127225",
+      "description": "",
+      "posted": "2026-06-05T19:28:27.378655+00:00",
+      "scraped_at": "2026-06-05T19:28:27.378657+00:00",
+      "tags": []
+    },
+    {
+      "id": "3e77c34399",
+      "title": "Training Manager",
+      "company": "Aditya Birla Capital",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/training-manager-at-aditya-birla-capital-4391380770",
+      "description": "",
+      "posted": "2026-06-05T19:28:27.378240+00:00",
+      "scraped_at": "2026-06-05T19:28:27.378243+00:00",
       "tags": []
     },
     {
@@ -242,8 +246,20 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-commercial-manager-at-century-plyboards-i-limited-4422407555",
       "description": "",
-      "posted": "2026-06-05T14:20:06.439047+00:00",
-      "scraped_at": "2026-06-05T14:20:06.439049+00:00",
+      "posted": "2026-06-05T19:28:24.690645+00:00",
+      "scraped_at": "2026-06-05T19:28:24.690647+00:00",
+      "tags": []
+    },
+    {
+      "id": "591b180b52",
+      "title": "Airport Ground Staff Jobs in Dibrugarh Airport",
+      "company": "MILLENNIUM GLOBAL SERVICE",
+      "location": "Dibrugarh East, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/airport-ground-staff-jobs-in-dibrugarh-airport-at-millennium-global-service-4424187327",
+      "description": "",
+      "posted": "2026-06-05T19:28:24.690436+00:00",
+      "scraped_at": "2026-06-05T19:28:24.690438+00:00",
       "tags": []
     },
     {
@@ -254,8 +270,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/state-compliance-lead-at-jio-4424337778",
       "description": "",
-      "posted": "2026-06-05T14:20:06.438826+00:00",
-      "scraped_at": "2026-06-05T14:20:06.438828+00:00",
+      "posted": "2026-06-05T19:28:24.690228+00:00",
+      "scraped_at": "2026-06-05T19:28:24.690230+00:00",
       "tags": []
     },
     {
@@ -266,23 +282,11 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/engineer-service-at-hach-4414572891",
       "description": "",
-      "posted": "2026-06-05T14:20:06.438623+00:00",
-      "scraped_at": "2026-06-05T14:20:06.438625+00:00",
+      "posted": "2026-06-05T19:28:24.690006+00:00",
+      "scraped_at": "2026-06-05T19:28:24.690007+00:00",
       "tags": [
         "IT/Tech"
       ]
-    },
-    {
-      "id": "77ae794b29",
-      "title": "Associate Relationship Manager-Corporate Liability",
-      "company": "IDFC FIRST Bank",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/associate-relationship-manager-corporate-liability-at-idfc-first-bank-4411309423",
-      "description": "",
-      "posted": "2026-06-05T14:20:06.438417+00:00",
-      "scraped_at": "2026-06-05T14:20:06.438419+00:00",
-      "tags": []
     },
     {
       "id": "231040cec8",
@@ -292,8 +296,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/project-associate-%E2%80%93-guwahati-at-intas-foundation-4424165921",
       "description": "",
-      "posted": "2026-06-05T14:20:06.438213+00:00",
-      "scraped_at": "2026-06-05T14:20:06.438215+00:00",
+      "posted": "2026-06-05T19:28:24.689802+00:00",
+      "scraped_at": "2026-06-05T19:28:24.689804+00:00",
       "tags": []
     },
     {
@@ -304,8 +308,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/occupational-health-safety-inspector-at-smec-an-sj-group-company-4414921485",
       "description": "",
-      "posted": "2026-06-05T14:20:06.438000+00:00",
-      "scraped_at": "2026-06-05T14:20:06.438002+00:00",
+      "posted": "2026-06-05T19:28:24.689592+00:00",
+      "scraped_at": "2026-06-05T19:28:24.689594+00:00",
       "tags": []
     },
     {
@@ -316,8 +320,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/territory-account-manager-at-johnson-johnson-medtech-4421696424",
       "description": "",
-      "posted": "2026-06-05T14:20:06.437773+00:00",
-      "scraped_at": "2026-06-05T14:20:06.437775+00:00",
+      "posted": "2026-06-05T19:28:24.689383+00:00",
+      "scraped_at": "2026-06-05T19:28:24.689385+00:00",
       "tags": []
     },
     {
@@ -328,8 +332,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/deputy-manager-civil-at-adani-power-4372254000",
       "description": "",
-      "posted": "2026-06-05T14:20:06.437565+00:00",
-      "scraped_at": "2026-06-05T14:20:06.437566+00:00",
+      "posted": "2026-06-05T19:28:24.689171+00:00",
+      "scraped_at": "2026-06-05T19:28:24.689173+00:00",
       "tags": []
     },
     {
@@ -340,8 +344,20 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/associate-manager-administration-at-adani-power-4424189690",
       "description": "",
-      "posted": "2026-06-05T14:20:06.437349+00:00",
-      "scraped_at": "2026-06-05T14:20:06.437351+00:00",
+      "posted": "2026-06-05T19:28:24.688944+00:00",
+      "scraped_at": "2026-06-05T19:28:24.688946+00:00",
+      "tags": []
+    },
+    {
+      "id": "006715ab72",
+      "title": "Quality Assurance Manager",
+      "company": "JB Group of Companies",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/quality-assurance-manager-at-jb-group-of-companies-4422566558",
+      "description": "",
+      "posted": "2026-06-05T19:28:24.688732+00:00",
+      "scraped_at": "2026-06-05T19:28:24.688734+00:00",
       "tags": []
     },
     {
@@ -352,8 +368,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/relationship-manager-guwahati-at-aditya-birla-capital-4404014071",
       "description": "",
-      "posted": "2026-06-05T14:20:06.437130+00:00",
-      "scraped_at": "2026-06-05T14:20:06.437132+00:00",
+      "posted": "2026-06-05T19:28:24.688522+00:00",
+      "scraped_at": "2026-06-05T19:28:24.688524+00:00",
       "tags": []
     },
     {
@@ -364,8 +380,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-manager-control-reporting-at-pepsico-4380225924",
       "description": "",
-      "posted": "2026-06-05T14:20:06.436923+00:00",
-      "scraped_at": "2026-06-05T14:20:06.436925+00:00",
+      "posted": "2026-06-05T19:28:24.688301+00:00",
+      "scraped_at": "2026-06-05T19:28:24.688303+00:00",
       "tags": []
     },
     {
@@ -376,8 +392,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/retail-sales-manager-guwahati-at-aditya-birla-capital-4421391189",
       "description": "",
-      "posted": "2026-06-05T14:20:06.436692+00:00",
-      "scraped_at": "2026-06-05T14:20:06.436694+00:00",
+      "posted": "2026-06-05T19:28:24.688073+00:00",
+      "scraped_at": "2026-06-05T19:28:24.688075+00:00",
       "tags": [
         "Sales"
       ]
@@ -390,8 +406,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-manager-civil-projects-at-adani-power-4381966384",
       "description": "",
-      "posted": "2026-06-05T14:20:06.436478+00:00",
-      "scraped_at": "2026-06-05T14:20:06.436480+00:00",
+      "posted": "2026-06-05T19:28:24.687857+00:00",
+      "scraped_at": "2026-06-05T19:28:24.687859+00:00",
       "tags": []
     },
     {
@@ -402,20 +418,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/store-manager-dtc-at-airtel-4419692824",
       "description": "",
-      "posted": "2026-06-05T14:20:06.436259+00:00",
-      "scraped_at": "2026-06-05T14:20:06.436261+00:00",
-      "tags": []
-    },
-    {
-      "id": "006715ab72",
-      "title": "Quality Assurance Manager",
-      "company": "JB Group of Companies",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/quality-assurance-manager-at-jb-group-of-companies-4422566558",
-      "description": "",
-      "posted": "2026-06-05T14:20:06.436051+00:00",
-      "scraped_at": "2026-06-05T14:20:06.436053+00:00",
+      "posted": "2026-06-05T19:28:24.687644+00:00",
+      "scraped_at": "2026-06-05T19:28:24.687646+00:00",
       "tags": []
     },
     {
@@ -426,8 +430,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/team-member-cr-ops-guwahati-at-aditya-birla-capital-4413737695",
       "description": "",
-      "posted": "2026-06-05T14:20:06.435821+00:00",
-      "scraped_at": "2026-06-05T14:20:06.435823+00:00",
+      "posted": "2026-06-05T19:28:24.687429+00:00",
+      "scraped_at": "2026-06-05T19:28:24.687431+00:00",
       "tags": []
     },
     {
@@ -438,8 +442,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/engineer-customer-service-assam-at-jungheinrich-india-4423931206",
       "description": "",
-      "posted": "2026-06-05T14:20:06.435611+00:00",
-      "scraped_at": "2026-06-05T14:20:06.435613+00:00",
+      "posted": "2026-06-05T19:28:24.687215+00:00",
+      "scraped_at": "2026-06-05T19:28:24.687218+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -452,8 +456,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-manager-civil-at-adani-power-4372246244",
       "description": "",
-      "posted": "2026-06-05T14:20:06.435395+00:00",
-      "scraped_at": "2026-06-05T14:20:06.435397+00:00",
+      "posted": "2026-06-05T19:28:24.686981+00:00",
+      "scraped_at": "2026-06-05T19:28:24.686983+00:00",
       "tags": []
     },
     {
@@ -464,8 +468,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/lead-contract-administration-at-adani-airport-holdings-ltd-4414715081",
       "description": "",
-      "posted": "2026-06-05T14:20:06.435164+00:00",
-      "scraped_at": "2026-06-05T14:20:06.435167+00:00",
+      "posted": "2026-06-05T19:28:24.686741+00:00",
+      "scraped_at": "2026-06-05T19:28:24.686743+00:00",
       "tags": []
     },
     {
@@ -476,18 +480,18 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/medical-officer-at-reliance-industries-limited-4278065754",
       "description": "",
-      "posted": "2026-06-05T14:20:06.434854+00:00",
-      "scraped_at": "2026-06-05T14:20:06.434875+00:00",
+      "posted": "2026-06-05T19:28:24.686434+00:00",
+      "scraped_at": "2026-06-05T19:28:24.686455+00:00",
       "tags": [
         "Healthcare"
       ]
     }
   ],
-  "last_updated": "2026-06-05T14:20:34.046469+00:00",
+  "last_updated": "2026-06-05T19:28:52.995987+00:00",
   "total": 38,
   "sources": [
-    "Internshala",
+    "LinkedIn",
     "Shine",
-    "LinkedIn"
+    "Internshala"
   ]
 }
