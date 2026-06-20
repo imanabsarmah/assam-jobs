@@ -1,76 +1,6 @@
 {
   "jobs": [
     {
-      "id": "85c1f28e55",
-      "title": "Sales & Business Development (B2B Enterprise Solutions)",
-      "company": "Sales & Business Development (B2B Enterprise Solutions)Karate Academy, Bharat",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/internship/detail/sales-business-development-b2b-enterprise-solutions-internship-in-guwahati-at-karate-academy-bharat1781860177",
-      "description": "",
-      "posted": "2026-06-20T08:38:35.857958+00:00",
-      "scraped_at": "2026-06-20T08:38:35.857959+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "e5e3bf1c6a",
-      "title": "Influencer Marketing",
-      "company": "Influencer MarketingMadify Media Private Limited",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/internship/detail/influencer-marketing-internship-in-guwahati-at-madify-media-private-limited1780910644",
-      "description": "",
-      "posted": "2026-06-20T08:38:35.856785+00:00",
-      "scraped_at": "2026-06-20T08:38:35.856786+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "4284ba5edc",
-      "title": "Student Relationship Executive",
-      "company": "Student Relationship ExecutiveAlvineientActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-student-relationship-executive-job-in-multiple-locations-at-alvineient1781679294",
-      "description": "",
-      "posted": "2026-06-20T08:38:35.855811+00:00",
-      "scraped_at": "2026-06-20T08:38:35.855813+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "70e042762a",
-      "title": "General Management Trainee",
-      "company": "General Management TraineeGotisheel Technologies",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-general-management-trainee-job-in-guwahati-at-gotisheel-technologies1780845688",
-      "description": "",
-      "posted": "2026-06-20T08:38:35.854719+00:00",
-      "scraped_at": "2026-06-20T08:38:35.854721+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "2d992603f5",
-      "title": "Fashion Designer",
-      "company": "Fashion DesignerSakhi Saheli",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-fashion-designer-job-in-multiple-locations-at-sakhi-saheli1781374120",
-      "description": "",
-      "posted": "2026-06-20T08:38:35.853418+00:00",
-      "scraped_at": "2026-06-20T08:38:35.853420+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
       "id": "f100e0f59e",
       "title": "Plant Manager - Manufacturing Unit",
       "company": "Plant Manager - Manufacturing UnitGM Moulders",
@@ -78,8 +8,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/plant-manager-manufacturing-unit-job-in-multiple-locations-at-gm-moulders1781344928",
       "description": "",
-      "posted": "2026-06-20T08:38:35.852096+00:00",
-      "scraped_at": "2026-06-20T08:38:35.852099+00:00",
+      "posted": "2026-06-20T13:22:58.620146+00:00",
+      "scraped_at": "2026-06-20T13:22:58.620148+00:00",
       "tags": [
         "Internship"
       ]
@@ -92,8 +22,78 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-career-guidance-executive-job-in-guwahati-at-alvineient1779342059",
       "description": "",
-      "posted": "2026-06-20T08:38:35.851092+00:00",
-      "scraped_at": "2026-06-20T08:38:35.851107+00:00",
+      "posted": "2026-06-20T13:22:58.618911+00:00",
+      "scraped_at": "2026-06-20T13:22:58.618914+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "6526a49cf2",
+      "title": "Field Service Engineer - GE Ultrasound (Medical Equipment)",
+      "company": "Field Service Engineer - GE Ultrasound (Medical Equipment)Genworks Health Private Limited (Venture Of GE Heatlhcare)Actively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-field-service-engineer-ge-ultrasound-medical-equipment-job-in-multiple-locations-at-genworks-health-private-limited-venture-of-ge-heatlhcare1777725920",
+      "description": "",
+      "posted": "2026-06-20T13:22:58.617104+00:00",
+      "scraped_at": "2026-06-20T13:22:58.617106+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "2d992603f5",
+      "title": "Fashion Designer",
+      "company": "Fashion DesignerSakhi Saheli",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-fashion-designer-job-in-multiple-locations-at-sakhi-saheli1781374120",
+      "description": "",
+      "posted": "2026-06-20T13:22:58.615376+00:00",
+      "scraped_at": "2026-06-20T13:22:58.615379+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "70e042762a",
+      "title": "General Management Trainee",
+      "company": "General Management TraineeGotisheel Technologies",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-general-management-trainee-job-in-guwahati-at-gotisheel-technologies1780845688",
+      "description": "",
+      "posted": "2026-06-20T13:22:58.613906+00:00",
+      "scraped_at": "2026-06-20T13:22:58.613908+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "4284ba5edc",
+      "title": "Student Relationship Executive",
+      "company": "Student Relationship ExecutiveAlvineientActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-student-relationship-executive-job-in-multiple-locations-at-alvineient1781679294",
+      "description": "",
+      "posted": "2026-06-20T13:22:58.612612+00:00",
+      "scraped_at": "2026-06-20T13:22:58.612615+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "e5e3bf1c6a",
+      "title": "Influencer Marketing",
+      "company": "Influencer MarketingMadify Media Private Limited",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/internship/detail/influencer-marketing-internship-in-guwahati-at-madify-media-private-limited1780910644",
+      "description": "",
+      "posted": "2026-06-20T13:22:58.611030+00:00",
+      "scraped_at": "2026-06-20T13:22:58.611047+00:00",
       "tags": [
         "Internship"
       ]
@@ -106,142 +106,46 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/talent-acquisition-specialist/firon-consulting/19105968",
       "description": "",
-      "posted": "2026-06-20T08:38:34.049448+00:00",
-      "scraped_at": "2026-06-20T08:38:34.049460+00:00",
+      "posted": "2026-06-20T13:22:57.570181+00:00",
+      "scraped_at": "2026-06-20T13:22:57.570197+00:00",
       "tags": []
     },
     {
-      "id": "4cab1207da",
-      "title": "Area Sales Officer",
-      "company": "Piramal Pharma Ltd",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/area-sales-officer-at-piramal-pharma-ltd-4425744924",
-      "description": "",
-      "posted": "2026-06-20T08:38:28.849839+00:00",
-      "scraped_at": "2026-06-20T08:38:28.849840+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "id": "6303542df0",
-      "title": "Call Center Manager-Debt Management",
-      "company": "IDFC FIRST Bank",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/call-center-manager-debt-management-at-idfc-first-bank-4421085092",
-      "description": "",
-      "posted": "2026-06-20T08:38:28.849676+00:00",
-      "scraped_at": "2026-06-20T08:38:28.849678+00:00",
-      "tags": []
-    },
-    {
-      "id": "881677a70d",
-      "title": "Operations Executive (IXR)",
-      "company": "Blue Dart",
-      "location": "Silchar, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/operations-executive-ixr-at-blue-dart-4429033230",
-      "description": "",
-      "posted": "2026-06-20T08:38:28.849195+00:00",
-      "scraped_at": "2026-06-20T08:38:28.849196+00:00",
-      "tags": []
-    },
-    {
-      "id": "12a9bf3bf3",
-      "title": "Job Position",
-      "company": "Ginger Telecom",
-      "location": "Jonai, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/job-position-at-ginger-telecom-4428507769",
-      "description": "",
-      "posted": "2026-06-20T08:38:28.848873+00:00",
-      "scraped_at": "2026-06-20T08:38:28.848874+00:00",
-      "tags": []
-    },
-    {
-      "id": "61d80e46f9",
-      "title": "Junior Relationship Manager",
-      "company": "Pay1",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/junior-relationship-manager-at-pay1-4427339031",
-      "description": "",
-      "posted": "2026-06-20T08:38:28.848535+00:00",
-      "scraped_at": "2026-06-20T08:38:28.848537+00:00",
-      "tags": []
-    },
-    {
-      "id": "0286950798",
-      "title": "Equipment Technician",
+      "id": "8a80ba3a22",
+      "title": "QMS Engineer",
       "company": "Tata Electronics",
       "location": "Mayang, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/equipment-technician-at-tata-electronics-4427363892",
+      "url": "https://in.linkedin.com/jobs/view/qms-engineer-at-tata-electronics-4390026933",
       "description": "",
-      "posted": "2026-06-20T08:38:28.847527+00:00",
-      "scraped_at": "2026-06-20T08:38:28.847528+00:00",
-      "tags": []
+      "posted": "2026-06-20T13:22:52.141349+00:00",
+      "scraped_at": "2026-06-20T13:22:52.141352+00:00",
+      "tags": [
+        "IT/Tech"
+      ]
     },
     {
-      "id": "38f6fb1523",
-      "title": "Office Associate",
-      "company": "US Advisor",
-      "location": "Mahmara, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/office-associate-at-us-advisor-4429610673",
-      "description": "",
-      "posted": "2026-06-20T08:38:25.914580+00:00",
-      "scraped_at": "2026-06-20T08:38:25.914581+00:00",
-      "tags": []
-    },
-    {
-      "id": "7b83c82e92",
-      "title": "SAP Ariba Specialist",
+      "id": "35d6c8fdde",
+      "title": "Line Quality Technician",
       "company": "Tata Electronics",
-      "location": "Assam, India",
+      "location": "Mayang, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/sap-ariba-specialist-at-tata-electronics-4430440864",
+      "url": "https://in.linkedin.com/jobs/view/line-quality-technician-at-tata-electronics-4390536994",
       "description": "",
-      "posted": "2026-06-20T08:38:25.914248+00:00",
-      "scraped_at": "2026-06-20T08:38:25.914249+00:00",
+      "posted": "2026-06-20T13:22:52.141133+00:00",
+      "scraped_at": "2026-06-20T13:22:52.141135+00:00",
       "tags": []
     },
     {
-      "id": "d71116ed61",
-      "title": "Student Counsellor",
-      "company": "Admissify Edutech",
-      "location": "Guwahati, Assam, India",
+      "id": "1dc04eee70",
+      "title": "Production Manager",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/student-counsellor-at-admissify-edutech-4429655077",
+      "url": "https://in.linkedin.com/jobs/view/production-manager-at-tata-electronics-4417647616",
       "description": "",
-      "posted": "2026-06-20T08:38:25.914088+00:00",
-      "scraped_at": "2026-06-20T08:38:25.914089+00:00",
-      "tags": []
-    },
-    {
-      "id": "8613f299e4",
-      "title": "Operations Support Manager",
-      "company": "Reliance Retail",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/operations-support-manager-at-reliance-retail-4252495287",
-      "description": "",
-      "posted": "2026-06-20T08:38:25.913925+00:00",
-      "scraped_at": "2026-06-20T08:38:25.913926+00:00",
-      "tags": []
-    },
-    {
-      "id": "142c62ef35",
-      "title": "Executive Housekeeper",
-      "company": "Hilton",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/executive-housekeeper-at-hilton-4430993536",
-      "description": "",
-      "posted": "2026-06-20T08:38:25.913755+00:00",
-      "scraped_at": "2026-06-20T08:38:25.913757+00:00",
+      "posted": "2026-06-20T13:22:52.139849+00:00",
+      "scraped_at": "2026-06-20T13:22:52.139851+00:00",
       "tags": []
     },
     {
@@ -252,32 +156,44 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/csa-store-operations-at-reliance-retail-4337972625",
       "description": "",
-      "posted": "2026-06-20T08:38:25.913595+00:00",
-      "scraped_at": "2026-06-20T08:38:25.913598+00:00",
+      "posted": "2026-06-20T13:22:52.139632+00:00",
+      "scraped_at": "2026-06-20T13:22:52.139633+00:00",
       "tags": []
     },
     {
-      "id": "3379927bd6",
-      "title": "Supervisor - ILHBS",
-      "company": "Adani Airport Holdings Ltd",
-      "location": "Guwahati, Assam, India",
+      "id": "6c01893e2b",
+      "title": "Cluster Manager_EM_Mangaldoi",
+      "company": "Aditya Birla Capital",
+      "location": "Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/supervisor-ilhbs-at-adani-airport-holdings-ltd-4361991446",
+      "url": "https://in.linkedin.com/jobs/view/cluster-manager-em-mangaldoi-at-aditya-birla-capital-4341013140",
       "description": "",
-      "posted": "2026-06-20T08:38:25.913397+00:00",
-      "scraped_at": "2026-06-20T08:38:25.913398+00:00",
+      "posted": "2026-06-20T13:22:52.139422+00:00",
+      "scraped_at": "2026-06-20T13:22:52.139424+00:00",
       "tags": []
     },
     {
-      "id": "0af8c8dc7d",
-      "title": "Store Manager_Smart Bazaar",
-      "company": "Reliance Retail",
-      "location": "Guwahati, Assam, India",
+      "id": "1d7c49f93b",
+      "title": "Cluster Manager",
+      "company": "Aditya Birla Capital",
+      "location": "Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/store-manager-smart-bazaar-at-reliance-retail-4425760688",
+      "url": "https://in.linkedin.com/jobs/view/cluster-manager-at-aditya-birla-capital-4430131652",
       "description": "",
-      "posted": "2026-06-20T08:38:25.913240+00:00",
-      "scraped_at": "2026-06-20T08:38:25.913241+00:00",
+      "posted": "2026-06-20T13:22:52.138998+00:00",
+      "scraped_at": "2026-06-20T13:22:52.139000+00:00",
+      "tags": []
+    },
+    {
+      "id": "cef8f64612",
+      "title": "Cluster Manager - HDFC Securties - Patna",
+      "company": "Aditya Birla Capital",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/cluster-manager-hdfc-securties-patna-at-aditya-birla-capital-4400638152",
+      "description": "",
+      "posted": "2026-06-20T13:22:52.138122+00:00",
+      "scraped_at": "2026-06-20T13:22:52.138125+00:00",
       "tags": []
     },
     {
@@ -288,118 +204,120 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/acquisition-engagement-manager-at-idfc-first-bank-4427474498",
       "description": "",
-      "posted": "2026-06-20T08:38:25.913080+00:00",
-      "scraped_at": "2026-06-20T08:38:25.913082+00:00",
+      "posted": "2026-06-20T13:22:49.322844+00:00",
+      "scraped_at": "2026-06-20T13:22:49.322846+00:00",
       "tags": []
     },
     {
-      "id": "5b6e0177a5",
-      "title": "Area Manager-RCU",
-      "company": "IDFC FIRST Bank",
+      "id": "4e7b731f93",
+      "title": "Techncial operations engineer",
+      "company": "Blueways Water Solutions",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/area-manager-rcu-at-idfc-first-bank-4427750313",
+      "url": "https://in.linkedin.com/jobs/view/techncial-operations-engineer-at-blueways-water-solutions-4427369264",
       "description": "",
-      "posted": "2026-06-20T08:38:25.912898+00:00",
-      "scraped_at": "2026-06-20T08:38:25.912899+00:00",
-      "tags": []
-    },
-    {
-      "id": "8150c7dc12",
-      "title": "Junior Accountant",
-      "company": "The Kamrup Industrial Gases Limited",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/junior-accountant-at-the-kamrup-industrial-gases-limited-4431194265",
-      "description": "",
-      "posted": "2026-06-20T08:38:25.912734+00:00",
-      "scraped_at": "2026-06-20T08:38:25.912736+00:00",
+      "posted": "2026-06-20T13:22:49.322619+00:00",
+      "scraped_at": "2026-06-20T13:22:49.322621+00:00",
       "tags": [
-        "Finance"
+        "IT/Tech"
       ]
     },
     {
-      "id": "c6a058c5b8",
-      "title": "Customer Support Executive - Guwahati",
-      "company": "Aditya Birla Capital",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/customer-support-executive-guwahati-at-aditya-birla-capital-4410947650",
-      "description": "",
-      "posted": "2026-06-20T08:38:25.912568+00:00",
-      "scraped_at": "2026-06-20T08:38:25.912571+00:00",
-      "tags": []
-    },
-    {
-      "id": "dd97175174",
-      "title": "Front Office Manager",
-      "company": "Hilton",
+      "id": "b2836089df",
+      "title": "Cluster Manager",
+      "company": "Swiggy",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/front-office-manager-at-hilton-4430989646",
+      "url": "https://in.linkedin.com/jobs/view/cluster-manager-at-swiggy-4427489559",
       "description": "",
-      "posted": "2026-06-20T08:38:25.912376+00:00",
-      "scraped_at": "2026-06-20T08:38:25.912378+00:00",
+      "posted": "2026-06-20T13:22:49.322406+00:00",
+      "scraped_at": "2026-06-20T13:22:49.322408+00:00",
       "tags": []
     },
     {
-      "id": "58232e0adf",
-      "title": "Territory Manager-Prepaid",
-      "company": "airtel",
+      "id": "682ec75213",
+      "title": "Occupational Health Safety Inspector",
+      "company": "SMEC (an SJ Group company)",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/territory-manager-prepaid-at-airtel-4396661741",
+      "url": "https://in.linkedin.com/jobs/view/occupational-health-safety-inspector-at-smec-an-sj-group-company-4414921485",
       "description": "",
-      "posted": "2026-06-20T08:38:25.912197+00:00",
-      "scraped_at": "2026-06-20T08:38:25.912198+00:00",
+      "posted": "2026-06-20T13:22:49.322193+00:00",
+      "scraped_at": "2026-06-20T13:22:49.322195+00:00",
       "tags": []
     },
     {
-      "id": "b873f4f981",
-      "title": "Front Office Manager",
-      "company": "Radisson Hotel Group",
+      "id": "4574ca3351",
+      "title": "Assistant Manager - Control & Reporting",
+      "company": "PepsiCo",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/front-office-manager-at-radisson-hotel-group-4428695616",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-control-reporting-at-pepsico-4380225924",
       "description": "",
-      "posted": "2026-06-20T08:38:25.912027+00:00",
-      "scraped_at": "2026-06-20T08:38:25.912029+00:00",
+      "posted": "2026-06-20T13:22:49.321979+00:00",
+      "scraped_at": "2026-06-20T13:22:49.321981+00:00",
       "tags": []
     },
     {
-      "id": "2cf556ffb0",
-      "title": "Regional Manager",
-      "company": "D Kumar Group",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/regional-manager-at-d-kumar-group-4427323996",
-      "description": "",
-      "posted": "2026-06-20T08:38:25.911857+00:00",
-      "scraped_at": "2026-06-20T08:38:25.911859+00:00",
-      "tags": []
-    },
-    {
-      "id": "7b855287d3",
-      "title": "Junior Officer - ILHBS",
+      "id": "05a4856089",
+      "title": "Assistant Manager - Advertisement Sales",
       "company": "Adani Airport Holdings Ltd",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/junior-officer-ilhbs-at-adani-airport-holdings-ltd-4368270238",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-advertisement-sales-at-adani-airport-holdings-ltd-4427782111",
       "description": "",
-      "posted": "2026-06-20T08:38:25.911688+00:00",
-      "scraped_at": "2026-06-20T08:38:25.911691+00:00",
+      "posted": "2026-06-20T13:22:49.321747+00:00",
+      "scraped_at": "2026-06-20T13:22:49.321748+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "3ac93f5388",
+      "title": "Warehouse Manager",
+      "company": "A.P. Moller - Maersk",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/warehouse-manager-at-a-p-moller-maersk-4408504453",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.321537+00:00",
+      "scraped_at": "2026-06-20T13:22:49.321538+00:00",
       "tags": []
     },
     {
-      "id": "22fd35adb5",
-      "title": "Customer Service Associates",
-      "company": "Reliance Retail",
+      "id": "fdcc5ecc51",
+      "title": "Executive",
+      "company": "A.P. Moller - Maersk",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/customer-service-associates-at-reliance-retail-4372920643",
+      "url": "https://in.linkedin.com/jobs/view/executive-at-a-p-moller-maersk-4408288807",
       "description": "",
-      "posted": "2026-06-20T08:38:25.911488+00:00",
-      "scraped_at": "2026-06-20T08:38:25.911490+00:00",
+      "posted": "2026-06-20T13:22:49.321323+00:00",
+      "scraped_at": "2026-06-20T13:22:49.321324+00:00",
+      "tags": []
+    },
+    {
+      "id": "bc2f3f67d3",
+      "title": "Senior Manager -Quality",
+      "company": "PepsiCo",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/senior-manager-quality-at-pepsico-4427843666",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.321107+00:00",
+      "scraped_at": "2026-06-20T13:22:49.321109+00:00",
+      "tags": []
+    },
+    {
+      "id": "ae51434e12",
+      "title": "Lead- Aviation Safety",
+      "company": "Adani Airport Holdings Ltd",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/lead-aviation-safety-at-adani-airport-holdings-ltd-4427285497",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.320889+00:00",
+      "scraped_at": "2026-06-20T13:22:49.320894+00:00",
       "tags": []
     },
     {
@@ -410,16 +328,124 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/projects-%E2%80%93-contract-administration-at-adani-airport-holdings-ltd-4419020890",
       "description": "",
-      "posted": "2026-06-20T08:38:25.911260+00:00",
-      "scraped_at": "2026-06-20T08:38:25.911273+00:00",
+      "posted": "2026-06-20T13:22:49.320653+00:00",
+      "scraped_at": "2026-06-20T13:22:49.320655+00:00",
+      "tags": []
+    },
+    {
+      "id": "552115ae6b",
+      "title": "English Teacher in Guwahati, Shillong, Beed, Hyderabad, Avanigadda, Ravipadu, Guntapalli, Kethapally, Tasgaon",
+      "company": "SR Edu Technologies Pvt Ltd",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/english-teacher-in-guwahati-shillong-beed-hyderabad-avanigadda-ravipadu-guntapalli-kethapally-tasgaon-at-sr-edu-technologies-pvt-ltd-4429742378",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.320435+00:00",
+      "scraped_at": "2026-06-20T13:22:49.320436+00:00",
+      "tags": []
+    },
+    {
+      "id": "2ea643eca2",
+      "title": "Assistant Manager - Civil",
+      "company": "Adani Power",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-civil-at-adani-power-4370513138",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.320217+00:00",
+      "scraped_at": "2026-06-20T13:22:49.320219+00:00",
+      "tags": []
+    },
+    {
+      "id": "3379927bd6",
+      "title": "Supervisor - ILHBS",
+      "company": "Adani Airport Holdings Ltd",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/supervisor-ilhbs-at-adani-airport-holdings-ltd-4361991446",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.319991+00:00",
+      "scraped_at": "2026-06-20T13:22:49.319994+00:00",
+      "tags": []
+    },
+    {
+      "id": "7b855287d3",
+      "title": "Junior Officer - ILHBS",
+      "company": "Adani Airport Holdings Ltd",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/junior-officer-ilhbs-at-adani-airport-holdings-ltd-4368270238",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.319745+00:00",
+      "scraped_at": "2026-06-20T13:22:49.319747+00:00",
+      "tags": []
+    },
+    {
+      "id": "0af8c8dc7d",
+      "title": "Store Manager_Smart Bazaar",
+      "company": "Reliance Retail",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/store-manager-smart-bazaar-at-reliance-retail-4425760688",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.319526+00:00",
+      "scraped_at": "2026-06-20T13:22:49.319527+00:00",
+      "tags": []
+    },
+    {
+      "id": "c6a058c5b8",
+      "title": "Customer Support Executive - Guwahati",
+      "company": "Aditya Birla Capital",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/customer-support-executive-guwahati-at-aditya-birla-capital-4410947650",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.319309+00:00",
+      "scraped_at": "2026-06-20T13:22:49.319311+00:00",
+      "tags": []
+    },
+    {
+      "id": "6b674a3450",
+      "title": "Transportation Manager",
+      "company": "Reliance Retail",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/transportation-manager-at-reliance-retail-4347543191",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.319087+00:00",
+      "scraped_at": "2026-06-20T13:22:49.319089+00:00",
+      "tags": []
+    },
+    {
+      "id": "22fd35adb5",
+      "title": "Customer Service Associates",
+      "company": "Reliance Retail",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/customer-service-associates-at-reliance-retail-4372920643",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.318843+00:00",
+      "scraped_at": "2026-06-20T13:22:49.318847+00:00",
+      "tags": []
+    },
+    {
+      "id": "8613f299e4",
+      "title": "Operations Support Manager",
+      "company": "Reliance Retail",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/operations-support-manager-at-reliance-retail-4252495287",
+      "description": "",
+      "posted": "2026-06-20T13:22:49.318458+00:00",
+      "scraped_at": "2026-06-20T13:22:49.318473+00:00",
       "tags": []
     }
   ],
-  "last_updated": "2026-06-20T08:38:54.990383+00:00",
-  "total": 33,
+  "last_updated": "2026-06-20T13:23:17.981326+00:00",
+  "total": 35,
   "sources": [
-    "Internshala",
     "LinkedIn",
+    "Internshala",
     "Shine"
   ]
 }
