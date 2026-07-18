@@ -1,34 +1,6 @@
 {
   "jobs": [
     {
-      "id": "afc8f6192e",
-      "title": "Mobile App Development",
-      "company": "Mobile App DevelopmentGautom Malakar",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/internship/detail/mobile-app-development-internship-in-guwahati-at-gautom-malakar1784191996",
-      "description": "",
-      "posted": "2026-07-17T18:49:58.117447+00:00",
-      "scraped_at": "2026-07-17T18:49:58.117449+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "6f88638f16",
-      "title": "EV Technical Support Executive",
-      "company": "EV Technical Support ExecutiveHighway DeliteActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/ev-technical-support-executive-job-in-guwahati-at-highway-delite1784179930",
-      "description": "",
-      "posted": "2026-07-17T18:49:58.116075+00:00",
-      "scraped_at": "2026-07-17T18:49:58.116077+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
       "id": "765e2b11f8",
       "title": "Administration Executive",
       "company": "Administration ExecutiveGOOD LIFE",
@@ -36,50 +8,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/administration-executive-job-in-multiple-locations-at-good-life1784117835",
       "description": "",
-      "posted": "2026-07-17T18:49:58.114814+00:00",
-      "scraped_at": "2026-07-17T18:49:58.114816+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "49bad5fc90",
-      "title": "Technical Support Executive",
-      "company": "Technical Support ExecutiveHighway DeliteActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/technical-support-executive-job-in-guwahati-at-highway-delite1783080855",
-      "description": "",
-      "posted": "2026-07-17T18:49:58.113392+00:00",
-      "scraped_at": "2026-07-17T18:49:58.113395+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "7bd494c98a",
-      "title": "Business Development Executive",
-      "company": "Business Development ExecutiveAlvineientActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-multiple-locations-at-alvineient1783929990",
-      "description": "",
-      "posted": "2026-07-17T18:49:58.112162+00:00",
-      "scraped_at": "2026-07-17T18:49:58.112165+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "ccbc7ecf64",
-      "title": "Campus Manager",
-      "company": "Campus ManagerTechyroars Private Limited",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/campus-manager-job-in-guwahati-at-techyroars-private-limited1782284117",
-      "description": "",
-      "posted": "2026-07-17T18:49:58.110543+00:00",
-      "scraped_at": "2026-07-17T18:49:58.110545+00:00",
+      "posted": "2026-07-18T01:16:50.724379+00:00",
+      "scraped_at": "2026-07-18T01:16:50.724383+00:00",
       "tags": [
         "Internship"
       ]
@@ -92,8 +22,78 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-counselling-officer-job-in-guwahati-at-piramal-swasthya1782456939",
       "description": "",
-      "posted": "2026-07-17T18:49:58.109224+00:00",
-      "scraped_at": "2026-07-17T18:49:58.109239+00:00",
+      "posted": "2026-07-18T01:16:50.722939+00:00",
+      "scraped_at": "2026-07-18T01:16:50.722943+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "6f88638f16",
+      "title": "EV Technical Support Executive",
+      "company": "EV Technical Support ExecutiveHighway DeliteActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/ev-technical-support-executive-job-in-guwahati-at-highway-delite1784179930",
+      "description": "",
+      "posted": "2026-07-18T01:16:50.721375+00:00",
+      "scraped_at": "2026-07-18T01:16:50.721379+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "7bd494c98a",
+      "title": "Business Development Executive",
+      "company": "Business Development ExecutiveAlvineientActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-multiple-locations-at-alvineient1783929990",
+      "description": "",
+      "posted": "2026-07-18T01:16:50.719957+00:00",
+      "scraped_at": "2026-07-18T01:16:50.719961+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "2a7869c50c",
+      "title": "Field Sales Executive",
+      "company": "Field Sales ExecutiveGood Books Distributors Publishers",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-field-sales-executive-job-in-guwahati-at-subham-jain-good-books-distributors-publishers1784027081",
+      "description": "",
+      "posted": "2026-07-18T01:16:50.718284+00:00",
+      "scraped_at": "2026-07-18T01:16:50.718288+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "49bad5fc90",
+      "title": "Technical Support Executive",
+      "company": "Technical Support ExecutiveHighway DeliteActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/technical-support-executive-job-in-guwahati-at-highway-delite1783080855",
+      "description": "",
+      "posted": "2026-07-18T01:16:50.716598+00:00",
+      "scraped_at": "2026-07-18T01:16:50.716602+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "ccbc7ecf64",
+      "title": "Campus Manager",
+      "company": "Campus ManagerTechyroars Private Limited",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/campus-manager-job-in-guwahati-at-techyroars-private-limited1782284117",
+      "description": "",
+      "posted": "2026-07-18T01:16:50.714642+00:00",
+      "scraped_at": "2026-07-18T01:16:50.714655+00:00",
       "tags": [
         "Internship"
       ]
@@ -106,8 +106,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/associate-area-business-manager/supro-info-solutions-private-limited/19199307",
       "description": "",
-      "posted": "2026-07-17T18:49:57.067154+00:00",
-      "scraped_at": "2026-07-17T18:49:57.067168+00:00",
+      "posted": "2026-07-18T01:16:48.934552+00:00",
+      "scraped_at": "2026-07-18T01:16:48.934562+00:00",
       "tags": []
     },
     {
@@ -118,8 +118,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-manager-civil-projects-at-adani-power-4381966384",
       "description": "",
-      "posted": "2026-07-17T18:49:50.627951+00:00",
-      "scraped_at": "2026-07-17T18:49:50.627953+00:00",
+      "posted": "2026-07-18T01:16:43.900332+00:00",
+      "scraped_at": "2026-07-18T01:16:43.900334+00:00",
       "tags": []
     },
     {
@@ -130,8 +130,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/category-manager-at-urban-company-4428918817",
       "description": "",
-      "posted": "2026-07-17T18:49:50.627472+00:00",
-      "scraped_at": "2026-07-17T18:49:50.627475+00:00",
+      "posted": "2026-07-18T01:16:43.899794+00:00",
+      "scraped_at": "2026-07-18T01:16:43.899797+00:00",
       "tags": []
     },
     {
@@ -142,8 +142,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/purchasing-manager-at-hilton-4430977838",
       "description": "",
-      "posted": "2026-07-17T18:49:50.627245+00:00",
-      "scraped_at": "2026-07-17T18:49:50.627247+00:00",
+      "posted": "2026-07-18T01:16:43.899528+00:00",
+      "scraped_at": "2026-07-18T01:16:43.899530+00:00",
       "tags": []
     },
     {
@@ -154,8 +154,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/tm-talent-acquisition-guwahati-at-aditya-birla-capital-4433519241",
       "description": "",
-      "posted": "2026-07-17T18:49:50.627017+00:00",
-      "scraped_at": "2026-07-17T18:49:50.627019+00:00",
+      "posted": "2026-07-18T01:16:43.899271+00:00",
+      "scraped_at": "2026-07-18T01:16:43.899274+00:00",
       "tags": []
     },
     {
@@ -166,8 +166,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/sc-agro-asst-supervisor-at-pepsico-4425793112",
       "description": "",
-      "posted": "2026-07-17T18:49:50.626788+00:00",
-      "scraped_at": "2026-07-17T18:49:50.626790+00:00",
+      "posted": "2026-07-18T01:16:43.899015+00:00",
+      "scraped_at": "2026-07-18T01:16:43.899019+00:00",
       "tags": []
     },
     {
@@ -178,8 +178,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/front-office-manager-at-finn-s-weaver-4438743409",
       "description": "",
-      "posted": "2026-07-17T18:49:50.625862+00:00",
-      "scraped_at": "2026-07-17T18:49:50.625864+00:00",
+      "posted": "2026-07-18T01:16:43.897957+00:00",
+      "scraped_at": "2026-07-18T01:16:43.897961+00:00",
       "tags": []
     },
     {
@@ -190,8 +190,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/database-administrator-at-kran-consulting-pvt-ltd-4439980447",
       "description": "",
-      "posted": "2026-07-17T18:49:50.625629+00:00",
-      "scraped_at": "2026-07-17T18:49:50.625631+00:00",
+      "posted": "2026-07-18T01:16:43.897675+00:00",
+      "scraped_at": "2026-07-18T01:16:43.897677+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -204,8 +204,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/smt-technician-at-tata-electronics-4439252157",
       "description": "",
-      "posted": "2026-07-17T18:49:50.623976+00:00",
-      "scraped_at": "2026-07-17T18:49:50.623978+00:00",
+      "posted": "2026-07-18T01:16:43.895794+00:00",
+      "scraped_at": "2026-07-18T01:16:43.895797+00:00",
       "tags": []
     },
     {
@@ -216,8 +216,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/equipment-technician-at-tata-electronics-4420725657",
       "description": "",
-      "posted": "2026-07-17T18:49:50.623721+00:00",
-      "scraped_at": "2026-07-17T18:49:50.623735+00:00",
+      "posted": "2026-07-18T01:16:43.895511+00:00",
+      "scraped_at": "2026-07-18T01:16:43.895526+00:00",
       "tags": []
     },
     {
@@ -228,8 +228,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/general-manager-at-triad-mercantile-group-of-hotels-4439208625",
       "description": "",
-      "posted": "2026-07-17T18:49:47.773847+00:00",
-      "scraped_at": "2026-07-17T18:49:47.773849+00:00",
+      "posted": "2026-07-18T01:16:41.024201+00:00",
+      "scraped_at": "2026-07-18T01:16:41.024204+00:00",
       "tags": []
     },
     {
@@ -240,8 +240,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/bar-manager-at-radisson-hotel-group-4441941759",
       "description": "",
-      "posted": "2026-07-17T18:49:47.773621+00:00",
-      "scraped_at": "2026-07-17T18:49:47.773624+00:00",
+      "posted": "2026-07-18T01:16:41.023931+00:00",
+      "scraped_at": "2026-07-18T01:16:41.023935+00:00",
       "tags": []
     },
     {
@@ -252,24 +252,10 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/specialist-%E2%80%93-government-procurement-bid-management-at-pahl%C3%A9-india-foundation-pif-4439799773",
       "description": "",
-      "posted": "2026-07-17T18:49:47.773367+00:00",
-      "scraped_at": "2026-07-17T18:49:47.773370+00:00",
+      "posted": "2026-07-18T01:16:41.023656+00:00",
+      "scraped_at": "2026-07-18T01:16:41.023659+00:00",
       "tags": [
         "Government"
-      ]
-    },
-    {
-      "id": "9f0abaf609",
-      "title": "Medical Business Associate - Nagaon",
-      "company": "GSK",
-      "location": "Nagaon, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/medical-business-associate-nagaon-at-gsk-4438023157",
-      "description": "",
-      "posted": "2026-07-17T18:49:47.773136+00:00",
-      "scraped_at": "2026-07-17T18:49:47.773138+00:00",
-      "tags": [
-        "Healthcare"
       ]
     },
     {
@@ -280,8 +266,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/aviation-trainer-at-skytech-aviation-4441184053",
       "description": "",
-      "posted": "2026-07-17T18:49:47.772911+00:00",
-      "scraped_at": "2026-07-17T18:49:47.772914+00:00",
+      "posted": "2026-07-18T01:16:41.023394+00:00",
+      "scraped_at": "2026-07-18T01:16:41.023397+00:00",
       "tags": []
     },
     {
@@ -292,8 +278,20 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/brewer-at-mount-everest-breweries-limited-4439989106",
       "description": "",
-      "posted": "2026-07-17T18:49:47.772682+00:00",
-      "scraped_at": "2026-07-17T18:49:47.772685+00:00",
+      "posted": "2026-07-18T01:16:41.023138+00:00",
+      "scraped_at": "2026-07-18T01:16:41.023141+00:00",
+      "tags": []
+    },
+    {
+      "id": "34b4091b75",
+      "title": "Therapy Business Manager",
+      "company": "Bayer",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/therapy-business-manager-at-bayer-4442145569",
+      "description": "",
+      "posted": "2026-07-18T01:16:41.022879+00:00",
+      "scraped_at": "2026-07-18T01:16:41.022883+00:00",
       "tags": []
     },
     {
@@ -304,8 +302,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/learning-development-manager-at-hilton-4432559632",
       "description": "",
-      "posted": "2026-07-17T18:49:47.772428+00:00",
-      "scraped_at": "2026-07-17T18:49:47.772430+00:00",
+      "posted": "2026-07-18T01:16:41.022601+00:00",
+      "scraped_at": "2026-07-18T01:16:41.022604+00:00",
       "tags": []
     },
     {
@@ -316,8 +314,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/mis-analytic-co-ordinator-at-tata-electronics-4439215027",
       "description": "",
-      "posted": "2026-07-17T18:49:47.772206+00:00",
-      "scraped_at": "2026-07-17T18:49:47.772208+00:00",
+      "posted": "2026-07-18T01:16:41.022346+00:00",
+      "scraped_at": "2026-07-18T01:16:41.022349+00:00",
       "tags": []
     },
     {
@@ -328,8 +326,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/sales-coordinator-at-radisson-hotel-group-4441945807",
       "description": "",
-      "posted": "2026-07-17T18:49:47.771980+00:00",
-      "scraped_at": "2026-07-17T18:49:47.771982+00:00",
+      "posted": "2026-07-18T01:16:41.022081+00:00",
+      "scraped_at": "2026-07-18T01:16:41.022087+00:00",
       "tags": [
         "Sales"
       ]
@@ -342,8 +340,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/manager-l-od-at-sun-pharma-4431209998",
       "description": "",
-      "posted": "2026-07-17T18:49:47.771703+00:00",
-      "scraped_at": "2026-07-17T18:49:47.771706+00:00",
+      "posted": "2026-07-18T01:16:41.021764+00:00",
+      "scraped_at": "2026-07-18T01:16:41.021767+00:00",
       "tags": []
     },
     {
@@ -354,8 +352,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/exim-co-ordinator-at-tata-electronics-4439213062",
       "description": "",
-      "posted": "2026-07-17T18:49:47.771456+00:00",
-      "scraped_at": "2026-07-17T18:49:47.771458+00:00",
+      "posted": "2026-07-18T01:16:41.021503+00:00",
+      "scraped_at": "2026-07-18T01:16:41.021506+00:00",
       "tags": []
     },
     {
@@ -366,8 +364,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/venue-manager-at-tata-consultancy-services-4440201996",
       "description": "",
-      "posted": "2026-07-17T18:49:47.771224+00:00",
-      "scraped_at": "2026-07-17T18:49:47.771227+00:00",
+      "posted": "2026-07-18T01:16:41.021239+00:00",
+      "scraped_at": "2026-07-18T01:16:41.021242+00:00",
       "tags": []
     },
     {
@@ -378,8 +376,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/associate-debt-manager-flows-credit-cards-at-idfc-first-bank-4439867321",
       "description": "",
-      "posted": "2026-07-17T18:49:47.770996+00:00",
-      "scraped_at": "2026-07-17T18:49:47.770999+00:00",
+      "posted": "2026-07-18T01:16:41.020975+00:00",
+      "scraped_at": "2026-07-18T01:16:41.020979+00:00",
       "tags": []
     },
     {
@@ -390,8 +388,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/credit-operations-manager-at-idfc-first-bank-4439402692",
       "description": "",
-      "posted": "2026-07-17T18:49:47.770763+00:00",
-      "scraped_at": "2026-07-17T18:49:47.770765+00:00",
+      "posted": "2026-07-18T01:16:41.020676+00:00",
+      "scraped_at": "2026-07-18T01:16:41.020686+00:00",
       "tags": []
     },
     {
@@ -402,8 +400,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/learning-development-manager-at-accor-4441301329",
       "description": "",
-      "posted": "2026-07-17T18:49:47.770532+00:00",
-      "scraped_at": "2026-07-17T18:49:47.770535+00:00",
+      "posted": "2026-07-18T01:16:41.020413+00:00",
+      "scraped_at": "2026-07-18T01:16:41.020416+00:00",
       "tags": []
     },
     {
@@ -414,8 +412,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/territory-manager-at-ge-healthcare-4432258542",
       "description": "",
-      "posted": "2026-07-17T18:49:47.770285+00:00",
-      "scraped_at": "2026-07-17T18:49:47.770287+00:00",
+      "posted": "2026-07-18T01:16:41.020145+00:00",
+      "scraped_at": "2026-07-18T01:16:41.020148+00:00",
       "tags": []
     },
     {
@@ -426,8 +424,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/front-office-manager-at-hilton-4430989646",
       "description": "",
-      "posted": "2026-07-17T18:49:47.770053+00:00",
-      "scraped_at": "2026-07-17T18:49:47.770055+00:00",
+      "posted": "2026-07-18T01:16:41.019875+00:00",
+      "scraped_at": "2026-07-18T01:16:41.019879+00:00",
       "tags": []
     },
     {
@@ -438,8 +436,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/associate-manager-administration-at-adani-power-4424189690",
       "description": "",
-      "posted": "2026-07-17T18:49:47.769822+00:00",
-      "scraped_at": "2026-07-17T18:49:47.769824+00:00",
+      "posted": "2026-07-18T01:16:41.019588+00:00",
+      "scraped_at": "2026-07-18T01:16:41.019591+00:00",
       "tags": []
     },
     {
@@ -450,8 +448,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/business-executive-guwahati-at-gsk-4438018661",
       "description": "",
-      "posted": "2026-07-17T18:49:47.769583+00:00",
-      "scraped_at": "2026-07-17T18:49:47.769587+00:00",
+      "posted": "2026-07-18T01:16:41.019308+00:00",
+      "scraped_at": "2026-07-18T01:16:41.019311+00:00",
       "tags": []
     },
     {
@@ -462,16 +460,16 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/team-member-aocc-at-adani-airport-holdings-ltd-4432675205",
       "description": "",
-      "posted": "2026-07-17T18:49:47.769256+00:00",
-      "scraped_at": "2026-07-17T18:49:47.769267+00:00",
+      "posted": "2026-07-18T01:16:41.018977+00:00",
+      "scraped_at": "2026-07-18T01:16:41.018989+00:00",
       "tags": []
     }
   ],
-  "last_updated": "2026-07-17T18:50:17.498456+00:00",
+  "last_updated": "2026-07-18T01:17:09.934963+00:00",
   "total": 37,
   "sources": [
+    "Internshala",
     "Shine",
-    "LinkedIn",
-    "Internshala"
+    "LinkedIn"
   ]
 }
