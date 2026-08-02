@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "id": "134ff902bd",
+      "title": "Assistant-I (Technical Information & Communications Technology)",
+      "company": "Assistant-I (Technical Information & Communications Technology)Purabi Dairy",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/assistant-i-technical-information-communications-technology-job-in-guwahati-at-west-assam-milk-producers-cooperative-union-limited1785302026",
+      "description": "",
+      "posted": "2026-08-02T18:51:05.782661+00:00",
+      "scraped_at": "2026-08-02T18:51:05.782665+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
       "id": "b1f9453f2b",
       "title": "Finance Executive",
       "company": "Finance ExecutiveAMOLAKSHAYA TRADE AND CREDIT Private Limited",
@@ -8,36 +22,22 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-finance-executive-job-in-guwahati-at-amolakshaya-trade-and-credit-private-limited1784833317",
       "description": "",
-      "posted": "2026-08-02T12:52:50.025081+00:00",
-      "scraped_at": "2026-08-02T12:52:50.025085+00:00",
+      "posted": "2026-08-02T18:51:05.781092+00:00",
+      "scraped_at": "2026-08-02T18:51:05.781096+00:00",
       "tags": [
         "Internship"
       ]
     },
     {
-      "id": "765e2b11f8",
-      "title": "Administration Executive",
-      "company": "Administration ExecutiveGOOD LIFE",
+      "id": "af668d21cc",
+      "title": "Travel Consultant & Operations Specialist",
+      "company": "Travel Consultant & Operations SpecialistNortheast Nook",
       "location": "Guwahati, Assam",
       "source": "Internshala",
-      "url": "https://internshala.com/job/detail/administration-executive-job-in-multiple-locations-at-good-life1784117835",
+      "url": "https://internshala.com/job/detail/fresher-travel-consultant-operations-specialist-job-in-guwahati-at-northeast-nook1785323176",
       "description": "",
-      "posted": "2026-08-02T12:52:50.023577+00:00",
-      "scraped_at": "2026-08-02T12:52:50.023581+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "7bd494c98a",
-      "title": "Business Development Executive",
-      "company": "Business Development ExecutiveAlvineientActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-multiple-locations-at-alvineient1783929990",
-      "description": "",
-      "posted": "2026-08-02T12:52:50.022121+00:00",
-      "scraped_at": "2026-08-02T12:52:50.022125+00:00",
+      "posted": "2026-08-02T18:51:05.779136+00:00",
+      "scraped_at": "2026-08-02T18:51:05.779140+00:00",
       "tags": [
         "Internship"
       ]
@@ -50,8 +50,22 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-field-sales-executive-job-in-guwahati-at-subham-jain-good-books-distributors-publishers1784027081",
       "description": "",
-      "posted": "2026-08-02T12:52:50.020423+00:00",
-      "scraped_at": "2026-08-02T12:52:50.020427+00:00",
+      "posted": "2026-08-02T18:51:05.777436+00:00",
+      "scraped_at": "2026-08-02T18:51:05.777440+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "7bd494c98a",
+      "title": "Business Development Executive",
+      "company": "Business Development ExecutiveAlvineientActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-business-development-executive-job-in-multiple-locations-at-alvineient1783929990",
+      "description": "",
+      "posted": "2026-08-02T18:51:05.776006+00:00",
+      "scraped_at": "2026-08-02T18:51:05.776009+00:00",
       "tags": [
         "Internship"
       ]
@@ -64,22 +78,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/operations-associate-job-in-guwahati-at-student-gallery1785248004",
       "description": "",
-      "posted": "2026-08-02T12:52:50.018638+00:00",
-      "scraped_at": "2026-08-02T12:52:50.018644+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "49bad5fc90",
-      "title": "Technical Support Executive",
-      "company": "Technical Support ExecutiveHighway DeliteActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/technical-support-executive-job-in-guwahati-at-highway-delite1783080855",
-      "description": "",
-      "posted": "2026-08-02T12:52:50.016973+00:00",
-      "scraped_at": "2026-08-02T12:52:50.016977+00:00",
+      "posted": "2026-08-02T18:51:05.774266+00:00",
+      "scraped_at": "2026-08-02T18:51:05.774271+00:00",
       "tags": [
         "Internship"
       ]
@@ -92,8 +92,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/ev-technical-support-executive-job-in-guwahati-at-highway-delite1784179930",
       "description": "",
-      "posted": "2026-08-02T12:52:50.015311+00:00",
-      "scraped_at": "2026-08-02T12:52:50.015325+00:00",
+      "posted": "2026-08-02T18:51:05.772585+00:00",
+      "scraped_at": "2026-08-02T18:51:05.772604+00:00",
       "tags": [
         "Internship"
       ]
@@ -106,8 +106,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/sales-officer/acura-solutions/19220752",
       "description": "",
-      "posted": "2026-08-02T12:52:49.182117+00:00",
-      "scraped_at": "2026-08-02T12:52:49.182129+00:00",
+      "posted": "2026-08-02T18:51:04.975955+00:00",
+      "scraped_at": "2026-08-02T18:51:04.975967+00:00",
       "tags": [
         "Sales"
       ]
@@ -120,23 +120,9 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/procure-ops-at-tata-electronics-4435665048",
       "description": "",
-      "posted": "2026-08-02T12:52:44.407753+00:00",
-      "scraped_at": "2026-08-02T12:52:44.407756+00:00",
+      "posted": "2026-08-02T18:50:59.478407+00:00",
+      "scraped_at": "2026-08-02T18:50:59.478410+00:00",
       "tags": []
-    },
-    {
-      "id": "cff56684b0",
-      "title": "Core Maintenance Engineer Utilities",
-      "company": "Jio",
-      "location": "Silchar, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/core-maintenance-engineer-utilities-at-jio-4444878708",
-      "description": "",
-      "posted": "2026-08-02T12:52:44.407250+00:00",
-      "scraped_at": "2026-08-02T12:52:44.407253+00:00",
-      "tags": [
-        "IT/Tech"
-      ]
     },
     {
       "id": "43ad5062c1",
@@ -146,8 +132,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-manager-projects-at-adani-total-gas-4443697851",
       "description": "",
-      "posted": "2026-08-02T12:52:44.406993+00:00",
-      "scraped_at": "2026-08-02T12:52:44.406998+00:00",
+      "posted": "2026-08-02T18:50:59.478152+00:00",
+      "scraped_at": "2026-08-02T18:50:59.478155+00:00",
       "tags": []
     },
     {
@@ -158,8 +144,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/ch%C6%B0%C6%A1ng-tr%C3%ACnh-qu%E1%BA%A3n-tr%E1%BB%8B-vi%C3%AAn-t%E1%BA%ADp-s%E1%BB%B1-circle-k-at-c%C3%BAc-cu-australia-pr-pathway-h%E1%BB%8Dc-b%E1%BB%95ng-t%E1%BA%A1i-%C3%BAc-4447035217",
       "description": "",
-      "posted": "2026-08-02T12:52:44.406696+00:00",
-      "scraped_at": "2026-08-02T12:52:44.406699+00:00",
+      "posted": "2026-08-02T18:50:59.477896+00:00",
+      "scraped_at": "2026-08-02T18:50:59.477899+00:00",
       "tags": []
     },
     {
@@ -170,23 +156,11 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/manufacturing-system-engineer-at-tata-electronics-4434899158",
       "description": "",
-      "posted": "2026-08-02T12:52:44.406181+00:00",
-      "scraped_at": "2026-08-02T12:52:44.406184+00:00",
+      "posted": "2026-08-02T18:50:59.477344+00:00",
+      "scraped_at": "2026-08-02T18:50:59.477347+00:00",
       "tags": [
         "IT/Tech"
       ]
-    },
-    {
-      "id": "fa4d827438",
-      "title": "Academic Mentor",
-      "company": "Bharti Airtel Foundation",
-      "location": "Dispur, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/academic-mentor-at-bharti-airtel-foundation-4442365329",
-      "description": "",
-      "posted": "2026-08-02T12:52:44.405378+00:00",
-      "scraped_at": "2026-08-02T12:52:44.405380+00:00",
-      "tags": []
     },
     {
       "id": "c2a9dea29c",
@@ -196,8 +170,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/engineer-ehs-at-larsen-toubro-4447788885",
       "description": "",
-      "posted": "2026-08-02T12:52:44.405127+00:00",
-      "scraped_at": "2026-08-02T12:52:44.405130+00:00",
+      "posted": "2026-08-02T18:50:59.476566+00:00",
+      "scraped_at": "2026-08-02T18:50:59.476570+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -210,8 +184,48 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/novogen-rbm-silchar-1-at-bioksha-4443220573",
       "description": "",
-      "posted": "2026-08-02T12:52:44.404874+00:00",
-      "scraped_at": "2026-08-02T12:52:44.404878+00:00",
+      "posted": "2026-08-02T18:50:59.476290+00:00",
+      "scraped_at": "2026-08-02T18:50:59.476295+00:00",
+      "tags": []
+    },
+    {
+      "id": "8a80ba3a22",
+      "title": "QMS Engineer",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/qms-engineer-at-tata-electronics-4390026933",
+      "description": "",
+      "posted": "2026-08-02T18:50:59.476020+00:00",
+      "scraped_at": "2026-08-02T18:50:59.476023+00:00",
+      "tags": [
+        "IT/Tech"
+      ]
+    },
+    {
+      "id": "ac9ce11db5",
+      "title": "Customer Quality Engineer",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/customer-quality-engineer-at-tata-electronics-4390028798",
+      "description": "",
+      "posted": "2026-08-02T18:50:59.475748+00:00",
+      "scraped_at": "2026-08-02T18:50:59.475755+00:00",
+      "tags": [
+        "IT/Tech"
+      ]
+    },
+    {
+      "id": "35d6c8fdde",
+      "title": "Line Quality Technician",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/line-quality-technician-at-tata-electronics-4390536994",
+      "description": "",
+      "posted": "2026-08-02T18:50:59.475464+00:00",
+      "scraped_at": "2026-08-02T18:50:59.475467+00:00",
       "tags": []
     },
     {
@@ -222,8 +236,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/tm-slt-hdfc-bb-guwahti-at-aditya-birla-capital-4438519107",
       "description": "",
-      "posted": "2026-08-02T12:52:44.404589+00:00",
-      "scraped_at": "2026-08-02T12:52:44.404592+00:00",
+      "posted": "2026-08-02T18:50:59.475207+00:00",
+      "scraped_at": "2026-08-02T18:50:59.475210+00:00",
       "tags": []
     },
     {
@@ -234,8 +248,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/procurement-specialist-at-tata-electronics-4444540119",
       "description": "",
-      "posted": "2026-08-02T12:52:44.404063+00:00",
-      "scraped_at": "2026-08-02T12:52:44.404071+00:00",
+      "posted": "2026-08-02T18:50:59.474680+00:00",
+      "scraped_at": "2026-08-02T18:50:59.474683+00:00",
       "tags": []
     },
     {
@@ -246,8 +260,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/relationship-manager-nagaon-at-aditya-birla-capital-4438518239",
       "description": "",
-      "posted": "2026-08-02T12:52:44.403754+00:00",
-      "scraped_at": "2026-08-02T12:52:44.403757+00:00",
+      "posted": "2026-08-02T18:50:59.474392+00:00",
+      "scraped_at": "2026-08-02T18:50:59.474395+00:00",
       "tags": []
     },
     {
@@ -258,8 +272,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/cluster-manager-at-aditya-birla-capital-4430131652",
       "description": "",
-      "posted": "2026-08-02T12:52:44.403249+00:00",
-      "scraped_at": "2026-08-02T12:52:44.403252+00:00",
+      "posted": "2026-08-02T18:50:59.473823+00:00",
+      "scraped_at": "2026-08-02T18:50:59.473826+00:00",
       "tags": []
     },
     {
@@ -270,8 +284,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/cluster-manager-hdfc-securties-patna-at-aditya-birla-capital-4400638152",
       "description": "",
-      "posted": "2026-08-02T12:52:44.402995+00:00",
-      "scraped_at": "2026-08-02T12:52:44.402999+00:00",
+      "posted": "2026-08-02T18:50:59.473537+00:00",
+      "scraped_at": "2026-08-02T18:50:59.473541+00:00",
       "tags": []
     },
     {
@@ -282,8 +296,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/head-of-finance-and-accounting-at-sm-developers-4447786069",
       "description": "",
-      "posted": "2026-08-02T12:52:41.621375+00:00",
-      "scraped_at": "2026-08-02T12:52:41.621378+00:00",
+      "posted": "2026-08-02T18:50:56.696703+00:00",
+      "scraped_at": "2026-08-02T18:50:56.696707+00:00",
       "tags": [
         "Finance"
       ]
@@ -296,8 +310,20 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/fos-dibrugarh-at-indbank-global-support-services-limited-4447779628",
       "description": "",
-      "posted": "2026-08-02T12:52:41.621116+00:00",
-      "scraped_at": "2026-08-02T12:52:41.621118+00:00",
+      "posted": "2026-08-02T18:50:56.696420+00:00",
+      "scraped_at": "2026-08-02T18:50:56.696423+00:00",
+      "tags": []
+    },
+    {
+      "id": "243e9398ce",
+      "title": "Requirement in Rajiv Gandhi Institute of Petroleum Technology (RGIPT)  May-2020Requirement in Rajiv Gandhi Institute of Petroleum Technology (RGIPT)  May-2020",
+      "company": "governmentjobsindia.net",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/requirement-in-rajiv-gandhi-institute-of-petroleum-technology-rgipt-may-2020requirement-in-rajiv-gandhi-institute-of-petroleum-technology-rgipt-may-2020-at-governmentjobsindia-net-4447651670",
+      "description": "",
+      "posted": "2026-08-02T18:50:56.696162+00:00",
+      "scraped_at": "2026-08-02T18:50:56.696164+00:00",
       "tags": []
     },
     {
@@ -308,8 +334,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/regional-manager-otc-rx-at-himalaya-wellness-company-4446197505",
       "description": "",
-      "posted": "2026-08-02T12:52:41.620852+00:00",
-      "scraped_at": "2026-08-02T12:52:41.620855+00:00",
+      "posted": "2026-08-02T18:50:56.695905+00:00",
+      "scraped_at": "2026-08-02T18:50:56.695908+00:00",
       "tags": []
     },
     {
@@ -320,23 +346,9 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/front-office-manager-at-hilton-4430989646",
       "description": "",
-      "posted": "2026-08-02T12:52:41.620569+00:00",
-      "scraped_at": "2026-08-02T12:52:41.620572+00:00",
+      "posted": "2026-08-02T18:50:56.695635+00:00",
+      "scraped_at": "2026-08-02T18:50:56.695639+00:00",
       "tags": []
-    },
-    {
-      "id": "6ce17491bc",
-      "title": "Assistant | Deputy Sales Manager",
-      "company": "Sika",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/assistant-deputy-sales-manager-at-sika-4445510439",
-      "description": "",
-      "posted": "2026-08-02T12:52:41.620034+00:00",
-      "scraped_at": "2026-08-02T12:52:41.620037+00:00",
-      "tags": [
-        "Sales"
-      ]
     },
     {
       "id": "ab45490008",
@@ -346,8 +358,22 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/area-sales-manager-at-loom-solar-pvt-ltd-4447784021",
       "description": "",
-      "posted": "2026-08-02T12:52:41.619756+00:00",
-      "scraped_at": "2026-08-02T12:52:41.619759+00:00",
+      "posted": "2026-08-02T18:50:56.695081+00:00",
+      "scraped_at": "2026-08-02T18:50:56.695084+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "6ce17491bc",
+      "title": "Assistant | Deputy Sales Manager",
+      "company": "Sika",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/assistant-deputy-sales-manager-at-sika-4445510439",
+      "description": "",
+      "posted": "2026-08-02T18:50:56.694824+00:00",
+      "scraped_at": "2026-08-02T18:50:56.694827+00:00",
       "tags": [
         "Sales"
       ]
@@ -360,8 +386,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/manager-logistics-east-at-pernod-ricard-india-4446707409",
       "description": "",
-      "posted": "2026-08-02T12:52:41.619500+00:00",
-      "scraped_at": "2026-08-02T12:52:41.619503+00:00",
+      "posted": "2026-08-02T18:50:56.694540+00:00",
+      "scraped_at": "2026-08-02T18:50:56.694543+00:00",
       "tags": []
     },
     {
@@ -372,8 +398,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/finance-controller-at-binbag-4442830906",
       "description": "",
-      "posted": "2026-08-02T12:52:41.619237+00:00",
-      "scraped_at": "2026-08-02T12:52:41.619240+00:00",
+      "posted": "2026-08-02T18:50:56.694279+00:00",
+      "scraped_at": "2026-08-02T18:50:56.694282+00:00",
       "tags": [
         "Finance"
       ]
@@ -386,8 +412,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/branch-head-north-east-at-saburi-ply-4446983860",
       "description": "",
-      "posted": "2026-08-02T12:52:41.618972+00:00",
-      "scraped_at": "2026-08-02T12:52:41.618976+00:00",
+      "posted": "2026-08-02T18:50:56.694020+00:00",
+      "scraped_at": "2026-08-02T18:50:56.694023+00:00",
       "tags": []
     },
     {
@@ -398,8 +424,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/sales-manager-cross-sell-personal-loan-at-idfc-first-bank-4437304111",
       "description": "",
-      "posted": "2026-08-02T12:52:41.618684+00:00",
-      "scraped_at": "2026-08-02T12:52:41.618688+00:00",
+      "posted": "2026-08-02T18:50:56.693743+00:00",
+      "scraped_at": "2026-08-02T18:50:56.693746+00:00",
       "tags": [
         "Sales"
       ]
@@ -412,20 +438,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/senior-ehs-manager-at-larsen-toubro-4445928419",
       "description": "",
-      "posted": "2026-08-02T12:52:41.618419+00:00",
-      "scraped_at": "2026-08-02T12:52:41.618422+00:00",
-      "tags": []
-    },
-    {
-      "id": "89587b986e",
-      "title": "EXECUTIVE N - APPLICATION TECHNOLOGIST",
-      "company": "Asian Paints",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/executive-n-application-technologist-at-asian-paints-4446489612",
-      "description": "",
-      "posted": "2026-08-02T12:52:41.618150+00:00",
-      "scraped_at": "2026-08-02T12:52:41.618153+00:00",
+      "posted": "2026-08-02T18:50:56.693452+00:00",
+      "scraped_at": "2026-08-02T18:50:56.693455+00:00",
       "tags": []
     },
     {
@@ -436,8 +450,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/location-manager-gold-loans-at-idfc-first-bank-4445190205",
       "description": "",
-      "posted": "2026-08-02T12:52:41.617871+00:00",
-      "scraped_at": "2026-08-02T12:52:41.617877+00:00",
+      "posted": "2026-08-02T18:50:56.693184+00:00",
+      "scraped_at": "2026-08-02T18:50:56.693187+00:00",
       "tags": []
     },
     {
@@ -448,8 +462,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-manager-control-reporting-at-pepsico-4380225924",
       "description": "",
-      "posted": "2026-08-02T12:52:41.617575+00:00",
-      "scraped_at": "2026-08-02T12:52:41.617579+00:00",
+      "posted": "2026-08-02T18:50:56.692918+00:00",
+      "scraped_at": "2026-08-02T18:50:56.692921+00:00",
       "tags": []
     },
     {
@@ -460,8 +474,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/deputy-manager-techno-commercial-at-adani-airport-holdings-ltd-4446789869",
       "description": "",
-      "posted": "2026-08-02T12:52:41.617309+00:00",
-      "scraped_at": "2026-08-02T12:52:41.617312+00:00",
+      "posted": "2026-08-02T18:50:56.692641+00:00",
+      "scraped_at": "2026-08-02T18:50:56.692645+00:00",
       "tags": []
     },
     {
@@ -472,8 +486,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/personal-trainer-at-curefit-4445467776",
       "description": "",
-      "posted": "2026-08-02T12:52:41.617043+00:00",
-      "scraped_at": "2026-08-02T12:52:41.617047+00:00",
+      "posted": "2026-08-02T18:50:56.692335+00:00",
+      "scraped_at": "2026-08-02T18:50:56.692338+00:00",
       "tags": []
     },
     {
@@ -484,8 +498,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/projects-%E2%80%93-contract-administration-at-adani-airport-holdings-ltd-4419020890",
       "description": "",
-      "posted": "2026-08-02T12:52:41.616752+00:00",
-      "scraped_at": "2026-08-02T12:52:41.616755+00:00",
+      "posted": "2026-08-02T18:50:56.692054+00:00",
+      "scraped_at": "2026-08-02T18:50:56.692057+00:00",
       "tags": []
     },
     {
@@ -496,8 +510,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/lead-aviation-safety-at-adani-airport-holdings-ltd-4427285497",
       "description": "",
-      "posted": "2026-08-02T12:52:41.616474+00:00",
-      "scraped_at": "2026-08-02T12:52:41.616478+00:00",
+      "posted": "2026-08-02T18:50:56.691766+00:00",
+      "scraped_at": "2026-08-02T18:50:56.691771+00:00",
       "tags": []
     },
     {
@@ -508,16 +522,16 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/customer-support-executive-guwahati-at-aditya-birla-capital-4410947650",
       "description": "",
-      "posted": "2026-08-02T12:52:41.616135+00:00",
-      "scraped_at": "2026-08-02T12:52:41.616148+00:00",
+      "posted": "2026-08-02T18:50:56.691404+00:00",
+      "scraped_at": "2026-08-02T18:50:56.691414+00:00",
       "tags": []
     }
   ],
-  "last_updated": "2026-08-02T12:53:09.239173+00:00",
-  "total": 40,
+  "last_updated": "2026-08-02T18:51:25.039628+00:00",
+  "total": 41,
   "sources": [
-    "LinkedIn",
+    "Internshala",
     "Shine",
-    "Internshala"
+    "LinkedIn"
   ]
 }
