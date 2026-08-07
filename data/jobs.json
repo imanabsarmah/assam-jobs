@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "id": "dee3d69b85",
+      "title": "Junior Social Media Marketing Manager",
+      "company": "Junior Social Media Marketing ManagerFXB Digital Media",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-junior-social-media-marketing-manager-job-in-multiple-locations-at-fxb-digital-media1786098483",
+      "description": "",
+      "posted": "2026-08-07T18:36:50.761302+00:00",
+      "scraped_at": "2026-08-07T18:36:50.761304+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
       "id": "f1525690d0",
       "title": "Junior Recruitment Manager",
       "company": "Junior Recruitment ManagerElephant In The Room Infotect",
@@ -8,50 +22,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-junior-recruitment-manager-job-in-multiple-locations-at-elephant-in-the-room-infotect1785523664",
       "description": "",
-      "posted": "2026-08-07T12:35:43.856763+00:00",
-      "scraped_at": "2026-08-07T12:35:43.856765+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "765e2b11f8",
-      "title": "Administration Executive",
-      "company": "Administration ExecutiveGOOD LIFE",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/administration-executive-job-in-multiple-locations-at-good-life1784117835",
-      "description": "",
-      "posted": "2026-08-07T12:35:43.855455+00:00",
-      "scraped_at": "2026-08-07T12:35:43.855457+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "2a7869c50c",
-      "title": "Field Sales Executive",
-      "company": "Field Sales ExecutiveGood Books Distributors Publishers",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-field-sales-executive-job-in-guwahati-at-subham-jain-good-books-distributors-publishers1784027081",
-      "description": "",
-      "posted": "2026-08-07T12:35:43.853973+00:00",
-      "scraped_at": "2026-08-07T12:35:43.853975+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "b1f9453f2b",
-      "title": "Finance Executive",
-      "company": "Finance ExecutiveAMOLAKSHAYA TRADE AND CREDIT Private Limited",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-finance-executive-job-in-guwahati-at-amolakshaya-trade-and-credit-private-limited1786034398",
-      "description": "",
-      "posted": "2026-08-07T12:35:43.852511+00:00",
-      "scraped_at": "2026-08-07T12:35:43.852513+00:00",
+      "posted": "2026-08-07T18:36:50.760257+00:00",
+      "scraped_at": "2026-08-07T18:36:50.760259+00:00",
       "tags": [
         "Internship"
       ]
@@ -64,8 +36,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/ev-technical-support-executive-job-in-guwahati-at-highway-delite1784179930",
       "description": "",
-      "posted": "2026-08-07T12:35:43.851086+00:00",
-      "scraped_at": "2026-08-07T12:35:43.851088+00:00",
+      "posted": "2026-08-07T18:36:50.759165+00:00",
+      "scraped_at": "2026-08-07T18:36:50.759167+00:00",
       "tags": [
         "Internship"
       ]
@@ -78,8 +50,36 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/operations-associate-job-in-guwahati-at-student-gallery1785248004",
       "description": "",
-      "posted": "2026-08-07T12:35:43.849464+00:00",
-      "scraped_at": "2026-08-07T12:35:43.849467+00:00",
+      "posted": "2026-08-07T18:36:50.757951+00:00",
+      "scraped_at": "2026-08-07T18:36:50.757953+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "b1f9453f2b",
+      "title": "Finance Executive",
+      "company": "Finance ExecutiveAMOLAKSHAYA TRADE AND CREDIT Private Limited",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-finance-executive-job-in-guwahati-at-amolakshaya-trade-and-credit-private-limited1786034398",
+      "description": "",
+      "posted": "2026-08-07T18:36:50.756851+00:00",
+      "scraped_at": "2026-08-07T18:36:50.756853+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "2a7869c50c",
+      "title": "Field Sales Executive",
+      "company": "Field Sales ExecutiveGood Books Distributors Publishers",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-field-sales-executive-job-in-guwahati-at-subham-jain-good-books-distributors-publishers1784027081",
+      "description": "",
+      "posted": "2026-08-07T18:36:50.755720+00:00",
+      "scraped_at": "2026-08-07T18:36:50.755722+00:00",
       "tags": [
         "Internship"
       ]
@@ -92,25 +92,35 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-travel-consultant-operations-specialist-job-in-guwahati-at-northeast-nook1785323176",
       "description": "",
-      "posted": "2026-08-07T12:35:43.847576+00:00",
-      "scraped_at": "2026-08-07T12:35:43.847594+00:00",
+      "posted": "2026-08-07T18:36:50.754327+00:00",
+      "scraped_at": "2026-08-07T18:36:50.754342+00:00",
       "tags": [
         "Internship"
       ]
     },
     {
-      "id": "6144d6a35c",
-      "title": "Business Development Manager",
+      "id": "196c8c20f4",
+      "title": "Development Manager",
       "company": "Unknown",
       "location": "Guwahati, Assam",
       "source": "Shine",
-      "url": "https://www.shine.com/jobs/business-development-manager/willpower-consultants-private-limited/19354351",
+      "url": "https://www.shine.com/jobs/development-manager/willpower-consultants-private-limited/19401119",
       "description": "",
-      "posted": "2026-08-07T12:35:43.058097+00:00",
-      "scraped_at": "2026-08-07T12:35:43.058113+00:00",
-      "tags": [
-        "Sales"
-      ]
+      "posted": "2026-08-07T18:36:49.942457+00:00",
+      "scraped_at": "2026-08-07T18:36:49.942472+00:00",
+      "tags": []
+    },
+    {
+      "id": "44057e0cf1",
+      "title": "Retail - Credit Manager - Guwahati",
+      "company": "Aditya Birla Capital",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/retail-credit-manager-guwahati-at-aditya-birla-capital-4431611050",
+      "description": "",
+      "posted": "2026-08-07T18:36:42.963498+00:00",
+      "scraped_at": "2026-08-07T18:36:42.963499+00:00",
+      "tags": []
     },
     {
       "id": "011e8ee695",
@@ -120,8 +130,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/roller-operator-at-marutii-quality-products-pvt-ltd-4449365477",
       "description": "",
-      "posted": "2026-08-07T12:35:38.162217+00:00",
-      "scraped_at": "2026-08-07T12:35:38.162219+00:00",
+      "posted": "2026-08-07T18:36:42.963186+00:00",
+      "scraped_at": "2026-08-07T18:36:42.963188+00:00",
       "tags": []
     },
     {
@@ -132,8 +142,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/customer-relationship-manager-dibrugarh-at-mytravaly-4449369816",
       "description": "",
-      "posted": "2026-08-07T12:35:38.162014+00:00",
-      "scraped_at": "2026-08-07T12:35:38.162017+00:00",
+      "posted": "2026-08-07T18:36:42.963019+00:00",
+      "scraped_at": "2026-08-07T18:36:42.963021+00:00",
       "tags": []
     },
     {
@@ -144,8 +154,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/build-crew-member-at-keen-ramps-inc-4449421795",
       "description": "",
-      "posted": "2026-08-07T12:35:38.161779+00:00",
-      "scraped_at": "2026-08-07T12:35:38.161780+00:00",
+      "posted": "2026-08-07T18:36:42.962868+00:00",
+      "scraped_at": "2026-08-07T18:36:42.962869+00:00",
       "tags": []
     },
     {
@@ -156,23 +166,11 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/executive-sales-support-dbg-at-blue-dart-4447010595",
       "description": "",
-      "posted": "2026-08-07T12:35:38.160344+00:00",
-      "scraped_at": "2026-08-07T12:35:38.160345+00:00",
+      "posted": "2026-08-07T18:36:42.961725+00:00",
+      "scraped_at": "2026-08-07T18:36:42.961727+00:00",
       "tags": [
         "Sales"
       ]
-    },
-    {
-      "id": "a7b41a5a4d",
-      "title": "Political Scientist",
-      "company": "JobsPeopleDo.com",
-      "location": "Naobaricha, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/political-scientist-at-jobspeopledo-com-4449604142",
-      "description": "",
-      "posted": "2026-08-07T12:35:38.159706+00:00",
-      "scraped_at": "2026-08-07T12:35:38.159711+00:00",
-      "tags": []
     },
     {
       "id": "245addf765",
@@ -180,10 +178,10 @@
       "company": "Tata Electronics",
       "location": "Mayang, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/npi-technician-at-tata-electronics-4417218720",
+      "url": "https://in.linkedin.com/jobs/view/npi-technician-at-tata-electronics-4417212849",
       "description": "",
-      "posted": "2026-08-07T12:35:38.158816+00:00",
-      "scraped_at": "2026-08-07T12:35:38.158818+00:00",
+      "posted": "2026-08-07T18:36:42.960735+00:00",
+      "scraped_at": "2026-08-07T18:36:42.960737+00:00",
       "tags": []
     },
     {
@@ -194,8 +192,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/bill-and-account-collectors-at-jobspeopledo-com-4449497393",
       "description": "",
-      "posted": "2026-08-07T12:35:35.343593+00:00",
-      "scraped_at": "2026-08-07T12:35:35.343594+00:00",
+      "posted": "2026-08-07T18:36:40.177244+00:00",
+      "scraped_at": "2026-08-07T18:36:40.177246+00:00",
       "tags": []
     },
     {
@@ -206,8 +204,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/senior-project-manager-%E2%80%93-government-projects-assam-at-janitri-4448011564",
       "description": "",
-      "posted": "2026-08-07T12:35:35.343386+00:00",
-      "scraped_at": "2026-08-07T12:35:35.343388+00:00",
+      "posted": "2026-08-07T18:36:40.177076+00:00",
+      "scraped_at": "2026-08-07T18:36:40.177077+00:00",
       "tags": [
         "Government"
       ]
@@ -220,8 +218,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/manager-procurement-at-godrej-industries-group-4448727820",
       "description": "",
-      "posted": "2026-08-07T12:35:35.343176+00:00",
-      "scraped_at": "2026-08-07T12:35:35.343178+00:00",
+      "posted": "2026-08-07T18:36:40.176918+00:00",
+      "scraped_at": "2026-08-07T18:36:40.176920+00:00",
       "tags": []
     },
     {
@@ -232,8 +230,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/market-activation-manager-north-east-guwahati-at-castrol-4450272275",
       "description": "",
-      "posted": "2026-08-07T12:35:35.342971+00:00",
-      "scraped_at": "2026-08-07T12:35:35.342973+00:00",
+      "posted": "2026-08-07T18:36:40.176762+00:00",
+      "scraped_at": "2026-08-07T18:36:40.176763+00:00",
       "tags": []
     },
     {
@@ -244,8 +242,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/program-manager-%E2%80%93-genai-ready-naari-program-in-guwahati-nimaya-foundation-%E2%82%B96-lpa-at-aikyam-jobs-4448428299",
       "description": "",
-      "posted": "2026-08-07T12:35:35.342754+00:00",
-      "scraped_at": "2026-08-07T12:35:35.342756+00:00",
+      "posted": "2026-08-07T18:36:40.176609+00:00",
+      "scraped_at": "2026-08-07T18:36:40.176611+00:00",
       "tags": []
     },
     {
@@ -256,8 +254,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/india-general-manager-at-viking-4392749564",
       "description": "",
-      "posted": "2026-08-07T12:35:35.342543+00:00",
-      "scraped_at": "2026-08-07T12:35:35.342545+00:00",
+      "posted": "2026-08-07T18:36:40.176449+00:00",
+      "scraped_at": "2026-08-07T18:36:40.176451+00:00",
       "tags": []
     },
     {
@@ -268,8 +266,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/mes-business-analyst-at-tata-electronics-4395017607",
       "description": "",
-      "posted": "2026-08-07T12:35:35.342338+00:00",
-      "scraped_at": "2026-08-07T12:35:35.342340+00:00",
+      "posted": "2026-08-07T18:36:40.176291+00:00",
+      "scraped_at": "2026-08-07T18:36:40.176293+00:00",
       "tags": []
     },
     {
@@ -280,8 +278,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/financial-controller-at-hilton-4448843804",
       "description": "",
-      "posted": "2026-08-07T12:35:35.342134+00:00",
-      "scraped_at": "2026-08-07T12:35:35.342136+00:00",
+      "posted": "2026-08-07T18:36:40.176109+00:00",
+      "scraped_at": "2026-08-07T18:36:40.176111+00:00",
       "tags": []
     },
     {
@@ -292,8 +290,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/admin-assistant-at-selco-foundation-4448493324",
       "description": "",
-      "posted": "2026-08-07T12:35:35.341930+00:00",
-      "scraped_at": "2026-08-07T12:35:35.341932+00:00",
+      "posted": "2026-08-07T18:36:40.175954+00:00",
+      "scraped_at": "2026-08-07T18:36:40.175955+00:00",
       "tags": []
     },
     {
@@ -304,8 +302,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/operations-lead-at-livspace-4447968284",
       "description": "",
-      "posted": "2026-08-07T12:35:35.341708+00:00",
-      "scraped_at": "2026-08-07T12:35:35.341710+00:00",
+      "posted": "2026-08-07T18:36:40.175801+00:00",
+      "scraped_at": "2026-08-07T18:36:40.175803+00:00",
       "tags": []
     },
     {
@@ -316,8 +314,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/program-manager-at-nimaya-foundation-4449102939",
       "description": "",
-      "posted": "2026-08-07T12:35:35.341499+00:00",
-      "scraped_at": "2026-08-07T12:35:35.341501+00:00",
+      "posted": "2026-08-07T18:36:40.175651+00:00",
+      "scraped_at": "2026-08-07T18:36:40.175652+00:00",
       "tags": []
     },
     {
@@ -328,8 +326,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/relationship-manager-at-yes-bank-4448635074",
       "description": "",
-      "posted": "2026-08-07T12:35:35.341285+00:00",
-      "scraped_at": "2026-08-07T12:35:35.341287+00:00",
+      "posted": "2026-08-07T18:36:40.175495+00:00",
+      "scraped_at": "2026-08-07T18:36:40.175496+00:00",
       "tags": []
     },
     {
@@ -340,8 +338,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/social-media-executive-at-futurists-4448035727",
       "description": "",
-      "posted": "2026-08-07T12:35:35.341073+00:00",
-      "scraped_at": "2026-08-07T12:35:35.341075+00:00",
+      "posted": "2026-08-07T18:36:40.175336+00:00",
+      "scraped_at": "2026-08-07T18:36:40.175338+00:00",
       "tags": []
     },
     {
@@ -352,8 +350,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/executive-sales-support-gut-at-blue-dart-4447008765",
       "description": "",
-      "posted": "2026-08-07T12:35:35.340850+00:00",
-      "scraped_at": "2026-08-07T12:35:35.340853+00:00",
+      "posted": "2026-08-07T18:36:40.175143+00:00",
+      "scraped_at": "2026-08-07T18:36:40.175144+00:00",
       "tags": [
         "Sales"
       ]
@@ -366,8 +364,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/territory-manager-at-ge-healthcare-4432258542",
       "description": "",
-      "posted": "2026-08-07T12:35:35.340617+00:00",
-      "scraped_at": "2026-08-07T12:35:35.340619+00:00",
+      "posted": "2026-08-07T18:36:40.174990+00:00",
+      "scraped_at": "2026-08-07T18:36:40.174991+00:00",
       "tags": []
     },
     {
@@ -378,8 +376,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/customer-support-executive-guwahati-at-aditya-birla-capital-4410947650",
       "description": "",
-      "posted": "2026-08-07T12:35:35.340403+00:00",
-      "scraped_at": "2026-08-07T12:35:35.340405+00:00",
+      "posted": "2026-08-07T18:36:40.174837+00:00",
+      "scraped_at": "2026-08-07T18:36:40.174838+00:00",
       "tags": []
     },
     {
@@ -390,8 +388,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/ncc-coordinator-at-sfs-guwahati-official-4448081999",
       "description": "",
-      "posted": "2026-08-07T12:35:35.340186+00:00",
-      "scraped_at": "2026-08-07T12:35:35.340188+00:00",
+      "posted": "2026-08-07T18:36:40.174684+00:00",
+      "scraped_at": "2026-08-07T18:36:40.174686+00:00",
       "tags": []
     },
     {
@@ -402,8 +400,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/relationship-manager-retail-banking-group-at-icici-bank-4448774587",
       "description": "",
-      "posted": "2026-08-07T12:35:35.339968+00:00",
-      "scraped_at": "2026-08-07T12:35:35.339970+00:00",
+      "posted": "2026-08-07T18:36:40.174529+00:00",
+      "scraped_at": "2026-08-07T18:36:40.174531+00:00",
       "tags": [
         "Finance"
       ]
@@ -416,28 +414,28 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/customer-experience-executive-guwahati-at-slice-4448837163",
       "description": "",
-      "posted": "2026-08-07T12:35:35.339720+00:00",
-      "scraped_at": "2026-08-07T12:35:35.339723+00:00",
+      "posted": "2026-08-07T18:36:40.174363+00:00",
+      "scraped_at": "2026-08-07T18:36:40.174365+00:00",
       "tags": []
     },
     {
-      "id": "ff1ffc2209",
-      "title": "Projects – Contract Administration",
+      "id": "7c319d803f",
+      "title": "Team Member - AOCC",
       "company": "Adani Airport Holdings Ltd",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/projects-%E2%80%93-contract-administration-at-adani-airport-holdings-ltd-4419020890",
+      "url": "https://in.linkedin.com/jobs/view/team-member-aocc-at-adani-airport-holdings-ltd-4432675205",
       "description": "",
-      "posted": "2026-08-07T12:35:35.339419+00:00",
-      "scraped_at": "2026-08-07T12:35:35.339434+00:00",
+      "posted": "2026-08-07T18:36:40.174137+00:00",
+      "scraped_at": "2026-08-07T18:36:40.174147+00:00",
       "tags": []
     }
   ],
-  "last_updated": "2026-08-07T12:36:02.941070+00:00",
+  "last_updated": "2026-08-07T18:37:09.890397+00:00",
   "total": 34,
   "sources": [
-    "Shine",
     "Internshala",
+    "Shine",
     "LinkedIn"
   ]
 }
