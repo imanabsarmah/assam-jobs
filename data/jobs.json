@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "id": "f1525690d0",
-      "title": "Junior Recruitment Manager",
-      "company": "Junior Recruitment ManagerElephant In The Room Infotect",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-junior-recruitment-manager-job-in-multiple-locations-at-elephant-in-the-room-infotect1785523664",
-      "description": "",
-      "posted": "2026-08-12T07:03:53.177538+00:00",
-      "scraped_at": "2026-08-12T07:03:53.177541+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
       "id": "dee3d69b85",
       "title": "Junior Social Media Marketing Manager",
       "company": "Junior Social Media Marketing ManagerFXB Digital Media",
@@ -22,8 +8,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-junior-social-media-marketing-manager-job-in-multiple-locations-at-fxb-digital-media1786098483",
       "description": "",
-      "posted": "2026-08-12T07:03:53.176103+00:00",
-      "scraped_at": "2026-08-12T07:03:53.176105+00:00",
+      "posted": "2026-08-12T12:39:27.181927+00:00",
+      "scraped_at": "2026-08-12T12:39:27.181929+00:00",
       "tags": [
         "Internship"
       ]
@@ -36,8 +22,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/assistant-i-technical-information-communications-technology-job-in-guwahati-at-west-assam-milk-producers-cooperative-union-limited1785302026",
       "description": "",
-      "posted": "2026-08-12T07:03:53.174892+00:00",
-      "scraped_at": "2026-08-12T07:03:53.174895+00:00",
+      "posted": "2026-08-12T12:39:27.180788+00:00",
+      "scraped_at": "2026-08-12T12:39:27.180791+00:00",
       "tags": [
         "Internship"
       ]
@@ -50,22 +36,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-business-development-executive--hygiene-services-job-in-multiple-locations-at-harsha-dhanekula1786339799",
       "description": "",
-      "posted": "2026-08-12T07:03:53.173268+00:00",
-      "scraped_at": "2026-08-12T07:03:53.173273+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "3c84a77b94",
-      "title": "Operations Associate",
-      "company": "Operations AssociateStudent Gallery",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/operations-associate-job-in-guwahati-at-student-gallery1785248004",
-      "description": "",
-      "posted": "2026-08-12T07:03:53.171616+00:00",
-      "scraped_at": "2026-08-12T07:03:53.171618+00:00",
+      "posted": "2026-08-12T12:39:27.179259+00:00",
+      "scraped_at": "2026-08-12T12:39:27.179262+00:00",
       "tags": [
         "Internship"
       ]
@@ -78,22 +50,50 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/ev-technical-support-executive-job-in-guwahati-at-highway-delite1784179930",
       "description": "",
-      "posted": "2026-08-12T07:03:53.170176+00:00",
-      "scraped_at": "2026-08-12T07:03:53.170179+00:00",
+      "posted": "2026-08-12T12:39:27.177810+00:00",
+      "scraped_at": "2026-08-12T12:39:27.177813+00:00",
       "tags": [
         "Internship"
       ]
     },
     {
-      "id": "ddb543773d",
-      "title": "Associate Video Editor",
-      "company": "Associate Video EditorClemenzie CreativesActively hiring",
+      "id": "af668d21cc",
+      "title": "Travel Consultant & Operations Specialist",
+      "company": "Travel Consultant & Operations SpecialistNortheast Nook",
       "location": "Guwahati, Assam",
       "source": "Internshala",
-      "url": "https://internshala.com/job/detail/associate-video-editor-job-in-multiple-locations-at-clemenzie-creatives1786023003",
+      "url": "https://internshala.com/job/detail/fresher-travel-consultant-operations-specialist-job-in-guwahati-at-northeast-nook1785323176",
       "description": "",
-      "posted": "2026-08-12T07:03:53.168509+00:00",
-      "scraped_at": "2026-08-12T07:03:53.168523+00:00",
+      "posted": "2026-08-12T12:39:27.176188+00:00",
+      "scraped_at": "2026-08-12T12:39:27.176190+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "b1f9453f2b",
+      "title": "Finance Executive",
+      "company": "Finance ExecutiveAMOLAKSHAYA TRADE AND CREDIT Private Limited",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-finance-executive-job-in-guwahati-at-amolakshaya-trade-and-credit-private-limited1786034398",
+      "description": "",
+      "posted": "2026-08-12T12:39:27.174823+00:00",
+      "scraped_at": "2026-08-12T12:39:27.174826+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "3c84a77b94",
+      "title": "Operations Associate",
+      "company": "Operations AssociateStudent Gallery",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/operations-associate-job-in-guwahati-at-student-gallery1785248004",
+      "description": "",
+      "posted": "2026-08-12T12:39:27.173234+00:00",
+      "scraped_at": "2026-08-12T12:39:27.173251+00:00",
       "tags": [
         "Internship"
       ]
@@ -106,92 +106,32 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/development-manager/willpower-consultants-private-limited/19401119",
       "description": "",
-      "posted": "2026-08-12T07:03:52.456731+00:00",
-      "scraped_at": "2026-08-12T07:03:52.456747+00:00",
+      "posted": "2026-08-12T12:39:26.425736+00:00",
+      "scraped_at": "2026-08-12T12:39:26.425754+00:00",
       "tags": []
     },
     {
-      "id": "f8bd8d4e85",
-      "title": "Food & Beverage",
-      "company": "HM Resort",
+      "id": "011e8ee695",
+      "title": "Roller Operator",
+      "company": "Marutii Quality Products Pvt Ltd",
+      "location": "Lakhipur, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/roller-operator-at-marutii-quality-products-pvt-ltd-4449365477",
+      "description": "",
+      "posted": "2026-08-12T12:39:20.914963+00:00",
+      "scraped_at": "2026-08-12T12:39:20.914964+00:00",
+      "tags": []
+    },
+    {
+      "id": "201bb5f18e",
+      "title": "Customer Relationship Manager- Dibrugarh",
+      "company": "MyTravaly",
       "location": "Dibrugarh East, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/food-beverage-at-hm-resort-4443229212",
+      "url": "https://in.linkedin.com/jobs/view/customer-relationship-manager-dibrugarh-at-mytravaly-4449369816",
       "description": "",
-      "posted": "2026-08-12T07:03:45.875274+00:00",
-      "scraped_at": "2026-08-12T07:03:45.875276+00:00",
-      "tags": []
-    },
-    {
-      "id": "9606e69c5d",
-      "title": "Career Point Dibrugarh Recruitment – 3 Posts, Online Apply",
-      "company": "AssamCareer.com",
-      "location": "Dibrugarh, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/career-point-dibrugarh-recruitment-%E2%80%93-3-posts-online-apply-at-assamcareer-com-4450989965",
-      "description": "",
-      "posted": "2026-08-12T07:03:45.873804+00:00",
-      "scraped_at": "2026-08-12T07:03:45.873806+00:00",
-      "tags": []
-    },
-    {
-      "id": "a7b41a5a4d",
-      "title": "Political Scientist",
-      "company": "JobsPeopleDo.com",
-      "location": "Naobaricha, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/political-scientist-at-jobspeopledo-com-4449604142",
-      "description": "",
-      "posted": "2026-08-12T07:03:45.873142+00:00",
-      "scraped_at": "2026-08-12T07:03:45.873144+00:00",
-      "tags": []
-    },
-    {
-      "id": "04c20e598c",
-      "title": "SDS India Guwahati Recruitment 2026 – 3 Posts, Online Apply",
-      "company": "AssamCareer.com",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/sds-india-guwahati-recruitment-2026-%E2%80%93-3-posts-online-apply-at-assamcareer-com-4450980997",
-      "description": "",
-      "posted": "2026-08-12T07:03:45.872089+00:00",
-      "scraped_at": "2026-08-12T07:03:45.872091+00:00",
-      "tags": []
-    },
-    {
-      "id": "245addf765",
-      "title": "NPI Technician",
-      "company": "Tata Electronics",
-      "location": "Mayang, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/npi-technician-at-tata-electronics-4417212849",
-      "description": "",
-      "posted": "2026-08-12T07:03:45.871862+00:00",
-      "scraped_at": "2026-08-12T07:03:45.871865+00:00",
-      "tags": []
-    },
-    {
-      "id": "1351e609e4",
-      "title": "SMT Technician",
-      "company": "Tata Electronics",
-      "location": "Mayang, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/smt-technician-at-tata-electronics-4439252157",
-      "description": "",
-      "posted": "2026-08-12T07:03:45.871433+00:00",
-      "scraped_at": "2026-08-12T07:03:45.871435+00:00",
-      "tags": []
-    },
-    {
-      "id": "abcc383302",
-      "title": "Bill and Account Collectors",
-      "company": "JobsPeopleDo.com",
-      "location": "Balijana, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/bill-and-account-collectors-at-jobspeopledo-com-4449497393",
-      "description": "",
-      "posted": "2026-08-12T07:03:45.871193+00:00",
-      "scraped_at": "2026-08-12T07:03:45.871209+00:00",
+      "posted": "2026-08-12T12:39:20.914745+00:00",
+      "scraped_at": "2026-08-12T12:39:20.914747+00:00",
       "tags": []
     },
     {
@@ -202,118 +142,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/tm-talent-acquisition-guwahati-at-aditya-birla-capital-4433519241",
       "description": "",
-      "posted": "2026-08-12T07:03:43.133065+00:00",
-      "scraped_at": "2026-08-12T07:03:43.133067+00:00",
-      "tags": []
-    },
-    {
-      "id": "bf6d734fa4",
-      "title": "Senior Project Manager – Government Projects (Assam)",
-      "company": "Janitri",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/senior-project-manager-%E2%80%93-government-projects-assam-at-janitri-4448011564",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.132853+00:00",
-      "scraped_at": "2026-08-12T07:03:43.132855+00:00",
-      "tags": [
-        "Government"
-      ]
-    },
-    {
-      "id": "08cc1828cd",
-      "title": "Manager - Procurement",
-      "company": "Godrej Industries Group",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/manager-procurement-at-godrej-industries-group-4448727820",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.132642+00:00",
-      "scraped_at": "2026-08-12T07:03:43.132644+00:00",
-      "tags": []
-    },
-    {
-      "id": "64bfcee65f",
-      "title": "Relationship Manager",
-      "company": "MyTravaly",
-      "location": "Dibrugarh East, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/relationship-manager-at-mytravaly-4451192096",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.132436+00:00",
-      "scraped_at": "2026-08-12T07:03:43.132437+00:00",
-      "tags": []
-    },
-    {
-      "id": "ddd8b100c3",
-      "title": "Market Activation Manager- North East- Guwahati",
-      "company": "Castrol",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/market-activation-manager-north-east-guwahati-at-castrol-4450272275",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.132223+00:00",
-      "scraped_at": "2026-08-12T07:03:43.132225+00:00",
-      "tags": []
-    },
-    {
-      "id": "40a32bb08d",
-      "title": "Assistant Human Resources Manager",
-      "company": "Hilton",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/assistant-human-resources-manager-at-hilton-4451522142",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.132001+00:00",
-      "scraped_at": "2026-08-12T07:03:43.132002+00:00",
-      "tags": []
-    },
-    {
-      "id": "879ac51f04",
-      "title": "Social Media Manager",
-      "company": "Hotel Apollo Grand",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/social-media-manager-at-hotel-apollo-grand-4452368239",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.131789+00:00",
-      "scraped_at": "2026-08-12T07:03:43.131790+00:00",
-      "tags": []
-    },
-    {
-      "id": "a01ed8f5c4",
-      "title": "MES Business Analyst",
-      "company": "Tata Electronics",
-      "location": "Mayang, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/mes-business-analyst-at-tata-electronics-4395017607",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.131580+00:00",
-      "scraped_at": "2026-08-12T07:03:43.131582+00:00",
-      "tags": []
-    },
-    {
-      "id": "cb6139741e",
-      "title": "Content Strategist",
-      "company": "Futurists",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/content-strategist-at-futurists-4448044665",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.131369+00:00",
-      "scraped_at": "2026-08-12T07:03:43.131370+00:00",
-      "tags": []
-    },
-    {
-      "id": "c1f58e72b7",
-      "title": "Territory Manager-Personal Loan (Partner Business)",
-      "company": "IDFC FIRST Bank",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/territory-manager-personal-loan-partner-business-at-idfc-first-bank-4451695198",
-      "description": "",
-      "posted": "2026-08-12T07:03:43.131150+00:00",
-      "scraped_at": "2026-08-12T07:03:43.131157+00:00",
+      "posted": "2026-08-12T12:39:20.913853+00:00",
+      "scraped_at": "2026-08-12T12:39:20.913855+00:00",
       "tags": []
     },
     {
@@ -324,44 +154,46 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/credit-manager-at-icici-bank-4451385999",
       "description": "",
-      "posted": "2026-08-12T07:03:43.130932+00:00",
-      "scraped_at": "2026-08-12T07:03:43.130934+00:00",
+      "posted": "2026-08-12T12:39:20.913189+00:00",
+      "scraped_at": "2026-08-12T12:39:20.913191+00:00",
       "tags": []
     },
     {
-      "id": "b59d5c4576",
-      "title": "Social Media Executive",
-      "company": "Futurists",
-      "location": "Guwahati, Assam, India",
+      "id": "9606e69c5d",
+      "title": "Career Point Dibrugarh Recruitment – 3 Posts, Online Apply",
+      "company": "AssamCareer.com",
+      "location": "Dibrugarh, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/social-media-executive-at-futurists-4448035727",
+      "url": "https://in.linkedin.com/jobs/view/career-point-dibrugarh-recruitment-%E2%80%93-3-posts-online-apply-at-assamcareer-com-4450989965",
       "description": "",
-      "posted": "2026-08-12T07:03:43.130723+00:00",
-      "scraped_at": "2026-08-12T07:03:43.130726+00:00",
+      "posted": "2026-08-12T12:39:20.912975+00:00",
+      "scraped_at": "2026-08-12T12:39:20.912977+00:00",
       "tags": []
     },
     {
-      "id": "a3a69609a6",
-      "title": "Customer Experience Executive - Guwahati",
-      "company": "Rentokil Initial",
-      "location": "Guwahati, Assam, India",
+      "id": "bf6d734fa4",
+      "title": "Senior Project Manager – Government Projects (Assam)",
+      "company": "Janitri",
+      "location": "Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/customer-experience-executive-guwahati-at-rentokil-initial-4451659231",
+      "url": "https://in.linkedin.com/jobs/view/senior-project-manager-%E2%80%93-government-projects-assam-at-janitri-4448011564",
       "description": "",
-      "posted": "2026-08-12T07:03:43.130511+00:00",
-      "scraped_at": "2026-08-12T07:03:43.130513+00:00",
-      "tags": []
+      "posted": "2026-08-12T12:39:20.912754+00:00",
+      "scraped_at": "2026-08-12T12:39:20.912757+00:00",
+      "tags": [
+        "Government"
+      ]
     },
     {
-      "id": "98dcb2a8f2",
-      "title": "Territory Manager",
-      "company": "GE HealthCare",
-      "location": "Guwahati, Assam, India",
+      "id": "64bfcee65f",
+      "title": "Relationship Manager",
+      "company": "MyTravaly",
+      "location": "Dibrugarh East, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/territory-manager-at-ge-healthcare-4432258542",
+      "url": "https://in.linkedin.com/jobs/view/relationship-manager-at-mytravaly-4451192096",
       "description": "",
-      "posted": "2026-08-12T07:03:43.130298+00:00",
-      "scraped_at": "2026-08-12T07:03:43.130300+00:00",
+      "posted": "2026-08-12T12:39:20.912517+00:00",
+      "scraped_at": "2026-08-12T12:39:20.912519+00:00",
       "tags": []
     },
     {
@@ -372,22 +204,22 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/relationship-manager-retail-banking-group-at-icici-bank-4448774587",
       "description": "",
-      "posted": "2026-08-12T07:03:43.130082+00:00",
-      "scraped_at": "2026-08-12T07:03:43.130085+00:00",
+      "posted": "2026-08-12T12:39:20.912291+00:00",
+      "scraped_at": "2026-08-12T12:39:20.912293+00:00",
       "tags": [
         "Finance"
       ]
     },
     {
-      "id": "0669869e3e",
-      "title": "NCC Coordinator",
-      "company": "SFS Guwahati Official",
+      "id": "e70a8cadd3",
+      "title": "Facilities coordinator MIS",
+      "company": "JLL",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/ncc-coordinator-at-sfs-guwahati-official-4448081999",
+      "url": "https://in.linkedin.com/jobs/view/facilities-coordinator-mis-at-jll-4452448335",
       "description": "",
-      "posted": "2026-08-12T07:03:43.129857+00:00",
-      "scraped_at": "2026-08-12T07:03:43.129859+00:00",
+      "posted": "2026-08-12T12:39:20.912071+00:00",
+      "scraped_at": "2026-08-12T12:39:20.912073+00:00",
       "tags": []
     },
     {
@@ -398,8 +230,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/associate-manager-administration-at-adani-power-4424189690",
       "description": "",
-      "posted": "2026-08-12T07:03:43.129639+00:00",
-      "scraped_at": "2026-08-12T07:03:43.129642+00:00",
+      "posted": "2026-08-12T12:39:20.911805+00:00",
+      "scraped_at": "2026-08-12T12:39:20.911807+00:00",
       "tags": []
     },
     {
@@ -410,20 +242,260 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-manager-reservation-at-hilton-4452480752",
       "description": "",
-      "posted": "2026-08-12T07:03:43.129420+00:00",
-      "scraped_at": "2026-08-12T07:03:43.129422+00:00",
+      "posted": "2026-08-12T12:39:20.911577+00:00",
+      "scraped_at": "2026-08-12T12:39:20.911579+00:00",
       "tags": []
     },
     {
-      "id": "e70a8cadd3",
-      "title": "Facilities coordinator MIS",
-      "company": "JLL",
+      "id": "04c20e598c",
+      "title": "SDS India Guwahati Recruitment 2026 – 3 Posts, Online Apply",
+      "company": "AssamCareer.com",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/facilities-coordinator-mis-at-jll-4452448335",
+      "url": "https://in.linkedin.com/jobs/view/sds-india-guwahati-recruitment-2026-%E2%80%93-3-posts-online-apply-at-assamcareer-com-4450980997",
       "description": "",
-      "posted": "2026-08-12T07:03:43.129186+00:00",
-      "scraped_at": "2026-08-12T07:03:43.129190+00:00",
+      "posted": "2026-08-12T12:39:20.911361+00:00",
+      "scraped_at": "2026-08-12T12:39:20.911363+00:00",
+      "tags": []
+    },
+    {
+      "id": "245addf765",
+      "title": "NPI Technician",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/npi-technician-at-tata-electronics-4417212849",
+      "description": "",
+      "posted": "2026-08-12T12:39:20.911142+00:00",
+      "scraped_at": "2026-08-12T12:39:20.911144+00:00",
+      "tags": []
+    },
+    {
+      "id": "1351e609e4",
+      "title": "SMT Technician",
+      "company": "Tata Electronics",
+      "location": "Mayang, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/smt-technician-at-tata-electronics-4439252157",
+      "description": "",
+      "posted": "2026-08-12T12:39:20.910660+00:00",
+      "scraped_at": "2026-08-12T12:39:20.910677+00:00",
+      "tags": []
+    },
+    {
+      "id": "ba23401c30",
+      "title": "Senior Architect",
+      "company": "DekorAakar",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/senior-architect-at-dekoraakar-4451623786",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.136882+00:00",
+      "scraped_at": "2026-08-12T12:39:18.136885+00:00",
+      "tags": []
+    },
+    {
+      "id": "aa93729ded",
+      "title": "Sr. Power BI Developer",
+      "company": "Programmers.ai",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/sr-power-bi-developer-at-programmers-ai-4451399143",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.136647+00:00",
+      "scraped_at": "2026-08-12T12:39:18.136650+00:00",
+      "tags": [
+        "IT/Tech"
+      ]
+    },
+    {
+      "id": "b204b2003f",
+      "title": "Regional Sales Head",
+      "company": "Kran Consulting Pvt. Ltd",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/regional-sales-head-at-kran-consulting-pvt-ltd-4450136291",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.136424+00:00",
+      "scraped_at": "2026-08-12T12:39:18.136426+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "4b0b03f53c",
+      "title": "Assistant Manager Housekeeping",
+      "company": "Hilton",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-housekeeping-at-hilton-4453098001",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.136217+00:00",
+      "scraped_at": "2026-08-12T12:39:18.136219+00:00",
+      "tags": []
+    },
+    {
+      "id": "40a32bb08d",
+      "title": "Assistant Human Resources Manager",
+      "company": "Hilton",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/assistant-human-resources-manager-at-hilton-4451522142",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.136006+00:00",
+      "scraped_at": "2026-08-12T12:39:18.136008+00:00",
+      "tags": []
+    },
+    {
+      "id": "2a49a60b11",
+      "title": "Assistant Manager – Video KYC",
+      "company": "slice",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-%E2%80%93-video-kyc-at-slice-4452442980",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.135795+00:00",
+      "scraped_at": "2026-08-12T12:39:18.135797+00:00",
+      "tags": []
+    },
+    {
+      "id": "8077fd8985",
+      "title": "Business Development Manager- Endpoint Solutions",
+      "company": "Tech Data APAC",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/business-development-manager-endpoint-solutions-at-tech-data-apac%E2%80%8B-4448472777",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.135564+00:00",
+      "scraped_at": "2026-08-12T12:39:18.135566+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "f413fa2c16",
+      "title": "Assistant Manager - Customer Support",
+      "company": "slice",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-customer-support-at-slice-4453075590",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.135346+00:00",
+      "scraped_at": "2026-08-12T12:39:18.135348+00:00",
+      "tags": []
+    },
+    {
+      "id": "470f9a4bea",
+      "title": "Territory Sales Executive",
+      "company": "Dr. Reddy's Laboratories",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/territory-sales-executive-at-dr-reddy-s-laboratories-4451516590",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.135128+00:00",
+      "scraped_at": "2026-08-12T12:39:18.135130+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "67fc2d0453",
+      "title": "Planning & Estimation Engineer",
+      "company": "D Kumar Group",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/planning-estimation-engineer-at-d-kumar-group-4449808098",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.134908+00:00",
+      "scraped_at": "2026-08-12T12:39:18.134909+00:00",
+      "tags": [
+        "IT/Tech"
+      ]
+    },
+    {
+      "id": "9448a83dda",
+      "title": "Area Manager - Concrete",
+      "company": "Sika",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/area-manager-concrete-at-sika-4448772509",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.134681+00:00",
+      "scraped_at": "2026-08-12T12:39:18.134684+00:00",
+      "tags": []
+    },
+    {
+      "id": "613c787ccd",
+      "title": "Senior Sales Executive - Growth & Development",
+      "company": "Vikas Medical Devices",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/senior-sales-executive-growth-development-at-vikas-medical-devices-4451052539",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.134446+00:00",
+      "scraped_at": "2026-08-12T12:39:18.134448+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "996425203b",
+      "title": "State Program Manager-Lead Poisoning Prevention Program-Assam",
+      "company": "Vital Strategies",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/state-program-manager-lead-poisoning-prevention-program-assam-at-vital-strategies-4448787031",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.134221+00:00",
+      "scraped_at": "2026-08-12T12:39:18.134223+00:00",
+      "tags": []
+    },
+    {
+      "id": "a3a69609a6",
+      "title": "Customer Experience Executive - Guwahati",
+      "company": "Rentokil Initial",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/customer-experience-executive-guwahati-at-rentokil-initial-4451659231",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.133987+00:00",
+      "scraped_at": "2026-08-12T12:39:18.133989+00:00",
+      "tags": []
+    },
+    {
+      "id": "8f3786703b",
+      "title": "German Language Trainer",
+      "company": "UnfilterStory",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/german-language-trainer-at-unfilterstory-4452357434",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.133762+00:00",
+      "scraped_at": "2026-08-12T12:39:18.133764+00:00",
+      "tags": []
+    },
+    {
+      "id": "879ac51f04",
+      "title": "Social Media Manager",
+      "company": "Hotel Apollo Grand",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/social-media-manager-at-hotel-apollo-grand-4452368239",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.133521+00:00",
+      "scraped_at": "2026-08-12T12:39:18.133523+00:00",
+      "tags": []
+    },
+    {
+      "id": "08cc1828cd",
+      "title": "Manager - Procurement",
+      "company": "Godrej Industries Group",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/manager-procurement-at-godrej-industries-group-4448727820",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.133298+00:00",
+      "scraped_at": "2026-08-12T12:39:18.133300+00:00",
       "tags": []
     },
     {
@@ -434,16 +506,40 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/team-member-aocc-at-adani-airport-holdings-ltd-4432675205",
       "description": "",
-      "posted": "2026-08-12T07:03:43.128874+00:00",
-      "scraped_at": "2026-08-12T07:03:43.128888+00:00",
+      "posted": "2026-08-12T12:39:18.133072+00:00",
+      "scraped_at": "2026-08-12T12:39:18.133074+00:00",
+      "tags": []
+    },
+    {
+      "id": "2c5e24077a",
+      "title": "Accounts Executive",
+      "company": "D Kumar Group",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/accounts-executive-at-d-kumar-group-4449808099",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.132832+00:00",
+      "scraped_at": "2026-08-12T12:39:18.132835+00:00",
+      "tags": []
+    },
+    {
+      "id": "98dcb2a8f2",
+      "title": "Territory Manager",
+      "company": "GE HealthCare",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/territory-manager-at-ge-healthcare-4432258542",
+      "description": "",
+      "posted": "2026-08-12T12:39:18.132510+00:00",
+      "scraped_at": "2026-08-12T12:39:18.132525+00:00",
       "tags": []
     }
   ],
-  "last_updated": "2026-08-12T07:04:12.298535+00:00",
-  "total": 35,
+  "last_updated": "2026-08-12T12:39:46.449291+00:00",
+  "total": 42,
   "sources": [
-    "Shine",
     "Internshala",
+    "Shine",
     "LinkedIn"
   ]
 }
