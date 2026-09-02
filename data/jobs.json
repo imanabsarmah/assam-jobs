@@ -1,6 +1,20 @@
 {
   "jobs": [
     {
+      "id": "1af9df8993",
+      "title": "Dentist",
+      "company": "DentistApex Healthcare",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/dentist-job-in-guwahati-at-apex-healthcare1788175850",
+      "description": "",
+      "posted": "2026-09-02T20:12:38.650853+00:00",
+      "scraped_at": "2026-09-02T20:12:38.650857+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
       "id": "2d8d4c0822",
       "title": "Back Office Executive - Loan Recovery & MIS",
       "company": "Back Office Executive - Loan Recovery & MISM.P. Associate",
@@ -8,22 +22,36 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/back-office-executive-loan-recovery-mis-job-in-guwahati-at-mp-associate1788356146",
       "description": "",
-      "posted": "2026-09-02T15:28:17.130132+00:00",
-      "scraped_at": "2026-09-02T15:28:17.130136+00:00",
+      "posted": "2026-09-02T20:12:38.649227+00:00",
+      "scraped_at": "2026-09-02T20:12:38.649231+00:00",
       "tags": [
         "Internship"
       ]
     },
     {
-      "id": "b7a2a08f55",
-      "title": "Full-Time Content Creator & Digital",
-      "company": "Full-Time Content Creator & DigitalPROBreeziah Travels",
+      "id": "20f26b2cf0",
+      "title": "Lecturer In Computing - Greenford",
+      "company": "Lecturer In Computing - GreenfordGBS UK",
       "location": "Guwahati, Assam",
       "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-full-time-content-creator-digital-job-in-guwahati-at-breeziah-travels1786633970",
+      "url": "https://internshala.com/job/detail/fresher-lecturer-in-computing-greenford-job-in-guwahati-at-gbs-uk1787832792",
       "description": "",
-      "posted": "2026-09-02T15:28:17.128154+00:00",
-      "scraped_at": "2026-09-02T15:28:17.128158+00:00",
+      "posted": "2026-09-02T20:12:38.647834+00:00",
+      "scraped_at": "2026-09-02T20:12:38.647838+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "6a5f914f7d",
+      "title": "Computer Studies Lecturer",
+      "company": "Computer Studies LecturerGBS UK",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-computer-studies-lecturer-job-in-guwahati-at-gbs-uk1787833180",
+      "description": "",
+      "posted": "2026-09-02T20:12:38.646414+00:00",
+      "scraped_at": "2026-09-02T20:12:38.646418+00:00",
       "tags": [
         "Internship"
       ]
@@ -36,36 +64,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-video-editor-job-in-guwahati-at-verd-media1788287980",
       "description": "",
-      "posted": "2026-09-02T15:28:17.126382+00:00",
-      "scraped_at": "2026-09-02T15:28:17.126386+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "7b02802ddb",
-      "title": "Business Development Executive – Hygiene Services",
-      "company": "Business Development Executive – Hygiene ServicesHarsha DhanekulaActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-business-development-executive--hygiene-services-job-in-multiple-locations-at-harsha-dhanekula1786339799",
-      "description": "",
-      "posted": "2026-09-02T15:28:17.124586+00:00",
-      "scraped_at": "2026-09-02T15:28:17.124590+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "1af9df8993",
-      "title": "Dentist",
-      "company": "DentistApex Healthcare",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/dentist-job-in-guwahati-at-apex-healthcare1788175850",
-      "description": "",
-      "posted": "2026-09-02T15:28:17.123178+00:00",
-      "scraped_at": "2026-09-02T15:28:17.123182+00:00",
+      "posted": "2026-09-02T20:12:38.644817+00:00",
+      "scraped_at": "2026-09-02T20:12:38.644821+00:00",
       "tags": [
         "Internship"
       ]
@@ -78,8 +78,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-construction-studies-lecturer-job-in-guwahati-at-gbs-uk1787831293",
       "description": "",
-      "posted": "2026-09-02T15:28:17.120325+00:00",
-      "scraped_at": "2026-09-02T15:28:17.120339+00:00",
+      "posted": "2026-09-02T20:12:38.641959+00:00",
+      "scraped_at": "2026-09-02T20:12:38.641972+00:00",
       "tags": [
         "Internship"
       ]
@@ -92,22 +92,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/job-for-sales-manager-agency-channel-life-insurance/niyukti-management-consultants/19487622",
       "description": "",
-      "posted": "2026-09-02T15:28:16.154742+00:00",
-      "scraped_at": "2026-09-02T15:28:16.154755+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "id": "6f7d86a276",
-      "title": "Candidate Required For MNC Insurance Sales Manager salary 4Lac",
-      "company": "Niyukti Systems, Inc",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/candidate-required-for-mnc-insurance-sales-manager-salary-4lac-at-niyukti-systems-inc-4460959402",
-      "description": "",
-      "posted": "2026-09-02T15:28:10.565998+00:00",
-      "scraped_at": "2026-09-02T15:28:10.566001+00:00",
+      "posted": "2026-09-02T20:12:37.762459+00:00",
+      "scraped_at": "2026-09-02T20:12:37.762471+00:00",
       "tags": [
         "Sales"
       ]
@@ -120,8 +106,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/test-shift-supervisor-at-tata-electronics-4437686754",
       "description": "",
-      "posted": "2026-09-02T15:28:10.565734+00:00",
-      "scraped_at": "2026-09-02T15:28:10.565737+00:00",
+      "posted": "2026-09-02T20:12:32.109286+00:00",
+      "scraped_at": "2026-09-02T20:12:32.109288+00:00",
       "tags": []
     },
     {
@@ -132,22 +118,22 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/accountant-at-success-stories-hr-solutions-4459472938",
       "description": "",
-      "posted": "2026-09-02T15:28:10.565455+00:00",
-      "scraped_at": "2026-09-02T15:28:10.565458+00:00",
+      "posted": "2026-09-02T20:12:32.109028+00:00",
+      "scraped_at": "2026-09-02T20:12:32.109030+00:00",
       "tags": [
         "Finance"
       ]
     },
     {
-      "id": "810d8a2870",
-      "title": "Junior Architect",
-      "company": "HiCube Designs",
+      "id": "c1f58e72b7",
+      "title": "Territory Manager-Personal Loan (Partner Business)",
+      "company": "IDFC FIRST Bank",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/junior-architect-at-hicube-designs-4458473891",
+      "url": "https://in.linkedin.com/jobs/view/territory-manager-personal-loan-partner-business-at-idfc-first-bank-4451695198",
       "description": "",
-      "posted": "2026-09-02T15:28:10.564674+00:00",
-      "scraped_at": "2026-09-02T15:28:10.564678+00:00",
+      "posted": "2026-09-02T20:12:32.108765+00:00",
+      "scraped_at": "2026-09-02T20:12:32.108769+00:00",
       "tags": []
     },
     {
@@ -158,8 +144,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/zonal-merchant-lead-at-airtel-payments-bank-4462191272",
       "description": "",
-      "posted": "2026-09-02T15:28:10.564396+00:00",
-      "scraped_at": "2026-09-02T15:28:10.564399+00:00",
+      "posted": "2026-09-02T20:12:32.107968+00:00",
+      "scraped_at": "2026-09-02T20:12:32.107971+00:00",
       "tags": []
     },
     {
@@ -170,8 +156,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/icu-nurse-incharge-at-medico-hub-4458631290",
       "description": "",
-      "posted": "2026-09-02T15:28:10.564141+00:00",
-      "scraped_at": "2026-09-02T15:28:10.564144+00:00",
+      "posted": "2026-09-02T20:12:32.107698+00:00",
+      "scraped_at": "2026-09-02T20:12:32.107701+00:00",
       "tags": [
         "Healthcare"
       ]
@@ -184,8 +170,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/scientific-editor-medicine-work-from-home-at-cactus-communications-4458087436",
       "description": "",
-      "posted": "2026-09-02T15:28:10.563339+00:00",
-      "scraped_at": "2026-09-02T15:28:10.563342+00:00",
+      "posted": "2026-09-02T20:12:32.107141+00:00",
+      "scraped_at": "2026-09-02T20:12:32.107144+00:00",
       "tags": []
     },
     {
@@ -196,51 +182,21 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/editor-public-health-work-from-home-at-cactus-communications-4457750737",
       "description": "",
-      "posted": "2026-09-02T15:28:10.562552+00:00",
-      "scraped_at": "2026-09-02T15:28:10.562555+00:00",
+      "posted": "2026-09-02T20:12:32.106319+00:00",
+      "scraped_at": "2026-09-02T20:12:32.106322+00:00",
       "tags": []
     },
     {
-      "id": "713eafd098",
-      "title": "Product Promotion Manager | Medical Devices | MedTech | 5+ Years | Guwahati",
-      "company": "Bharat Medtec Ascent",
+      "id": "3ff5294200",
+      "title": "Senior Officer - ARFF",
+      "company": "Adani Airport Holdings Ltd",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/product-promotion-manager-medical-devices-medtech-5%2B-years-guwahati-at-bharat-medtec-ascent-4455843468",
+      "url": "https://in.linkedin.com/jobs/view/senior-officer-arff-at-adani-airport-holdings-ltd-4425099053",
       "description": "",
-      "posted": "2026-09-02T15:28:10.562274+00:00",
-      "scraped_at": "2026-09-02T15:28:10.562277+00:00",
-      "tags": [
-        "Healthcare"
-      ]
-    },
-    {
-      "id": "d7ca4009f8",
-      "title": "Field Sales Executive",
-      "company": "Samannay Security Service",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/field-sales-executive-at-samannay-security-service-4459216156",
-      "description": "",
-      "posted": "2026-09-02T15:28:10.562017+00:00",
-      "scraped_at": "2026-09-02T15:28:10.562020+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "id": "5a2f6860ff",
-      "title": "Area Sales Manager for Assam & Meghalaya",
-      "company": "DeckMount Electronics",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/area-sales-manager-for-assam-meghalaya-at-deckmount-electronics-4456891064",
-      "description": "",
-      "posted": "2026-09-02T15:28:10.561754+00:00",
-      "scraped_at": "2026-09-02T15:28:10.561757+00:00",
-      "tags": [
-        "Sales"
-      ]
+      "posted": "2026-09-02T20:12:32.105181+00:00",
+      "scraped_at": "2026-09-02T20:12:32.105184+00:00",
+      "tags": []
     },
     {
       "id": "def7a4fa35",
@@ -250,11 +206,23 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/workato-architect-senior-developer-at-programmers-ai-4461051575",
       "description": "",
-      "posted": "2026-09-02T15:28:10.561467+00:00",
-      "scraped_at": "2026-09-02T15:28:10.561471+00:00",
+      "posted": "2026-09-02T20:12:32.104624+00:00",
+      "scraped_at": "2026-09-02T20:12:32.104628+00:00",
       "tags": [
         "IT/Tech"
       ]
+    },
+    {
+      "id": "b147945d01",
+      "title": "BDM/Outreach Manager( Education Industry)-Assam",
+      "company": "Profession Makers Recruitment Consultants",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/bdm-outreach-manager-education-industry-assam-at-profession-makers-recruitment-consultants-4461026169",
+      "description": "",
+      "posted": "2026-09-02T20:12:32.104348+00:00",
+      "scraped_at": "2026-09-02T20:12:32.104352+00:00",
+      "tags": []
     },
     {
       "id": "aa93729ded",
@@ -264,23 +232,11 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/sr-power-bi-developer-at-programmers-ai-4461248660",
       "description": "",
-      "posted": "2026-09-02T15:28:10.560921+00:00",
-      "scraped_at": "2026-09-02T15:28:10.560937+00:00",
+      "posted": "2026-09-02T20:12:32.104064+00:00",
+      "scraped_at": "2026-09-02T20:12:32.104075+00:00",
       "tags": [
         "IT/Tech"
       ]
-    },
-    {
-      "id": "27d77f8ffb",
-      "title": "Relationship Manager - Guwahati",
-      "company": "Aditya Birla Capital",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/relationship-manager-guwahati-at-aditya-birla-capital-4404014071",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.796802+00:00",
-      "scraped_at": "2026-09-02T15:28:07.796805+00:00",
-      "tags": []
     },
     {
       "id": "4d597496f4",
@@ -290,35 +246,135 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/executive-n-sales-engineering-at-asian-paints-4462410665",
       "description": "",
-      "posted": "2026-09-02T15:28:07.796543+00:00",
-      "scraped_at": "2026-09-02T15:28:07.796547+00:00",
+      "posted": "2026-09-02T20:12:29.313921+00:00",
+      "scraped_at": "2026-09-02T20:12:29.313924+00:00",
       "tags": [
         "IT/Tech",
         "Sales"
       ]
     },
     {
-      "id": "63c698a295",
-      "title": "Training Technicians",
-      "company": "Tata Electronics",
-      "location": "Mayang, Assam, India",
+      "id": "713eafd098",
+      "title": "Product Promotion Manager | Medical Devices | MedTech | 5+ Years | Guwahati",
+      "company": "Bharat Medtec Ascent",
+      "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/training-technicians-at-tata-electronics-4437694563",
+      "url": "https://in.linkedin.com/jobs/view/product-promotion-manager-medical-devices-medtech-5%2B-years-guwahati-at-bharat-medtec-ascent-4455843468",
       "description": "",
-      "posted": "2026-09-02T15:28:07.796268+00:00",
-      "scraped_at": "2026-09-02T15:28:07.796271+00:00",
+      "posted": "2026-09-02T20:12:29.313633+00:00",
+      "scraped_at": "2026-09-02T20:12:29.313637+00:00",
+      "tags": [
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "1e06cb1685",
+      "title": "Associate Manager - Administration",
+      "company": "Adani Power",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/associate-manager-administration-at-adani-power-4424189690",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.313361+00:00",
+      "scraped_at": "2026-09-02T20:12:29.313364+00:00",
       "tags": []
     },
     {
-      "id": "0064fafc6f",
-      "title": "Program Manager - NPI",
-      "company": "Tata Electronics",
-      "location": "Mayang, Assam, India",
+      "id": "1519c2b2b2",
+      "title": "Front Desk Associate",
+      "company": "Hotel Nandan",
+      "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/program-manager-npi-at-tata-electronics-4459529448",
+      "url": "https://in.linkedin.com/jobs/view/front-desk-associate-at-hotel-nandan-4459956962",
       "description": "",
-      "posted": "2026-09-02T15:28:07.796007+00:00",
-      "scraped_at": "2026-09-02T15:28:07.796014+00:00",
+      "posted": "2026-09-02T20:12:29.313096+00:00",
+      "scraped_at": "2026-09-02T20:12:29.313099+00:00",
+      "tags": []
+    },
+    {
+      "id": "27c623a18b",
+      "title": "EXECUTIVE N - BEAUTIFUL HOMES (Guwahati)",
+      "company": "Asian Paints",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/executive-n-beautiful-homes-guwahati-at-asian-paints-4462409681",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.312829+00:00",
+      "scraped_at": "2026-09-02T20:12:29.312833+00:00",
+      "tags": []
+    },
+    {
+      "id": "ffdefe1765",
+      "title": "Senior Sales Executive",
+      "company": "ZeroB",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/senior-sales-executive-at-zerob-4459921254",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.312541+00:00",
+      "scraped_at": "2026-09-02T20:12:29.312544+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "da21e361eb",
+      "title": "Customer Development Executive - Guwahati",
+      "company": "Rentokil Initial",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/customer-development-executive-guwahati-at-rentokil-initial-4460809420",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.312278+00:00",
+      "scraped_at": "2026-09-02T20:12:29.312281+00:00",
+      "tags": []
+    },
+    {
+      "id": "32b585bd3a",
+      "title": "Centre Manager",
+      "company": "upGrad",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/centre-manager-at-upgrad-4460975142",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.312010+00:00",
+      "scraped_at": "2026-09-02T20:12:29.312013+00:00",
+      "tags": []
+    },
+    {
+      "id": "9c39476bb7",
+      "title": "Commis I",
+      "company": "Hilton",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/commis-i-at-hilton-4461797264",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.311736+00:00",
+      "scraped_at": "2026-09-02T20:12:29.311740+00:00",
+      "tags": []
+    },
+    {
+      "id": "810d8a2870",
+      "title": "Junior Architect",
+      "company": "HiCube Designs",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/junior-architect-at-hicube-designs-4458473891",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.311182+00:00",
+      "scraped_at": "2026-09-02T20:12:29.311184+00:00",
+      "tags": []
+    },
+    {
+      "id": "b01d18e969",
+      "title": "Front Office Associate",
+      "company": "Hilton",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/front-office-associate-at-hilton-4462160698",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.310906+00:00",
+      "scraped_at": "2026-09-02T20:12:29.310910+00:00",
       "tags": []
     },
     {
@@ -329,8 +385,46 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/territory-sales-executive-at-dr-reddy-s-laboratories-4460806765",
       "description": "",
-      "posted": "2026-09-02T15:28:07.795747+00:00",
-      "scraped_at": "2026-09-02T15:28:07.795750+00:00",
+      "posted": "2026-09-02T20:12:29.310603+00:00",
+      "scraped_at": "2026-09-02T20:12:29.310606+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "685cf8dae2",
+      "title": "Team Lead - AMZL",
+      "company": "Amazon",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/team-lead-amzl-at-amazon-4460836476",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.310331+00:00",
+      "scraped_at": "2026-09-02T20:12:29.310333+00:00",
+      "tags": []
+    },
+    {
+      "id": "b50f7b05c1",
+      "title": "Area Business Manager | CNS | Guwahati",
+      "company": "Abbott",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/area-business-manager-cns-guwahati-at-abbott-4458739201",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.310050+00:00",
+      "scraped_at": "2026-09-02T20:12:29.310053+00:00",
+      "tags": []
+    },
+    {
+      "id": "d7ca4009f8",
+      "title": "Field Sales Executive",
+      "company": "Samannay Security Service",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/field-sales-executive-at-samannay-security-service-4459216156",
+      "description": "",
+      "posted": "2026-09-02T20:12:29.309781+00:00",
+      "scraped_at": "2026-09-02T20:12:29.309785+00:00",
       "tags": [
         "Sales"
       ]
@@ -343,81 +437,23 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/key-account-manager-at-johnson-johnson-medtech-4461776171",
       "description": "",
-      "posted": "2026-09-02T15:28:07.795461+00:00",
-      "scraped_at": "2026-09-02T15:28:07.795464+00:00",
+      "posted": "2026-09-02T20:12:29.309482+00:00",
+      "scraped_at": "2026-09-02T20:12:29.309487+00:00",
       "tags": []
     },
     {
-      "id": "1a742b55d6",
-      "title": "On-site coach",
-      "company": "Social Capital",
+      "id": "5a2f6860ff",
+      "title": "Area Sales Manager for Assam & Meghalaya",
+      "company": "DeckMount Electronics",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/on-site-coach-at-social-capital-4459963398",
+      "url": "https://in.linkedin.com/jobs/view/area-sales-manager-for-assam-meghalaya-at-deckmount-electronics-4456891064",
       "description": "",
-      "posted": "2026-09-02T15:28:07.795198+00:00",
-      "scraped_at": "2026-09-02T15:28:07.795200+00:00",
-      "tags": []
-    },
-    {
-      "id": "27c623a18b",
-      "title": "EXECUTIVE N - BEAUTIFUL HOMES (Guwahati)",
-      "company": "Asian Paints",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/executive-n-beautiful-homes-guwahati-at-asian-paints-4462409681",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.794941+00:00",
-      "scraped_at": "2026-09-02T15:28:07.794944+00:00",
-      "tags": []
-    },
-    {
-      "id": "b147945d01",
-      "title": "BDM/Outreach Manager( Education Industry)-Assam",
-      "company": "Profession Makers Recruitment Consultants",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/bdm-outreach-manager-education-industry-assam-at-profession-makers-recruitment-consultants-4461026169",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.794682+00:00",
-      "scraped_at": "2026-09-02T15:28:07.794685+00:00",
-      "tags": []
-    },
-    {
-      "id": "da21e361eb",
-      "title": "Customer Development Executive - Guwahati",
-      "company": "Rentokil Initial",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/customer-development-executive-guwahati-at-rentokil-initial-4460809420",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.794394+00:00",
-      "scraped_at": "2026-09-02T15:28:07.794397+00:00",
-      "tags": []
-    },
-    {
-      "id": "4f2d695465",
-      "title": "Assistant Manager Customer Operations",
-      "company": "Vontier",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/assistant-manager-customer-operations-at-vontier-4460117019",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.794135+00:00",
-      "scraped_at": "2026-09-02T15:28:07.794138+00:00",
-      "tags": []
-    },
-    {
-      "id": "32b585bd3a",
-      "title": "Centre Manager",
-      "company": "upGrad",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/centre-manager-at-upgrad-4460975142",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.793872+00:00",
-      "scraped_at": "2026-09-02T15:28:07.793875+00:00",
-      "tags": []
+      "posted": "2026-09-02T20:12:29.309148+00:00",
+      "scraped_at": "2026-09-02T20:12:29.309156+00:00",
+      "tags": [
+        "Sales"
+      ]
     },
     {
       "id": "47f89cec32",
@@ -427,100 +463,30 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-hr-manager-at-d-kumar-group-4458400008",
       "description": "",
-      "posted": "2026-09-02T15:28:07.793586+00:00",
-      "scraped_at": "2026-09-02T15:28:07.793590+00:00",
+      "posted": "2026-09-02T20:12:29.308861+00:00",
+      "scraped_at": "2026-09-02T20:12:29.308865+00:00",
       "tags": []
     },
     {
-      "id": "c1f58e72b7",
-      "title": "Territory Manager-Personal Loan (Partner Business)",
-      "company": "IDFC FIRST Bank",
+      "id": "c1fe420b92",
+      "title": "Field Sales Executive",
+      "company": "Gravity Studio",
       "location": "Guwahati, Assam, India",
       "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/territory-manager-personal-loan-partner-business-at-idfc-first-bank-4451695198",
+      "url": "https://in.linkedin.com/jobs/view/field-sales-executive-at-gravity-studio-4457250090",
       "description": "",
-      "posted": "2026-09-02T15:28:07.793274+00:00",
-      "scraped_at": "2026-09-02T15:28:07.793277+00:00",
-      "tags": []
-    },
-    {
-      "id": "685cf8dae2",
-      "title": "Team Lead - AMZL",
-      "company": "Amazon",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/team-lead-amzl-at-amazon-4460836476",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.793011+00:00",
-      "scraped_at": "2026-09-02T15:28:07.793013+00:00",
-      "tags": []
-    },
-    {
-      "id": "a71797ae1c",
-      "title": "Executive Accounts (Guwahati)",
-      "company": "Blue Dart",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/executive-accounts-guwahati-at-blue-dart-4459150679",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.792742+00:00",
-      "scraped_at": "2026-09-02T15:28:07.792746+00:00",
-      "tags": []
-    },
-    {
-      "id": "1e06cb1685",
-      "title": "Associate Manager - Administration",
-      "company": "Adani Power",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/associate-manager-administration-at-adani-power-4424189690",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.792447+00:00",
-      "scraped_at": "2026-09-02T15:28:07.792450+00:00",
-      "tags": []
-    },
-    {
-      "id": "e1a917bb73",
-      "title": "Guest Relation Executive",
-      "company": "Hilton",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/guest-relation-executive-at-hilton-4461776657",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.792174+00:00",
-      "scraped_at": "2026-09-02T15:28:07.792177+00:00",
-      "tags": []
-    },
-    {
-      "id": "b839ba063f",
-      "title": "Housekeeping Associate",
-      "company": "Hilton",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/housekeeping-associate-at-hilton-4462162660",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.791886+00:00",
-      "scraped_at": "2026-09-02T15:28:07.791890+00:00",
-      "tags": []
-    },
-    {
-      "id": "1ad83de794",
-      "title": "Counsellor",
-      "company": "IDP Education Ltd",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/counsellor-at-idp-education-ltd-4456305436",
-      "description": "",
-      "posted": "2026-09-02T15:28:07.791533+00:00",
-      "scraped_at": "2026-09-02T15:28:07.791547+00:00",
-      "tags": []
+      "posted": "2026-09-02T20:12:29.308495+00:00",
+      "scraped_at": "2026-09-02T20:12:29.308507+00:00",
+      "tags": [
+        "Sales"
+      ]
     }
   ],
-  "last_updated": "2026-09-02T15:28:36.635688+00:00",
-  "total": 40,
+  "last_updated": "2026-09-02T20:12:57.957957+00:00",
+  "total": 37,
   "sources": [
+    "Internshala",
     "Shine",
-    "LinkedIn",
-    "Internshala"
+    "LinkedIn"
   ]
 }
