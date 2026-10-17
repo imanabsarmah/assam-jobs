@@ -1,85 +1,15 @@
 {
   "jobs": [
     {
-      "id": "0efe2cec70",
-      "title": "Accountant",
-      "company": "AccountantRecruitbuddy",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/accountant-job-in-guwahati-at-recruitbuddy1791873503",
-      "description": "",
-      "posted": "2026-10-17T09:49:28.244474+00:00",
-      "scraped_at": "2026-10-17T09:49:28.244477+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "9e0bb9e867",
-      "title": "Spoken English Trainer",
-      "company": "Spoken English TrainerSR Edu TechnologiesActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-spoken-english-trainer-job-in-guwahati-at-sr-edu-technologies1790579655",
-      "description": "",
-      "posted": "2026-10-17T09:49:28.243326+00:00",
-      "scraped_at": "2026-10-17T09:49:28.243330+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "9e97c49457",
-      "title": "Mathematics/Abacus/Vedic Math Trainer",
-      "company": "Mathematics/Abacus/Vedic Math TrainerSR Edu TechnologiesActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/mathematics-abacus-vedic-math-trainer-job-in-multiple-locations-at-sr-edu-technologies1790604527",
-      "description": "",
-      "posted": "2026-10-17T09:49:28.242262+00:00",
-      "scraped_at": "2026-10-17T09:49:28.242266+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "6c693be0c9",
-      "title": "Customer Service Associate",
-      "company": "Customer Service AssociatePRIYANYA AVIATION SERVICES Private Limited",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-customer-service-associate-job-in-multiple-locations-at-priyanya-aviation-services-private-limited1791359009",
-      "description": "",
-      "posted": "2026-10-17T09:49:28.241187+00:00",
-      "scraped_at": "2026-10-17T09:49:28.241193+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "16abee3f62",
+      "id": "198d189ffd",
       "title": "Field Sales Associate",
-      "company": "Field Sales AssociateUrjabodh Neurodiverse Learning Centre",
+      "company": "Field Sales AssociateSwan Food Products",
       "location": "Guwahati, Assam",
       "source": "Internshala",
-      "url": "https://internshala.com/job/detail/part-time-field-sales-associate-job-in-guwahati-at-urjabodh-neurodiverse-learning-centre1790325364",
+      "url": "https://internshala.com/job/detail/field-sales-associate-job-in-siliguri-at-swan-food-products1792043434",
       "description": "",
-      "posted": "2026-10-17T09:49:28.239933+00:00",
-      "scraped_at": "2026-10-17T09:49:28.239937+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "a9dee1190d",
-      "title": "Travel Video Editor",
-      "company": "Travel Video EditorWorld Tour",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/travel-video-editor-job-in-guwahati-at-world-tour1791444998",
-      "description": "",
-      "posted": "2026-10-17T09:49:28.238663+00:00",
-      "scraped_at": "2026-10-17T09:49:28.238667+00:00",
+      "posted": "2026-10-17T14:32:34.164394+00:00",
+      "scraped_at": "2026-10-17T14:32:34.164396+00:00",
       "tags": [
         "Internship"
       ]
@@ -92,8 +22,78 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/electrical-engineer--relay-testing-job-in-multiple-locations-at-lbengineering-pvtltd1790850669",
       "description": "",
-      "posted": "2026-10-17T09:49:28.237587+00:00",
-      "scraped_at": "2026-10-17T09:49:28.237600+00:00",
+      "posted": "2026-10-17T14:32:34.163695+00:00",
+      "scraped_at": "2026-10-17T14:32:34.163697+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "16abee3f62",
+      "title": "Field Sales Associate",
+      "company": "Field Sales AssociateUrjabodh Neurodiverse Learning Centre",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/part-time-field-sales-associate-job-in-guwahati-at-urjabodh-neurodiverse-learning-centre1790325364",
+      "description": "",
+      "posted": "2026-10-17T14:32:34.162891+00:00",
+      "scraped_at": "2026-10-17T14:32:34.162892+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "9e0bb9e867",
+      "title": "Spoken English Trainer",
+      "company": "Spoken English TrainerSR Edu TechnologiesActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-spoken-english-trainer-job-in-guwahati-at-sr-edu-technologies1790579655",
+      "description": "",
+      "posted": "2026-10-17T14:32:34.162095+00:00",
+      "scraped_at": "2026-10-17T14:32:34.162097+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "6c693be0c9",
+      "title": "Customer Service Associate",
+      "company": "Customer Service AssociatePRIYANYA AVIATION SERVICES Private Limited",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-customer-service-associate-job-in-multiple-locations-at-priyanya-aviation-services-private-limited1791359009",
+      "description": "",
+      "posted": "2026-10-17T14:32:34.161332+00:00",
+      "scraped_at": "2026-10-17T14:32:34.161334+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "0efe2cec70",
+      "title": "Accountant",
+      "company": "AccountantRecruitbuddy",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/accountant-job-in-guwahati-at-recruitbuddy1791873503",
+      "description": "",
+      "posted": "2026-10-17T14:32:34.160535+00:00",
+      "scraped_at": "2026-10-17T14:32:34.160537+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "9e97c49457",
+      "title": "Mathematics/Abacus/Vedic Math Trainer",
+      "company": "Mathematics/Abacus/Vedic Math TrainerSR Edu TechnologiesActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/mathematics-abacus-vedic-math-trainer-job-in-multiple-locations-at-sr-edu-technologies1790604527",
+      "description": "",
+      "posted": "2026-10-17T14:32:34.159762+00:00",
+      "scraped_at": "2026-10-17T14:32:34.159775+00:00",
       "tags": [
         "Internship"
       ]
@@ -106,8 +106,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/web-android-ios-game-development-services-guwahati/confidential/19570491?jobtype=cr&position_in_results=3",
       "description": "",
-      "posted": "2026-10-17T09:49:26.772406+00:00",
-      "scraped_at": "2026-10-17T09:49:26.772409+00:00",
+      "posted": "2026-10-17T14:32:33.524189+00:00",
+      "scraped_at": "2026-10-17T14:32:33.524191+00:00",
       "tags": []
     },
     {
@@ -118,8 +118,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/job-title-network-engineer-on-site-support-guwahati/grovyn/19687020?jobtype=cr&position_in_results=2",
       "description": "",
-      "posted": "2026-10-17T09:49:26.772224+00:00",
-      "scraped_at": "2026-10-17T09:49:26.772227+00:00",
+      "posted": "2026-10-17T14:32:33.524080+00:00",
+      "scraped_at": "2026-10-17T14:32:33.524082+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -132,15 +132,273 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/acquisition-manager-credit-card-guwahati/indusind-bank/19794240?jobtype=cr&position_in_results=1",
       "description": "",
-      "posted": "2026-10-17T09:49:26.772029+00:00",
-      "scraped_at": "2026-10-17T09:49:26.772040+00:00",
+      "posted": "2026-10-17T14:32:33.523935+00:00",
+      "scraped_at": "2026-10-17T14:32:33.523947+00:00",
       "tags": []
+    },
+    {
+      "id": "f47f8bf12b",
+      "title": "Sales Senior Specialist - Key Accounts",
+      "company": "Baker Hughes",
+      "location": "Nazira, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/sales-senior-specialist-key-accounts-at-baker-hughes-4480392858",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.755545+00:00",
+      "scraped_at": "2026-10-17T14:32:28.755546+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "ac8ae46082",
+      "title": "Regional Training Manager",
+      "company": "Aditya Birla Sun Life Insurance",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/regional-training-manager-at-aditya-birla-sun-life-insurance-4463372283",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.755425+00:00",
+      "scraped_at": "2026-10-17T14:32:28.755427+00:00",
+      "tags": []
+    },
+    {
+      "id": "950fc33319",
+      "title": "CFT In-Charge",
+      "company": "Adani Airport Holdings Ltd",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/cft-in-charge-at-adani-airport-holdings-ltd-4479665651",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.755305+00:00",
+      "scraped_at": "2026-10-17T14:32:28.755306+00:00",
+      "tags": []
+    },
+    {
+      "id": "d9ec6b3fbb",
+      "title": "Salesperson",
+      "company": "SIGMA SPICE INDUSTRIES PRIVATE LIMITED",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/salesperson-at-sigma-spice-industries-private-limited-4477093966",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.755184+00:00",
+      "scraped_at": "2026-10-17T14:32:28.755185+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "81d4363ed3",
+      "title": "Senior Project Manager – FL – AS (SPMU), Academics",
+      "company": "Central Square Foundation",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/senior-project-manager-%E2%80%93-fl-%E2%80%93-as-spmu-academics-at-central-square-foundation-4476637481",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.755061+00:00",
+      "scraped_at": "2026-10-17T14:32:28.755063+00:00",
+      "tags": []
+    },
+    {
+      "id": "511b229ec0",
+      "title": "Centre Manager",
+      "company": "Orane International",
+      "location": "Badarpur, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/centre-manager-at-orane-international-4477282877",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.754931+00:00",
+      "scraped_at": "2026-10-17T14:32:28.754932+00:00",
+      "tags": []
+    },
+    {
+      "id": "6b034799ae",
+      "title": "Senior Executive - Debt Management Services - SME",
+      "company": "Bajaj Finserv",
+      "location": "Mangaldai, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/senior-executive-debt-management-services-sme-at-bajaj-finserv-4480809004",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.754811+00:00",
+      "scraped_at": "2026-10-17T14:32:28.754812+00:00",
+      "tags": []
+    },
+    {
+      "id": "36f2a0aa64",
+      "title": "Associate General Manager - Techno Commercial",
+      "company": "Adani Power",
+      "location": "Dhubri, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/associate-general-manager-techno-commercial-at-adani-power-4469843472",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.754691+00:00",
+      "scraped_at": "2026-10-17T14:32:28.754692+00:00",
+      "tags": []
+    },
+    {
+      "id": "817d38fa3e",
+      "title": "Sales Engineer",
+      "company": "HOMSIST INDIA",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/sales-engineer-at-homsist-india-4477745405",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.754567+00:00",
+      "scraped_at": "2026-10-17T14:32:28.754568+00:00",
+      "tags": [
+        "IT/Tech",
+        "Sales"
+      ]
+    },
+    {
+      "id": "c2a1c63c6f",
+      "title": "Coordinator-Tea",
+      "company": "WWF-India",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/coordinator-tea-at-wwf-india-4480819150",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.754444+00:00",
+      "scraped_at": "2026-10-17T14:32:28.754445+00:00",
+      "tags": []
+    },
+    {
+      "id": "6090709977",
+      "title": "Surveyor Required for Assam Rowta Project",
+      "company": "JAKSON Group",
+      "location": "Rowta, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/surveyor-required-for-assam-rowta-project-at-jakson-group-4478523302",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.754317+00:00",
+      "scraped_at": "2026-10-17T14:32:28.754319+00:00",
+      "tags": []
+    },
+    {
+      "id": "54e1758826",
+      "title": "Area Associate Manager - Sales (Projects)",
+      "company": "Legrand",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/area-associate-manager-sales-projects-at-legrand-4479540394",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.754193+00:00",
+      "scraped_at": "2026-10-17T14:32:28.754195+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "301609e452",
+      "title": "Doctor Partnerships Executive (Field), East & Northeast India",
+      "company": "Sugar360",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/doctor-partnerships-executive-field-east-northeast-india-at-sugar360-4475691851",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.754068+00:00",
+      "scraped_at": "2026-10-17T14:32:28.754070+00:00",
+      "tags": [
+        "Healthcare"
+      ]
+    },
+    {
+      "id": "f6c334a1f4",
+      "title": "Gold Loan Officer",
+      "company": "ESAF Bank",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/gold-loan-officer-at-esaf-bank-4478448088",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.753922+00:00",
+      "scraped_at": "2026-10-17T14:32:28.753923+00:00",
+      "tags": []
+    },
+    {
+      "id": "3dd575bd1b",
+      "title": "Lead Poisoning Surveillance Coordinator, Assam",
+      "company": "Vital Strategies",
+      "location": "Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/lead-poisoning-surveillance-coordinator-assam-at-vital-strategies-4480150045",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.753795+00:00",
+      "scraped_at": "2026-10-17T14:32:28.753797+00:00",
+      "tags": []
+    },
+    {
+      "id": "0d0206b46b",
+      "title": "Field Sales Executive",
+      "company": "SGM Consultancy services",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/field-sales-executive-at-sgm-consultancy-services-4476666573",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.753671+00:00",
+      "scraped_at": "2026-10-17T14:32:28.753673+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "1265eecf8c",
+      "title": "Sales Manager",
+      "company": "Placement Services",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/sales-manager-at-placement-services-4477248630",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.753542+00:00",
+      "scraped_at": "2026-10-17T14:32:28.753544+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "id": "4084991c5b",
+      "title": "Assistant Manager - Business Loans - DMS East",
+      "company": "Bajaj Finserv",
+      "location": "Silchar, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/assistant-manager-business-loans-dms-east-at-bajaj-finserv-4479740156",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.753417+00:00",
+      "scraped_at": "2026-10-17T14:32:28.753418+00:00",
+      "tags": []
+    },
+    {
+      "id": "3ff5294200",
+      "title": "Senior Officer - ARFF",
+      "company": "Adani Airport Holdings Ltd",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/senior-officer-arff-at-adani-airport-holdings-ltd-4425099053",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.753281+00:00",
+      "scraped_at": "2026-10-17T14:32:28.753283+00:00",
+      "tags": []
+    },
+    {
+      "id": "fb14f9c8b9",
+      "title": "Insurance Sales Manager",
+      "company": "Placement Services",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/insurance-sales-manager-at-placement-services-4478411889",
+      "description": "",
+      "posted": "2026-10-17T14:32:28.753104+00:00",
+      "scraped_at": "2026-10-17T14:32:28.753116+00:00",
+      "tags": [
+        "Sales"
+      ]
     }
   ],
-  "last_updated": "2026-10-17T09:49:47.516976+00:00",
-  "total": 10,
+  "last_updated": "2026-10-17T14:32:53.142420+00:00",
+  "total": 30,
   "sources": [
     "Internshala",
-    "Shine"
+    "Shine",
+    "LinkedIn"
   ]
 }
