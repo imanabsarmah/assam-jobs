@@ -1,29 +1,15 @@
 {
   "jobs": [
     {
-      "id": "861675b5a0",
-      "title": "Corporate Sales Executive",
-      "company": "Corporate Sales ExecutiveZudex Technologies Private Limited",
+      "id": "198d189ffd",
+      "title": "Field Sales Associate",
+      "company": "Field Sales AssociateSwan Food Products",
       "location": "Guwahati, Assam",
       "source": "Internshala",
-      "url": "https://internshala.com/job/detail/fresher-corporate-sales-executive-job-in-multiple-locations-at-zudex-technologies-private-limited1790315523",
+      "url": "https://internshala.com/job/detail/field-sales-associate-job-in-siliguri-at-swan-food-products1792043434",
       "description": "",
-      "posted": "2026-10-18T10:01:00.141833+00:00",
-      "scraped_at": "2026-10-18T10:01:00.141834+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "8e2f924037",
-      "title": "Electrical Engineer – Relay Testing",
-      "company": "Electrical Engineer – Relay TestingL.B.ENGINEERING PVT.LTD",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/electrical-engineer--relay-testing-job-in-multiple-locations-at-lbengineering-pvtltd1790850669",
-      "description": "",
-      "posted": "2026-10-18T10:01:00.141305+00:00",
-      "scraped_at": "2026-10-18T10:01:00.141306+00:00",
+      "posted": "2026-10-18T14:59:40.535285+00:00",
+      "scraped_at": "2026-10-18T14:59:40.535286+00:00",
       "tags": [
         "Internship"
       ]
@@ -36,36 +22,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/fresher-spoken-english-trainer-job-in-guwahati-at-sr-edu-technologies1790579655",
       "description": "",
-      "posted": "2026-10-18T10:01:00.140699+00:00",
-      "scraped_at": "2026-10-18T10:01:00.140700+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "0efe2cec70",
-      "title": "Accountant",
-      "company": "AccountantRecruitbuddy",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/accountant-job-in-guwahati-at-recruitbuddy1791873503",
-      "description": "",
-      "posted": "2026-10-18T10:01:00.140117+00:00",
-      "scraped_at": "2026-10-18T10:01:00.140118+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "a9dee1190d",
-      "title": "Travel Video Editor",
-      "company": "Travel Video EditorWorld Tour",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/travel-video-editor-job-in-guwahati-at-world-tour1791444998",
-      "description": "",
-      "posted": "2026-10-18T10:01:00.139421+00:00",
-      "scraped_at": "2026-10-18T10:01:00.139422+00:00",
+      "posted": "2026-10-18T14:59:40.534745+00:00",
+      "scraped_at": "2026-10-18T14:59:40.534746+00:00",
       "tags": [
         "Internship"
       ]
@@ -78,22 +36,64 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/mathematics-abacus-vedic-math-trainer-job-in-multiple-locations-at-sr-edu-technologies1790604527",
       "description": "",
-      "posted": "2026-10-18T10:01:00.138855+00:00",
-      "scraped_at": "2026-10-18T10:01:00.138856+00:00",
+      "posted": "2026-10-18T14:59:40.534252+00:00",
+      "scraped_at": "2026-10-18T14:59:40.534253+00:00",
       "tags": [
         "Internship"
       ]
     },
     {
-      "id": "16abee3f62",
-      "title": "Field Sales Associate",
-      "company": "Field Sales AssociateUrjabodh Neurodiverse Learning Centre",
+      "id": "8e2f924037",
+      "title": "Electrical Engineer – Relay Testing",
+      "company": "Electrical Engineer – Relay TestingL.B.ENGINEERING PVT.LTD",
       "location": "Guwahati, Assam",
       "source": "Internshala",
-      "url": "https://internshala.com/job/detail/part-time-field-sales-associate-job-in-guwahati-at-urjabodh-neurodiverse-learning-centre1790325364",
+      "url": "https://internshala.com/job/detail/electrical-engineer--relay-testing-job-in-multiple-locations-at-lbengineering-pvtltd1790850669",
       "description": "",
-      "posted": "2026-10-18T10:01:00.138234+00:00",
-      "scraped_at": "2026-10-18T10:01:00.138251+00:00",
+      "posted": "2026-10-18T14:59:40.533774+00:00",
+      "scraped_at": "2026-10-18T14:59:40.533775+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "a9dee1190d",
+      "title": "Travel Video Editor",
+      "company": "Travel Video EditorWorld Tour",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/travel-video-editor-job-in-guwahati-at-world-tour1791444998",
+      "description": "",
+      "posted": "2026-10-18T14:59:40.533190+00:00",
+      "scraped_at": "2026-10-18T14:59:40.533191+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "0efe2cec70",
+      "title": "Accountant",
+      "company": "AccountantRecruitbuddy",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/accountant-job-in-guwahati-at-recruitbuddy1791873503",
+      "description": "",
+      "posted": "2026-10-18T14:59:40.532621+00:00",
+      "scraped_at": "2026-10-18T14:59:40.532622+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "861675b5a0",
+      "title": "Corporate Sales Executive",
+      "company": "Corporate Sales ExecutiveZudex Technologies Private Limited",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/fresher-corporate-sales-executive-job-in-multiple-locations-at-zudex-technologies-private-limited1790315523",
+      "description": "",
+      "posted": "2026-10-18T14:59:40.531914+00:00",
+      "scraped_at": "2026-10-18T14:59:40.531929+00:00",
       "tags": [
         "Internship"
       ]
@@ -106,8 +106,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/web-android-ios-game-development-services-guwahati/confidential/19570491?jobtype=cr&position_in_results=3",
       "description": "",
-      "posted": "2026-10-18T10:00:58.665051+00:00",
-      "scraped_at": "2026-10-18T10:00:58.665052+00:00",
+      "posted": "2026-10-18T14:59:39.604880+00:00",
+      "scraped_at": "2026-10-18T14:59:39.604881+00:00",
       "tags": []
     },
     {
@@ -118,8 +118,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/job-title-network-engineer-on-site-support-guwahati/grovyn/19687020?jobtype=cr&position_in_results=2",
       "description": "",
-      "posted": "2026-10-18T10:00:58.664963+00:00",
-      "scraped_at": "2026-10-18T10:00:58.664964+00:00",
+      "posted": "2026-10-18T14:59:39.604789+00:00",
+      "scraped_at": "2026-10-18T14:59:39.604790+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -132,209 +132,9 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/acquisition-manager-credit-card-guwahati/indusind-bank/19794240?jobtype=cr&position_in_results=1",
       "description": "",
-      "posted": "2026-10-18T10:00:58.664834+00:00",
-      "scraped_at": "2026-10-18T10:00:58.664850+00:00",
+      "posted": "2026-10-18T14:59:39.604680+00:00",
+      "scraped_at": "2026-10-18T14:59:39.604695+00:00",
       "tags": []
-    },
-    {
-      "id": "ac8ae46082",
-      "title": "Regional Training Manager",
-      "company": "Aditya Birla Sun Life Insurance",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/regional-training-manager-at-aditya-birla-sun-life-insurance-4463372283",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.267465+00:00",
-      "scraped_at": "2026-10-18T10:00:53.267466+00:00",
-      "tags": []
-    },
-    {
-      "id": "950fc33319",
-      "title": "CFT In-Charge",
-      "company": "Adani Airport Holdings Ltd",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/cft-in-charge-at-adani-airport-holdings-ltd-4479665651",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.267369+00:00",
-      "scraped_at": "2026-10-18T10:00:53.267370+00:00",
-      "tags": []
-    },
-    {
-      "id": "d9ec6b3fbb",
-      "title": "Salesperson",
-      "company": "SIGMA SPICE INDUSTRIES PRIVATE LIMITED",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/salesperson-at-sigma-spice-industries-private-limited-4477093966",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.267274+00:00",
-      "scraped_at": "2026-10-18T10:00:53.267275+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "id": "81d4363ed3",
-      "title": "Senior Project Manager – FL – AS (SPMU), Academics",
-      "company": "Central Square Foundation",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/senior-project-manager-%E2%80%93-fl-%E2%80%93-as-spmu-academics-at-central-square-foundation-4476637481",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.267173+00:00",
-      "scraped_at": "2026-10-18T10:00:53.267174+00:00",
-      "tags": []
-    },
-    {
-      "id": "511b229ec0",
-      "title": "Centre Manager",
-      "company": "Orane International",
-      "location": "Badarpur, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/centre-manager-at-orane-international-4477282877",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.267070+00:00",
-      "scraped_at": "2026-10-18T10:00:53.267071+00:00",
-      "tags": []
-    },
-    {
-      "id": "36f2a0aa64",
-      "title": "Associate General Manager - Techno Commercial",
-      "company": "Adani Power",
-      "location": "Dhubri, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/associate-general-manager-techno-commercial-at-adani-power-4469843472",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.266971+00:00",
-      "scraped_at": "2026-10-18T10:00:53.266972+00:00",
-      "tags": []
-    },
-    {
-      "id": "c2a1c63c6f",
-      "title": "Coordinator-Tea",
-      "company": "WWF-India",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/coordinator-tea-at-wwf-india-4480819150",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.266755+00:00",
-      "scraped_at": "2026-10-18T10:00:53.266756+00:00",
-      "tags": []
-    },
-    {
-      "id": "6090709977",
-      "title": "Surveyor Required for Assam Rowta Project",
-      "company": "JAKSON Group",
-      "location": "Rowta, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/surveyor-required-for-assam-rowta-project-at-jakson-group-4478523302",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.266662+00:00",
-      "scraped_at": "2026-10-18T10:00:53.266663+00:00",
-      "tags": []
-    },
-    {
-      "id": "1b7691b716",
-      "title": "Senior Sales Manager",
-      "company": "Placement Services",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/senior-sales-manager-at-placement-services-4477985083",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.266381+00:00",
-      "scraped_at": "2026-10-18T10:00:53.266383+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "id": "f6c334a1f4",
-      "title": "Gold Loan Officer",
-      "company": "ESAF Bank",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/gold-loan-officer-at-esaf-bank-4478448088",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.266289+00:00",
-      "scraped_at": "2026-10-18T10:00:53.266290+00:00",
-      "tags": []
-    },
-    {
-      "id": "3dd575bd1b",
-      "title": "Lead Poisoning Surveillance Coordinator, Assam",
-      "company": "Vital Strategies",
-      "location": "Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/lead-poisoning-surveillance-coordinator-assam-at-vital-strategies-4480150045",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.266195+00:00",
-      "scraped_at": "2026-10-18T10:00:53.266196+00:00",
-      "tags": []
-    },
-    {
-      "id": "2749206f59",
-      "title": "Area Collections Manager",
-      "company": "Bajaj Finserv",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/area-collections-manager-at-bajaj-finserv-4479677863",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.265954+00:00",
-      "scraped_at": "2026-10-18T10:00:53.265955+00:00",
-      "tags": []
-    },
-    {
-      "id": "4084991c5b",
-      "title": "Assistant Manager - Business Loans - DMS East",
-      "company": "Bajaj Finserv",
-      "location": "Silchar, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/assistant-manager-business-loans-dms-east-at-bajaj-finserv-4479740156",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.265848+00:00",
-      "scraped_at": "2026-10-18T10:00:53.265849+00:00",
-      "tags": []
-    },
-    {
-      "id": "3ff5294200",
-      "title": "Senior Officer - ARFF",
-      "company": "Adani Airport Holdings Ltd",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/senior-officer-arff-at-adani-airport-holdings-ltd-4425099053",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.265749+00:00",
-      "scraped_at": "2026-10-18T10:00:53.265750+00:00",
-      "tags": []
-    },
-    {
-      "id": "fb14f9c8b9",
-      "title": "Insurance Sales Manager",
-      "company": "Placement Services",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/insurance-sales-manager-at-placement-services-4478411889",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.265650+00:00",
-      "scraped_at": "2026-10-18T10:00:53.265651+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "id": "df03d9eece",
-      "title": "Area Sales Manager",
-      "company": "SBI Life Insurance Co. Ltd.",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/area-sales-manager-at-sbi-life-insurance-co-ltd-4478209588",
-      "description": "",
-      "posted": "2026-10-18T10:00:53.265529+00:00",
-      "scraped_at": "2026-10-18T10:00:53.265547+00:00",
-      "tags": [
-        "Sales"
-      ]
     },
     {
       "id": "8442aff71e",
@@ -344,8 +144,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/general-manager-gm-%E2%80%93-guest-house-operations-at-rishika-interior-and-developer-pvt-ltd-4477324031",
       "description": "",
-      "posted": "2026-10-18T10:00:50.435175+00:00",
-      "scraped_at": "2026-10-18T10:00:50.435176+00:00",
+      "posted": "2026-10-18T14:59:31.857654+00:00",
+      "scraped_at": "2026-10-18T14:59:31.857655+00:00",
       "tags": []
     },
     {
@@ -356,8 +156,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/audiologist-and-speech-language-pathologist-at-pratidhwani-hearing-hub-and-cochlear-implant-clinic-4475687946",
       "description": "",
-      "posted": "2026-10-18T10:00:50.435074+00:00",
-      "scraped_at": "2026-10-18T10:00:50.435075+00:00",
+      "posted": "2026-10-18T14:59:31.857559+00:00",
+      "scraped_at": "2026-10-18T14:59:31.857560+00:00",
       "tags": []
     },
     {
@@ -368,8 +168,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/therapy-business-manager-gi-prima-guwahati-at-abbott-4477401933",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434979+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434980+00:00",
+      "posted": "2026-10-18T14:59:31.857468+00:00",
+      "scraped_at": "2026-10-18T14:59:31.857469+00:00",
       "tags": []
     },
     {
@@ -380,8 +180,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/therapy-business-manager-neurolife-guwahati-at-abbott-4479061101",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434873+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434874+00:00",
+      "posted": "2026-10-18T14:59:31.857375+00:00",
+      "scraped_at": "2026-10-18T14:59:31.857377+00:00",
       "tags": []
     },
     {
@@ -392,8 +192,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/back-office-executive-at-tgg-technologies-private-limited-chfmart-4475698824",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434779+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434780+00:00",
+      "posted": "2026-10-18T14:59:31.857281+00:00",
+      "scraped_at": "2026-10-18T14:59:31.857282+00:00",
       "tags": []
     },
     {
@@ -404,8 +204,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/chartered-accountant-at-pawan-kumar-lodha-and-co-4475667315",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434683+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434684+00:00",
+      "posted": "2026-10-18T14:59:31.857182+00:00",
+      "scraped_at": "2026-10-18T14:59:31.857184+00:00",
       "tags": [
         "Finance"
       ]
@@ -418,8 +218,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/area-sales-manager-at-nir%C4%81-balance-4480354157",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434588+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434590+00:00",
+      "posted": "2026-10-18T14:59:31.857086+00:00",
+      "scraped_at": "2026-10-18T14:59:31.857087+00:00",
       "tags": [
         "Sales"
       ]
@@ -432,11 +232,23 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/field-sales-executive-at-sgm-consultancy-services-4476666573",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434490+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434491+00:00",
+      "posted": "2026-10-18T14:59:31.856990+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856991+00:00",
       "tags": [
         "Sales"
       ]
+    },
+    {
+      "id": "0c664334f5",
+      "title": "Continental Commis I",
+      "company": "Accor",
+      "location": "Guwahati, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/continental-commis-i-at-accor-4478224655",
+      "description": "",
+      "posted": "2026-10-18T14:59:31.856898+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856899+00:00",
+      "tags": []
     },
     {
       "id": "b873f4f981",
@@ -446,8 +258,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/front-office-manager-at-radisson-hotel-group-4480828750",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434395+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434396+00:00",
+      "posted": "2026-10-18T14:59:31.856797+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856798+00:00",
       "tags": []
     },
     {
@@ -458,8 +270,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/photobooth-operator-at-hatk-4476404079",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434298+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434300+00:00",
+      "posted": "2026-10-18T14:59:31.856707+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856708+00:00",
       "tags": []
     },
     {
@@ -470,8 +282,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/food-and-beverage-captain-at-triad-mercantile-group-of-hotels-4478833594",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434203+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434204+00:00",
+      "posted": "2026-10-18T14:59:31.856611+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856612+00:00",
       "tags": []
     },
     {
@@ -482,23 +294,11 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/doctor-partnerships-executive-field-east-northeast-india-at-sugar360-4475691851",
       "description": "",
-      "posted": "2026-10-18T10:00:50.434108+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434109+00:00",
+      "posted": "2026-10-18T14:59:31.856516+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856517+00:00",
       "tags": [
         "Healthcare"
       ]
-    },
-    {
-      "id": "41dc4531e0",
-      "title": "Admissions Officer (Guwahati)",
-      "company": "Aakash Educational Services Limited",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/admissions-officer-guwahati-at-aakash-educational-services-limited-4479695200",
-      "description": "",
-      "posted": "2026-10-18T10:00:50.434009+00:00",
-      "scraped_at": "2026-10-18T10:00:50.434010+00:00",
-      "tags": []
     },
     {
       "id": "817d38fa3e",
@@ -508,8 +308,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/sales-engineer-at-homsist-india-4477745405",
       "description": "",
-      "posted": "2026-10-18T10:00:50.433907+00:00",
-      "scraped_at": "2026-10-18T10:00:50.433908+00:00",
+      "posted": "2026-10-18T14:59:31.856417+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856418+00:00",
       "tags": [
         "IT/Tech",
         "Sales"
@@ -523,8 +323,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/deputy-manager-compliance-at-adani-airport-holdings-ltd-4468738068",
       "description": "",
-      "posted": "2026-10-18T10:00:50.433795+00:00",
-      "scraped_at": "2026-10-18T10:00:50.433796+00:00",
+      "posted": "2026-10-18T14:59:31.856322+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856323+00:00",
       "tags": []
     },
     {
@@ -535,8 +335,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/sales-representatives-field-sales-executives-at-doctor-s-jeciem-group-4477773137",
       "description": "",
-      "posted": "2026-10-18T10:00:50.433686+00:00",
-      "scraped_at": "2026-10-18T10:00:50.433687+00:00",
+      "posted": "2026-10-18T14:59:31.856225+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856226+00:00",
       "tags": [
         "Sales"
       ]
@@ -549,8 +349,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/mixologist-at-hilton-4470407410",
       "description": "",
-      "posted": "2026-10-18T10:00:50.433572+00:00",
-      "scraped_at": "2026-10-18T10:00:50.433573+00:00",
+      "posted": "2026-10-18T14:59:31.856123+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856124+00:00",
       "tags": []
     },
     {
@@ -561,8 +361,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/stewarding-executive-at-hilton-4470475213",
       "description": "",
-      "posted": "2026-10-18T10:00:50.433450+00:00",
-      "scraped_at": "2026-10-18T10:00:50.433451+00:00",
+      "posted": "2026-10-18T14:59:31.856018+00:00",
+      "scraped_at": "2026-10-18T14:59:31.856019+00:00",
       "tags": []
     },
     {
@@ -573,8 +373,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/team-member-%E2%80%93-guest-relations-at-adani-airport-holdings-ltd-4479359238",
       "description": "",
-      "posted": "2026-10-18T10:00:50.433317+00:00",
-      "scraped_at": "2026-10-18T10:00:50.433318+00:00",
+      "posted": "2026-10-18T14:59:31.855902+00:00",
+      "scraped_at": "2026-10-18T14:59:31.855903+00:00",
       "tags": []
     },
     {
@@ -585,18 +385,18 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/area-associate-manager-sales-projects-at-legrand-4479540394",
       "description": "",
-      "posted": "2026-10-18T10:00:50.433132+00:00",
-      "scraped_at": "2026-10-18T10:00:50.433148+00:00",
+      "posted": "2026-10-18T14:59:31.855716+00:00",
+      "scraped_at": "2026-10-18T14:59:31.855732+00:00",
       "tags": [
         "Sales"
       ]
     }
   ],
-  "last_updated": "2026-10-18T10:01:19.705025+00:00",
-  "total": 46,
+  "last_updated": "2026-10-18T15:00:00.024359+00:00",
+  "total": 30,
   "sources": [
-    "Internshala",
+    "LinkedIn",
     "Shine",
-    "LinkedIn"
+    "Internshala"
   ]
 }
