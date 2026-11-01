@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "id": "c69b0261dd",
-      "title": "Academic Trainer (Communicative English)",
-      "company": "Academic Trainer (Communicative English)SR Edu TechnologiesActively hiring",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/academic-trainer-communicative-english-job-in-multiple-locations-at-sr-edu-technologies1793336050",
-      "description": "",
-      "posted": "2026-10-31T20:44:15.414135+00:00",
-      "scraped_at": "2026-10-31T20:44:15.414137+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
       "id": "c1266f220a",
       "title": "Corporate Sales Executive",
       "company": "Corporate Sales ExecutiveSR Edu TechnologiesActively hiring",
@@ -22,8 +8,22 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/corporate-sales-executive-job-in-multiple-locations-at-sr-edu-technologies1793176443",
       "description": "",
-      "posted": "2026-10-31T20:44:15.413250+00:00",
-      "scraped_at": "2026-10-31T20:44:15.413253+00:00",
+      "posted": "2026-11-01T02:54:16.841472+00:00",
+      "scraped_at": "2026-11-01T02:54:16.841473+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "77db04381d",
+      "title": "Human Resource Manager",
+      "company": "Human Resource ManagerSargam Ventures Private LimitedActively hiring",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/human-resource-manager-job-in-guwahati-at-sargam-ventures-private-limited1793257366",
+      "description": "",
+      "posted": "2026-11-01T02:54:16.840904+00:00",
+      "scraped_at": "2026-11-01T02:54:16.840905+00:00",
       "tags": [
         "Internship"
       ]
@@ -36,8 +36,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/business-development-executive-job-in-guwahati-at-highway-delite1792668384",
       "description": "",
-      "posted": "2026-10-31T20:44:15.412535+00:00",
-      "scraped_at": "2026-10-31T20:44:15.412537+00:00",
+      "posted": "2026-11-01T02:54:16.840457+00:00",
+      "scraped_at": "2026-11-01T02:54:16.840457+00:00",
       "tags": [
         "Internship"
       ]
@@ -50,36 +50,8 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/electrical-engineer--relay-testing-job-in-multiple-locations-at-lbengineering-pvtltd1790850669",
       "description": "",
-      "posted": "2026-10-31T20:44:15.411849+00:00",
-      "scraped_at": "2026-10-31T20:44:15.411851+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "0efe2cec70",
-      "title": "Accountant",
-      "company": "AccountantRecruitbuddy",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/accountant-job-in-guwahati-at-recruitbuddy1791873503",
-      "description": "",
-      "posted": "2026-10-31T20:44:15.411061+00:00",
-      "scraped_at": "2026-10-31T20:44:15.411063+00:00",
-      "tags": [
-        "Internship"
-      ]
-    },
-    {
-      "id": "a9dee1190d",
-      "title": "Travel Video Editor",
-      "company": "Travel Video EditorWorld Tour",
-      "location": "Guwahati, Assam",
-      "source": "Internshala",
-      "url": "https://internshala.com/job/detail/travel-video-editor-job-in-guwahati-at-world-tour1791444998",
-      "description": "",
-      "posted": "2026-10-31T20:44:15.410198+00:00",
-      "scraped_at": "2026-10-31T20:44:15.410199+00:00",
+      "posted": "2026-11-01T02:54:16.840000+00:00",
+      "scraped_at": "2026-11-01T02:54:16.840001+00:00",
       "tags": [
         "Internship"
       ]
@@ -92,8 +64,36 @@
       "source": "Internshala",
       "url": "https://internshala.com/job/detail/stock-market-dealer-job-in-guwahati-at-amolakshaya-trade-and-credit-private-limited1792387929",
       "description": "",
-      "posted": "2026-10-31T20:44:15.409410+00:00",
-      "scraped_at": "2026-10-31T20:44:15.409423+00:00",
+      "posted": "2026-11-01T02:54:16.839501+00:00",
+      "scraped_at": "2026-11-01T02:54:16.839502+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "0efe2cec70",
+      "title": "Accountant",
+      "company": "AccountantRecruitbuddy",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/accountant-job-in-guwahati-at-recruitbuddy1791873503",
+      "description": "",
+      "posted": "2026-11-01T02:54:16.838973+00:00",
+      "scraped_at": "2026-11-01T02:54:16.838974+00:00",
+      "tags": [
+        "Internship"
+      ]
+    },
+    {
+      "id": "a9dee1190d",
+      "title": "Travel Video Editor",
+      "company": "Travel Video EditorWorld Tour",
+      "location": "Guwahati, Assam",
+      "source": "Internshala",
+      "url": "https://internshala.com/job/detail/travel-video-editor-job-in-guwahati-at-world-tour1791444998",
+      "description": "",
+      "posted": "2026-11-01T02:54:16.838378+00:00",
+      "scraped_at": "2026-11-01T02:54:16.838391+00:00",
       "tags": [
         "Internship"
       ]
@@ -106,8 +106,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/customer-sales-executive-business-loans-direct-guwahati-royal-arcade-cse-india/tata-mutual-fund/19579141?jobtype=cr&position_in_results=12",
       "description": "",
-      "posted": "2026-10-31T20:44:14.450337+00:00",
-      "scraped_at": "2026-10-31T20:44:14.450338+00:00",
+      "posted": "2026-11-01T02:54:16.129231+00:00",
+      "scraped_at": "2026-11-01T02:54:16.129232+00:00",
       "tags": [
         "Sales"
       ]
@@ -120,8 +120,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/customer-success-manager-guwahati-india/leading/19924980?jobtype=cr&position_in_results=11",
       "description": "",
-      "posted": "2026-10-31T20:44:14.450234+00:00",
-      "scraped_at": "2026-10-31T20:44:14.450235+00:00",
+      "posted": "2026-11-01T02:54:16.129160+00:00",
+      "scraped_at": "2026-11-01T02:54:16.129161+00:00",
       "tags": []
     },
     {
@@ -132,8 +132,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/web-android-ios-game-development-services-guwahati/confidential/19570491?jobtype=cr&position_in_results=10",
       "description": "",
-      "posted": "2026-10-31T20:44:14.450143+00:00",
-      "scraped_at": "2026-10-31T20:44:14.450144+00:00",
+      "posted": "2026-11-01T02:54:16.129098+00:00",
+      "scraped_at": "2026-11-01T02:54:16.129099+00:00",
       "tags": []
     },
     {
@@ -144,8 +144,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/proprietary-trader-guwahati-india/tradingalgo_in/19921194?jobtype=cr&position_in_results=9",
       "description": "",
-      "posted": "2026-10-31T20:44:14.450038+00:00",
-      "scraped_at": "2026-10-31T20:44:14.450039+00:00",
+      "posted": "2026-11-01T02:54:16.129025+00:00",
+      "scraped_at": "2026-11-01T02:54:16.129026+00:00",
       "tags": []
     },
     {
@@ -156,8 +156,8 @@
       "source": "Shine",
       "url": "https://resume.shine.com/resume-score-checker/",
       "description": "",
-      "posted": "2026-10-31T20:44:14.449910+00:00",
-      "scraped_at": "2026-10-31T20:44:14.449912+00:00",
+      "posted": "2026-11-01T02:54:16.128960+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128961+00:00",
       "tags": []
     },
     {
@@ -168,8 +168,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/ai-data-science-trainer-guwahati/iact-education/19569011?jobtype=cr&position_in_results=8",
       "description": "",
-      "posted": "2026-10-31T20:44:14.449735+00:00",
-      "scraped_at": "2026-10-31T20:44:14.449737+00:00",
+      "posted": "2026-11-01T02:54:16.128840+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128841+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -182,8 +182,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/acquisition-manager-credit-card-guwahati/indusind-bank/19794240?jobtype=cr&position_in_results=7",
       "description": "",
-      "posted": "2026-10-31T20:44:14.449619+00:00",
-      "scraped_at": "2026-10-31T20:44:14.449621+00:00",
+      "posted": "2026-11-01T02:54:16.128768+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128769+00:00",
       "tags": []
     },
     {
@@ -194,8 +194,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/customer-service-executive-e-commerce-voice-email-chat-guwahati-west/summitnext-technologies-sdn-bhd/19958846?jobtype=cr&position_in_results=6",
       "description": "",
-      "posted": "2026-10-31T20:44:14.449529+00:00",
-      "scraped_at": "2026-10-31T20:44:14.449530+00:00",
+      "posted": "2026-11-01T02:54:16.128704+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128705+00:00",
       "tags": []
     },
     {
@@ -206,8 +206,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/branch-operation-executive-guwahati-india/hns-gold/19920348?jobtype=cr&position_in_results=5",
       "description": "",
-      "posted": "2026-10-31T20:44:14.449414+00:00",
-      "scraped_at": "2026-10-31T20:44:14.449415+00:00",
+      "posted": "2026-11-01T02:54:16.128625+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128626+00:00",
       "tags": []
     },
     {
@@ -218,8 +218,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/brand-communications-social-media-executive-guwahati-india/northeast-auto-creations/19882503?jobtype=cr&position_in_results=4",
       "description": "",
-      "posted": "2026-10-31T20:44:14.449311+00:00",
-      "scraped_at": "2026-10-31T20:44:14.449312+00:00",
+      "posted": "2026-11-01T02:54:16.128550+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128551+00:00",
       "tags": []
     },
     {
@@ -230,8 +230,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/accountant-accounts-executive-guwahati-india/jain-petroleum-consultancy/19902014?jobtype=cr&position_in_results=3",
       "description": "",
-      "posted": "2026-10-31T20:44:14.449216+00:00",
-      "scraped_at": "2026-10-31T20:44:14.449217+00:00",
+      "posted": "2026-11-01T02:54:16.128483+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128484+00:00",
       "tags": [
         "Finance"
       ]
@@ -244,8 +244,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/zonal-leader-guwahati/lenskart/19909377?jobtype=cr&position_in_results=2",
       "description": "",
-      "posted": "2026-10-31T20:44:14.449118+00:00",
-      "scraped_at": "2026-10-31T20:44:14.449119+00:00",
+      "posted": "2026-11-01T02:54:16.128411+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128412+00:00",
       "tags": []
     },
     {
@@ -256,8 +256,8 @@
       "source": "Shine",
       "url": "https://www.shine.com/jobs/job-title-network-engineer-on-site-support-guwahati/grovyn/19687020?jobtype=cr&position_in_results=1",
       "description": "",
-      "posted": "2026-10-31T20:44:14.448983+00:00",
-      "scraped_at": "2026-10-31T20:44:14.448996+00:00",
+      "posted": "2026-11-01T02:54:16.128307+00:00",
+      "scraped_at": "2026-11-01T02:54:16.128320+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -270,8 +270,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/program-officer-at-yosaid-innovation-foundation-4484925937",
       "description": "",
-      "posted": "2026-10-31T20:44:08.673871+00:00",
-      "scraped_at": "2026-10-31T20:44:08.673873+00:00",
+      "posted": "2026-11-01T02:54:11.019537+00:00",
+      "scraped_at": "2026-11-01T02:54:11.019538+00:00",
       "tags": []
     },
     {
@@ -282,8 +282,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/academic-trainer-communicative-english-in-guwahati-hyderabad-at-sr-edu-technologies-pvt-ltd-4485636741",
       "description": "",
-      "posted": "2026-10-31T20:44:08.673755+00:00",
-      "scraped_at": "2026-10-31T20:44:08.673756+00:00",
+      "posted": "2026-11-01T02:54:11.019454+00:00",
+      "scraped_at": "2026-11-01T02:54:11.019455+00:00",
       "tags": []
     },
     {
@@ -294,8 +294,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/academic-trainer-abacus-vedic-math-in-guwahati-hyderabad-at-sr-edu-technologies-pvt-ltd-4485640726",
       "description": "",
-      "posted": "2026-10-31T20:44:08.673630+00:00",
-      "scraped_at": "2026-10-31T20:44:08.673631+00:00",
+      "posted": "2026-11-01T02:54:11.019370+00:00",
+      "scraped_at": "2026-11-01T02:54:11.019371+00:00",
       "tags": []
     },
     {
@@ -306,8 +306,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/process-engineer-at-sinclus-4481431100",
       "description": "",
-      "posted": "2026-10-31T20:44:08.673513+00:00",
-      "scraped_at": "2026-10-31T20:44:08.673514+00:00",
+      "posted": "2026-11-01T02:54:11.019286+00:00",
+      "scraped_at": "2026-11-01T02:54:11.019288+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -320,8 +320,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/manager-programs-%E2%80%93-north-east-india-at-azim-premji-foundation-4484912153",
       "description": "",
-      "posted": "2026-10-31T20:44:08.673156+00:00",
-      "scraped_at": "2026-10-31T20:44:08.673157+00:00",
+      "posted": "2026-11-01T02:54:11.019028+00:00",
+      "scraped_at": "2026-11-01T02:54:11.019029+00:00",
       "tags": []
     },
     {
@@ -332,8 +332,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/coordinator-tea-at-wwf-india-4480819150",
       "description": "",
-      "posted": "2026-10-31T20:44:08.673030+00:00",
-      "scraped_at": "2026-10-31T20:44:08.673031+00:00",
+      "posted": "2026-11-01T02:54:11.018939+00:00",
+      "scraped_at": "2026-11-01T02:54:11.018940+00:00",
       "tags": []
     },
     {
@@ -344,8 +344,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/area-collection-manager-two-wheeler-loans-hard-bucket-at-skilllabs-4482983969",
       "description": "",
-      "posted": "2026-10-31T20:44:08.672913+00:00",
-      "scraped_at": "2026-10-31T20:44:08.672914+00:00",
+      "posted": "2026-11-01T02:54:11.018859+00:00",
+      "scraped_at": "2026-11-01T02:54:11.018860+00:00",
       "tags": []
     },
     {
@@ -356,8 +356,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/program-coordinator-assam-at-noora-health-4484941525",
       "description": "",
-      "posted": "2026-10-31T20:44:08.672668+00:00",
-      "scraped_at": "2026-10-31T20:44:08.672669+00:00",
+      "posted": "2026-11-01T02:54:11.018693+00:00",
+      "scraped_at": "2026-11-01T02:54:11.018694+00:00",
       "tags": []
     },
     {
@@ -368,8 +368,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/area-recovery-manager-at-skilllabs-4484502784",
       "description": "",
-      "posted": "2026-10-31T20:44:08.672552+00:00",
-      "scraped_at": "2026-10-31T20:44:08.672553+00:00",
+      "posted": "2026-11-01T02:54:11.018609+00:00",
+      "scraped_at": "2026-11-01T02:54:11.018610+00:00",
       "tags": []
     },
     {
@@ -380,8 +380,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/territory-manager-consumer-durable-loan-open-market-at-idfc-first-bank-4483892400",
       "description": "",
-      "posted": "2026-10-31T20:44:08.672435+00:00",
-      "scraped_at": "2026-10-31T20:44:08.672436+00:00",
+      "posted": "2026-11-01T02:54:11.018528+00:00",
+      "scraped_at": "2026-11-01T02:54:11.018529+00:00",
       "tags": []
     },
     {
@@ -392,8 +392,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/environment-health-safety-officer-at-adani-total-gas-4483844671",
       "description": "",
-      "posted": "2026-10-31T20:44:08.671718+00:00",
-      "scraped_at": "2026-10-31T20:44:08.671719+00:00",
+      "posted": "2026-11-01T02:54:11.017992+00:00",
+      "scraped_at": "2026-11-01T02:54:11.017994+00:00",
       "tags": []
     },
     {
@@ -404,10 +404,25 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/insurance-sales-manager-at-placement-services-4484927181",
       "description": "",
-      "posted": "2026-10-31T20:44:08.671568+00:00",
-      "scraped_at": "2026-10-31T20:44:08.671581+00:00",
+      "posted": "2026-11-01T02:54:11.017878+00:00",
+      "scraped_at": "2026-11-01T02:54:11.017895+00:00",
       "tags": [
         "Sales"
+      ]
+    },
+    {
+      "id": "1406d3221f",
+      "title": "Biomedical Engineer",
+      "company": "Dorika Hospital",
+      "location": "Tezpur, Assam, India",
+      "source": "LinkedIn",
+      "url": "https://in.linkedin.com/jobs/view/biomedical-engineer-at-dorika-hospital-4483412976",
+      "description": "",
+      "posted": "2026-11-01T02:54:08.340702+00:00",
+      "scraped_at": "2026-11-01T02:54:08.340703+00:00",
+      "tags": [
+        "IT/Tech",
+        "Healthcare"
       ]
     },
     {
@@ -418,8 +433,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/operation-theatre-ot-technician-at-ayush-hospital-diagnostic-centre-4484221255",
       "description": "",
-      "posted": "2026-10-31T20:44:05.903804+00:00",
-      "scraped_at": "2026-10-31T20:44:05.903805+00:00",
+      "posted": "2026-11-01T02:54:08.340608+00:00",
+      "scraped_at": "2026-11-01T02:54:08.340610+00:00",
       "tags": []
     },
     {
@@ -430,8 +445,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/senior-branch-manager-at-hns-gold-4483947002",
       "description": "",
-      "posted": "2026-10-31T20:44:05.903668+00:00",
-      "scraped_at": "2026-10-31T20:44:05.903669+00:00",
+      "posted": "2026-11-01T02:54:08.340518+00:00",
+      "scraped_at": "2026-11-01T02:54:08.340519+00:00",
       "tags": []
     },
     {
@@ -442,8 +457,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/aviation-trainer-at-flywings-simulator-training-centre-limited-fwstc-4482621826",
       "description": "",
-      "posted": "2026-10-31T20:44:05.903548+00:00",
-      "scraped_at": "2026-10-31T20:44:05.903549+00:00",
+      "posted": "2026-11-01T02:54:08.340423+00:00",
+      "scraped_at": "2026-11-01T02:54:08.340424+00:00",
       "tags": []
     },
     {
@@ -454,8 +469,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/relationship-manager-at-yes-bank-4448635074",
       "description": "",
-      "posted": "2026-10-31T20:44:05.903425+00:00",
-      "scraped_at": "2026-10-31T20:44:05.903427+00:00",
+      "posted": "2026-11-01T02:54:08.340330+00:00",
+      "scraped_at": "2026-11-01T02:54:08.340331+00:00",
       "tags": []
     },
     {
@@ -466,8 +481,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/sales-executive-at-asian-paints-4484823541",
       "description": "",
-      "posted": "2026-10-31T20:44:05.903305+00:00",
-      "scraped_at": "2026-10-31T20:44:05.903306+00:00",
+      "posted": "2026-11-01T02:54:08.340229+00:00",
+      "scraped_at": "2026-11-01T02:54:08.340230+00:00",
       "tags": [
         "Sales"
       ]
@@ -480,8 +495,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/deputy-general-manager-thermal-projects-planning-at-adani-power-limited-4483600157",
       "description": "",
-      "posted": "2026-10-31T20:44:05.903182+00:00",
-      "scraped_at": "2026-10-31T20:44:05.903183+00:00",
+      "posted": "2026-11-01T02:54:08.340138+00:00",
+      "scraped_at": "2026-11-01T02:54:08.340139+00:00",
       "tags": []
     },
     {
@@ -492,8 +507,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/state-head-at-netambit-4482586924",
       "description": "",
-      "posted": "2026-10-31T20:44:05.903059+00:00",
-      "scraped_at": "2026-10-31T20:44:05.903061+00:00",
+      "posted": "2026-11-01T02:54:08.340043+00:00",
+      "scraped_at": "2026-11-01T02:54:08.340044+00:00",
       "tags": []
     },
     {
@@ -504,8 +519,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/human-resource-manager-in-guwahati-at-sargam-ventures-private-limited-4485262545",
       "description": "",
-      "posted": "2026-10-31T20:44:05.902935+00:00",
-      "scraped_at": "2026-10-31T20:44:05.902936+00:00",
+      "posted": "2026-11-01T02:54:08.339949+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339949+00:00",
       "tags": []
     },
     {
@@ -516,8 +531,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/interior-designer-at-livspace-4484193370",
       "description": "",
-      "posted": "2026-10-31T20:44:05.902810+00:00",
-      "scraped_at": "2026-10-31T20:44:05.902811+00:00",
+      "posted": "2026-11-01T02:54:08.339853+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339854+00:00",
       "tags": []
     },
     {
@@ -528,8 +543,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/india-general-manager-at-viking-4392749564",
       "description": "",
-      "posted": "2026-10-31T20:44:05.902674+00:00",
-      "scraped_at": "2026-10-31T20:44:05.902675+00:00",
+      "posted": "2026-11-01T02:54:08.339755+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339757+00:00",
       "tags": []
     },
     {
@@ -540,8 +555,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/designer-at-gamosa-co-4484154741",
       "description": "",
-      "posted": "2026-10-31T20:44:05.902550+00:00",
-      "scraped_at": "2026-10-31T20:44:05.902552+00:00",
+      "posted": "2026-11-01T02:54:08.339658+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339659+00:00",
       "tags": []
     },
     {
@@ -552,8 +567,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/business-development-executive-%E2%80%94-field-sales-at-growthcraft-4482590650",
       "description": "",
-      "posted": "2026-10-31T20:44:05.902417+00:00",
-      "scraped_at": "2026-10-31T20:44:05.902418+00:00",
+      "posted": "2026-11-01T02:54:08.339562+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339563+00:00",
       "tags": [
         "Sales"
       ]
@@ -566,8 +581,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/program-coordinator-at-yosaid-innovation-foundation-4484940024",
       "description": "",
-      "posted": "2026-10-31T20:44:05.902281+00:00",
-      "scraped_at": "2026-10-31T20:44:05.902283+00:00",
+      "posted": "2026-11-01T02:54:08.339455+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339456+00:00",
       "tags": []
     },
     {
@@ -578,8 +593,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/assistant-manager-ehs-at-adani-total-gas-4483883108",
       "description": "",
-      "posted": "2026-10-31T20:44:05.902149+00:00",
-      "scraped_at": "2026-10-31T20:44:05.902150+00:00",
+      "posted": "2026-11-01T02:54:08.339357+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339358+00:00",
       "tags": []
     },
     {
@@ -590,8 +605,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/senior-service-engineer-area-service-manager-at-hidromas-india-4483934494",
       "description": "",
-      "posted": "2026-10-31T20:44:05.902023+00:00",
-      "scraped_at": "2026-10-31T20:44:05.902024+00:00",
+      "posted": "2026-11-01T02:54:08.339259+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339260+00:00",
       "tags": [
         "IT/Tech"
       ]
@@ -604,8 +619,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/guest-service-associate-at-radisson-hotel-group-4485693047",
       "description": "",
-      "posted": "2026-10-31T20:44:05.901895+00:00",
-      "scraped_at": "2026-10-31T20:44:05.901896+00:00",
+      "posted": "2026-11-01T02:54:08.339148+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339149+00:00",
       "tags": []
     },
     {
@@ -616,23 +631,9 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/duty-terminal-manager-at-adani-airport-holdings-ltd-4466509582",
       "description": "",
-      "posted": "2026-10-31T20:44:05.901762+00:00",
-      "scraped_at": "2026-10-31T20:44:05.901764+00:00",
+      "posted": "2026-11-01T02:54:08.339047+00:00",
+      "scraped_at": "2026-11-01T02:54:08.339048+00:00",
       "tags": []
-    },
-    {
-      "id": "3bda3089f6",
-      "title": "Medical Business Associate -  Guwahati",
-      "company": "GSK",
-      "location": "Guwahati, Assam, India",
-      "source": "LinkedIn",
-      "url": "https://in.linkedin.com/jobs/view/medical-business-associate-guwahati-at-gsk-4478254945",
-      "description": "",
-      "posted": "2026-10-31T20:44:05.901613+00:00",
-      "scraped_at": "2026-10-31T20:44:05.901615+00:00",
-      "tags": [
-        "Healthcare"
-      ]
     },
     {
       "id": "7c0262d4f1",
@@ -642,8 +643,8 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/territory-manager-sale-retail-at-legrand-4483016942",
       "description": "",
-      "posted": "2026-10-31T20:44:05.901469+00:00",
-      "scraped_at": "2026-10-31T20:44:05.901471+00:00",
+      "posted": "2026-11-01T02:54:08.338933+00:00",
+      "scraped_at": "2026-11-01T02:54:08.338935+00:00",
       "tags": []
     },
     {
@@ -654,16 +655,16 @@
       "source": "LinkedIn",
       "url": "https://in.linkedin.com/jobs/view/hotel-reservations-reservations-coordinator-at-radisson-hotel-group-4484046099",
       "description": "",
-      "posted": "2026-10-31T20:44:05.901269+00:00",
-      "scraped_at": "2026-10-31T20:44:05.901283+00:00",
+      "posted": "2026-11-01T02:54:08.338762+00:00",
+      "scraped_at": "2026-11-01T02:54:08.338778+00:00",
       "tags": []
     }
   ],
-  "last_updated": "2026-10-31T20:44:34.807997+00:00",
+  "last_updated": "2026-11-01T02:54:36.088458+00:00",
   "total": 52,
   "sources": [
     "LinkedIn",
-    "Shine",
-    "Internshala"
+    "Internshala",
+    "Shine"
   ]
 }
